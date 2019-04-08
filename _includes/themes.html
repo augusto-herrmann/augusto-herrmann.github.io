@@ -1,0 +1,15 @@
+<section class="secondary-color" id="themes">
+  <div class="container">
+   <h2> <i class="far fa-comment"></i> {{ page.themes_heading }} </h2>
+   <div class="row">
+   {% for theme in page.themes %}
+   <div class="col item theme">
+   <div class="content">
+   {{ theme | markdownify }}
+   </div>
+   </div>
+   {% endfor %}
+   </div>
+  </div>
+</section>
+

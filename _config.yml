@@ -1,0 +1,10 @@
+title: herrmann.tech
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+    parse_block_html: false
+
+baseurl: /
+
