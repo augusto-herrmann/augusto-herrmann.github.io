@@ -12,19 +12,19 @@ themes:
   - |
     ### open data
     
-    open data pioneer, he has conceived and implemented the [Brazilian federal
+    open data pioneer, conceived and implemented the [Brazilian federal
     government open data policy](http://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
     from scratch in 2010 to [respectable positions in international rankings](https://index.okfn.org/place/br/)
   - |
     ### open government
     
-    he has made contributions on open data to all of the 4 Brazilian action
+    made contributions on open data to all of the 4 Brazilian action
     plans in the [Open Government Partnership](https://www.opengovpartnership.org/),
     from drafting to excecution of commitments
   - |
     ### citizen participation
     
-    he has coordinated the first ever [collaborative crafting](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
+    coordinated the first ever [collaborative crafting](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     in the world of a government portal, open to participation of any citizen
   - |
     ### machine learning
