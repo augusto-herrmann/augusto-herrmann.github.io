@@ -121,6 +121,10 @@ html.default section {
   padding: 5em 2em;
 }
 
+html.default section h2 {
+  margin-bottom: 1em;
+}
+
 .item {
   position: relative;
 }
@@ -172,10 +176,15 @@ html.default section {
 }
 
 #talks {
-  position: relative;
+    padding: 0;
 }
 
-#talks::before {
+#talks .long-h {
+  position: relative;
+  padding: 14em 2em 2em;
+}
+
+#talks .long-h::before {
   content: "";
   position: absolute;
   top: 0; left: 0;
@@ -186,7 +195,7 @@ html.default section {
   filter: brightness(.3);
 }
 
-#talks .container {
+#talks .long-h .container {
  /* This will make it stack on top of the ::before */
   position: relative;
 }

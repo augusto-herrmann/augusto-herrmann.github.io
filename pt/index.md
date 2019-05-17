@@ -56,9 +56,15 @@ themes:
 </section>
 
 <section id="talks">
+<div class="long-h">
 <div class="container">
 
 ## *﻿*{: .fas .fa-microphone-alt} Palestras
+
+</div>
+</div>
+<div class="secondary-color">
+<div class="container">
 
 <div class="row">
 
@@ -117,6 +123,7 @@ themes:
 
 </div>
 
+</div>
 </div>
 </section>
 
