@@ -175,6 +175,11 @@ html.default section h2 {
   position: relative;
 }
 
+#blog {
+  color: black;
+  background-color: white;
+}
+
 #talks {
     padding: 0;
 }
