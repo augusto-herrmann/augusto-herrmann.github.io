@@ -1,0 +1,37 @@
+World Bank event
+Let's Talk Data: Does Open Data Have an Identity Crisis?
+20/05/2019 12:30 GMT-3
+
+State of Open Data book released last Friday:
+https://stateofopendata.od4d.net/
+
+Tim Davies got through each chapter of the book in reverse order
+
+Tim Davies:
+* new challenges to deal with privacy and personal data without reinforcing the
+  old practices of holding on to data under a power and fear rationale
+
+Anat Lewin:
+* open data policy needs to be a whole-of-government approach, and not isolated silos
+* people need to work with open data as a part of their expected job, not an additional
+thing on top of the regular job
+* capacity building for both the supply side and demand side of data
+* data literacy needs to be part of the mainline education program
+
+Tim Davies:
+* the open contracting data standard began at the World Bank, Tim Davies worked on it
+* quantify the additional percentage you get when you are more open
+
+Anat Lewin:
+* data that you would normally not think of privacy issues become so depending of
+  the sample size: e.g. hotel occupancy in small countries in the Caribbean
+
+Question from the audience:
+* citizen "armchair auditors" has been debunked (?)
+
+Tim Davies:
+* many business using open data don't like to reveal that they do because there
+  is a lower barrier to entry
+* the "armchair auditor" is possible in a long tail form. When people get
+  frustrated enough with government they will dive into the data
+
