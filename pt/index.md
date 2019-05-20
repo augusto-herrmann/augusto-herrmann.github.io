@@ -60,8 +60,9 @@ themes:
 
 ## *﻿*{: .fas .fa-pencil-alt} Blog
 
-* item 1
-* item 2
+{% for post in site.posts %}
+* [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
 
 </div>
 </section>

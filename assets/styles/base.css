@@ -113,6 +113,7 @@ h1, h2, h3, h4, h5 {
 */
 
 html.default main,
+html.post main,
 html.default footer {
   width: 100%;
 }
@@ -180,6 +181,12 @@ html.default section h2 {
   background-color: white;
 }
 
+#blog a,
+#blog a:focus,
+#blog a:hover {
+  color: black;
+}
+
 #talks {
     padding: 0;
 }
@@ -232,7 +239,7 @@ body.cover {
   max-width: 30em;
 }
 
-main.cover:before {
+main.cover::before {
   content: '';
   position: absolute;
   top: 0;
@@ -353,4 +360,63 @@ main.cover .button2 {
 }
 main.cover > .row {
   margin-top: 1em;
+}
+
+/**
+ ** Posts
+**/
+
+html.post body {
+  color: black;
+  background: white;
+}
+
+html.post a,
+html.post a:focus,
+html.post a:hover {
+  color: #734932;
+}
+
+html.post article {
+  background: white;
+}
+
+html.post article .heading {
+  width: 100%;
+  background: black;
+  position: relative;
+  padding: 14em 2em 2em;
+}
+
+html.post article .heading::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: brightness(.3);
+}
+
+html.post article .heading .container {
+ /* This will make it stack on top of the ::before */
+  position: relative;
+}
+
+html.post article h1 {
+  color: white;
+  margin-bottom: 1em;
+}
+
+html.post article h1.inverted {
+  color: black;
+}
+
+html.post article .content {
+  padding: 5em 2em;
+}
+
+html.post article img.wide {
+  width: 100%;
 }
