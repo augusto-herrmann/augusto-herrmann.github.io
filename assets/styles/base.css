@@ -413,10 +413,18 @@ html.post article h1.inverted {
   color: black;
 }
 
+html.post .metadata {
+  float: right;
+}
+
 html.post article .content {
   padding: 5em 2em;
 }
 
+html.post article .content p {
+  text-align: justify;
+  hyphens: auto;
+}
 html.post article img.wide {
   width: 100%;
 }

@@ -60,9 +60,13 @@ themes:
 
 ## *﻿*{: .fas .fa-pencil-alt} Blog
 
-{% for post in site.posts %}
+{% assign posts=site.posts | where:"lang", page.lang %}
+
+<div class="row">
+{% for post in posts %}
 * [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
+</div>
 
 </div>
 </section>

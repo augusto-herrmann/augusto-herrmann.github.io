@@ -52,6 +52,22 @@ themes:
 </div>
 </section>
 
+<section id="blog">
+<div class="container">
+
+## *﻿*{: .fas .fa-pencil-alt} Blog
+
+{% assign posts=site.posts | where:"lang", page.lang %}
+
+<div class="row">
+{% for post in posts %}
+* [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+</div>
+
+</div>
+</section>
+
 <section id="talks">
 <div class="long-h">
 <div class="container">
