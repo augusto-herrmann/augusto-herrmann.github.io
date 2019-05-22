@@ -3,7 +3,7 @@ published: true
 permalink: /pt/
 layout: default
 filename: index.md
-title: herrmann.tech – Augusto Herrmann
+title: Augusto Herrmann
 lang: pt
 ref: index
 desc: Criando valor público de a partir dos dados.

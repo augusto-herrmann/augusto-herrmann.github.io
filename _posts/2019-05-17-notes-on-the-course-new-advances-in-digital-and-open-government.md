@@ -4,7 +4,7 @@ title: "Notes on the course: new advances in digital and open government"
 lang: en
 ref: 2019-05-17-notes-on-the-course-new-advances-in-digital-and-open-government
 cover: /assets/images/2019/05/banner-marijin.jpg
-categories: open government, shared services, innovation, enterprise architecture
+tags: [open government, shared services, innovation, enterprise architecture]
 ---
 
 This week, once again, we were participating in the course
