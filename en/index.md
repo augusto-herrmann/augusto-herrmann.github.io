@@ -12,9 +12,11 @@ themes:
   - |
     ### open data
     
-    open data pioneer, conceived and implemented the [Brazilian federal
-    government open data policy](http://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
-    from scratch in 2010 to [respectable positions in international rankings](https://index.okfn.org/place/br/)
+    open data enthusiast since 2009, conceived and implemented the
+    [Brazilian federal government open data policy](http://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
+    from scratch in 2010 to the [8th]((https://index.okfn.org/place/br/)) and
+    [14th](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
+    positions in international rankings
   - |
     ### open government
     

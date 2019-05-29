@@ -12,10 +12,11 @@ themes:
   - |
     ### dados abertos
     
-    pioneiro dos dados abertos, concebeu e implementou a [Política de Dados
+    entusiasta dos dados abertos desde 2009, concebeu e implementou a [Política de Dados
     abertos do poder executivo federal](http://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
-    partindo do zero em 2010 até alcançar [posições respeitáveis em rankings
-    internacionais](https://index.okfn.org/place/br/)
+    partindo do zero em 2010 até alcançar a [8ª](https://index.okfn.org/place/br/) e a
+    [14ª](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
+    posições em rankings internacionais
   - |
     ### governo aberto
     
@@ -25,7 +26,8 @@ themes:
   - |
     ### participação cidadã
     
-    coordenou a primeira [construção colaborativa](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
+    coordenou a primeira
+    [construção colaborativa](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     no mundo de um portal de governo, aberta à participação de
     qualquer cidadão
   - |
