@@ -26,7 +26,7 @@ themes:
   - |
     ### participação cidadã
     
-    coordenou a primeira
+    participou da condução da primeira
     [construção colaborativa](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     no mundo de um portal de governo, aberta à participação de
     qualquer cidadão

@@ -26,7 +26,8 @@ themes:
   - |
     ### citizen participation
     
-    coordinated the first ever [collaborative crafting](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
+    took part in driving the first ever
+    [collaborative crafting](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     in the world of a government portal, open to participation of any citizen
   - |
     ### machine learning
