@@ -81,7 +81,10 @@ para lidar com esse duplo desafio. O Prof. Janssen apresentou algumas
 [estratégias para conseguir isso](https://sloanreview.mit.edu/article/building-ambidexterity-into-an-
 organization/).
 
-![Professor Janssen explicando serviços compartilhados]({{ 'assets/images/2019/05/marijn-janssen-shared-services.jpg' | relative_url }}){: .wide}
+<figure markdown="1" class="wide">
+![Professor Janssen explicando serviços compartilhados]({{ 'assets/images/2019/05/marijn-janssen-shared-services.jpg' | relative_url }}  "Janssen, Marijn & Joha, Anton (2004). De Onzekere Belofte van het Shared-servicecenter. Vol. 46, No.6, pp. 26-31 (PDF).")
+<figcaption>Janssen, Marijn & Joha, Anton (2004). <span lang="nl">De Onzekere Belofte van het Shared-servicecenter.</span> Vol. 46, No.6, pp. 26-31 (PDF).</figcaption>
+</figure>
 
 Isso nos leva a pensar no assunto do terceiro dia, a arquitetura corporativa
 (AC). Como se estrutura a organização para enfrentar os desafios da

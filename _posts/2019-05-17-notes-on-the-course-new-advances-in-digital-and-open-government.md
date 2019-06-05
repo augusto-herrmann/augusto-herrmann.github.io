@@ -79,7 +79,10 @@ to handle that double challenge. Prof. Janssen presented some
 [strategies to accomplish this](https://sloanreview.mit.edu/article/building-ambidexterity-into-an-
 organization/).
 
-![Professor Janssen explaining shared services]({{ 'assets/images/2019/05/marijn-janssen-shared-services.jpg' | relative_url }}){: .wide}
+<figure markdown="1" class="wide">
+![Professor Janssen explaining shared services]({{ 'assets/images/2019/05/marijn-janssen-shared-services.jpg' | relative_url }} "Janssen, Marijn & Joha, Anton (2004). De Onzekere Belofte van het Shared-servicecenter. Vol. 46, No.6, pp. 26-31 (PDF).")
+<figcaption>Janssen, Marijn & Joha, Anton (2004). <span lang="nl">De Onzekere Belofte van het Shared-servicecenter.</span> Vol. 46, No.6, pp. 26-31 (PDF).</figcaption>
+</figure>
 
 That brings us to think about the subject of the third day, enterprise
 architecture (EA). How do you structure your organization to face the
