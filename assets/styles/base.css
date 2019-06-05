@@ -425,6 +425,15 @@ html.post article .content p {
   text-align: justify;
   hyphens: auto;
 }
+
+html.post article figure.wide img {
+  width: 100%;
+}
+
 html.post article img.wide {
   width: 100%;
+}
+
+html.post article figure figcaption {
+  color: gray;
 }
