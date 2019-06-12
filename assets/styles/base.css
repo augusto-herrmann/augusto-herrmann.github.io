@@ -400,7 +400,7 @@ html.post article .heading {
   width: 100%;
   background: black;
   position: relative;
-  padding: 14em 2em 2em;
+  padding: 4em 2em 2em;
 }
 
 html.post article .heading::before {
@@ -433,6 +433,10 @@ html.post article .heading {
 
 html.post article .heading.inverted {
   color: black;
+}
+
+html.post article .title {
+  margin-top: 4em;
 }
 
 html.post article h1 {
