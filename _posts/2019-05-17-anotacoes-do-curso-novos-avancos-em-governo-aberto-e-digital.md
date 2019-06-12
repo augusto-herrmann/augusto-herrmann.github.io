@@ -6,6 +6,11 @@ lang: pt
 ref: 2019-05-17-notes-on-the-course-new-advances-in-digital-and-open-government
 cover: /assets/images/2019/05/banner-marijin.jpg
 tags: [governo aberto, serviços compartilhados, inovação, arquitetura corporativa]
+desc: >-
+  Anotações realizadas por Augusto Herrmann durante a sua participação no curso
+  Novos Avanços em Governo Aberto e Digital, realizado na semana de 13 a 17 de
+  maio de 2019, na Enap, ministrado pelo Prof. Dr. Marijn Janssen da Delft
+  Technical University nos Países Baixos.
 ---
 
 Esta semana, mais uma vez, participamos do curso
