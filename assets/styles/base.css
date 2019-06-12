@@ -403,6 +403,13 @@ html.post article .heading {
   padding: 4em 2em 3em;
 }
 
+/* Give some more room to fit the text on small screens */
+
+@media (max-width: 48em) {
+  html.post article .heading {
+  padding-bottom: 5em;
+}
+
 html.post article .heading::before {
   content: "";
   position: absolute;
