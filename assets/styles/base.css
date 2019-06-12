@@ -400,7 +400,7 @@ html.post article .heading {
   width: 100%;
   background: black;
   position: relative;
-  padding: 4em 2em 2em;
+  padding: 4em 2em 3em;
 }
 
 html.post article .heading::before {

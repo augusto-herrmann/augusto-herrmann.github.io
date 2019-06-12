@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anotações do curso: novos avanços em governo aberto e digital"
+author: "Augusto Herrmann"
 lang: pt
 ref: 2019-05-17-notes-on-the-course-new-advances-in-digital-and-open-government
 cover: /assets/images/2019/05/banner-marijin.jpg

@@ -4,7 +4,15 @@ title: herrmann.tech
 markdown: kramdown
 
 kramdown:
-    parse_block_html: false
+  parse_block_html: false
 
 baseurl: /
+
+t:
+  en:
+    by: "by"
+    when: "on"
+  pt:
+    by: "por"
+    when: "em"
 

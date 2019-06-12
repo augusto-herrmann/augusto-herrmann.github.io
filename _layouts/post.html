@@ -18,7 +18,18 @@
       <div class="title container">
         <h1>{{ page.title }}</h1>
         <div class="metadata">
-          {{ page.date | date: "%-d/%m/%Y" }}
+          <span class="author">
+            {{ site.t[page.lang].by }}
+            {{ page.author }}
+          </span>
+          <span class="date">
+            {{ site.t[page.lang].when }}
+            {% if page.lang == 'en' %}
+              {{ page.date | date: "%B %-d, %Y" }}
+            {% else %}
+              {{ page.date | date: "%-d/%m/%Y" }}
+            {% endif %}
+          </span>
         </div>
       </div>
     </div>

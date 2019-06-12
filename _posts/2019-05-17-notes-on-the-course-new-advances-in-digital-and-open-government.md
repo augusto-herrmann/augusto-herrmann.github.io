@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on the course: new advances in digital and open government"
+author: "Augusto Herrmann"
 lang: en
 ref: 2019-05-17-notes-on-the-course-new-advances-in-digital-and-open-government
 cover: /assets/images/2019/05/banner-marijin.jpg
