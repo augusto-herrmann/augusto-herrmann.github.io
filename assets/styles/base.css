@@ -427,11 +427,15 @@ html.post article .content p {
 }
 
 html.post article figure.wide img {
-  width: 100%;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
 }
 
 html.post article img.wide {
-  width: 100%;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
 }
 
 html.post article figure figcaption {
