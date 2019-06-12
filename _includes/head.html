@@ -13,7 +13,23 @@
     
     <!-- Our own CSS -->
     <link rel="stylesheet" href="{{ 'assets/styles/base.css' | relative_url }}">
-
+    
+    <!-- alternative languages, if any -->
+    {% if page.ref %}
+      {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+      {% for post in posts %}
+        {% if post.lang != page.lang %}
+          <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url | relative_url }}" />
+        {% endif %}
+      {% endfor %}
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% for each-page in pages %}
+        {% if each-page.lang != page.lang %}
+          <link rel="alternate" hreflang="{{ each-page.lang }}" href="{{ each-page.url | relative_url }}" />
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    
     <title>{{ page.title }} – herrmann.tech</title>
     <meta name="description" content="{{ page.desc }}">
     <meta name="author" content="Augusto Herrmann">
