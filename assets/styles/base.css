@@ -381,6 +381,13 @@ html.post article {
   background: white;
 }
 
+/* Make fonts larger on large screens to improve readability */
+@media (min-width: 48em) {
+  html.post article {
+    font-size: 1.4rem;
+  }
+}
+
 html.post article .heading {
   width: 100%;
   background: black;
@@ -407,6 +414,13 @@ html.post article .heading .container {
 html.post article h1 {
   color: white;
   margin-bottom: 1em;
+}
+
+/* Make fonts larger on large screens to improve readability */
+@media (min-width: 48em) {
+  html.post article h1 {
+    font-size: 3rem;
+  }
 }
 
 html.post article h1.inverted {
