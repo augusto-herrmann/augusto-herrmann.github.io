@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Tokens e atribulações"
+lang: pt
+ref: 2019-06-12-tokens-and-atribulations
+cover: /assets/images/2019/06/brina-blum-156977-unsplash.jpg
+tags: [certificado digital, ICP Brasil, token criptográfico]
+---
 
 Após quinze anos acompanhando de longe a evolução da Infraestrutura de Chaves
 Públicas Brasileira – ICP Brasil, enfim, adquiri um certificado próprio. E, com
