@@ -12,7 +12,9 @@ t:
   en:
     by: "by"
     when: "on"
+    image: "image by"
   pt:
     by: "por"
     when: "em"
+    image: "imagem"
 

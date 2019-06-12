@@ -11,6 +11,7 @@ desc: >-
   Novos Avanços em Governo Aberto e Digital, realizado na semana de 13 a 17 de
   maio de 2019, na Enap, ministrado pelo Prof. Dr. Marijn Janssen da Delft
   Technical University nos Países Baixos.
+image-credits: "divulgação Enap"
 ---
 
 Esta semana, mais uma vez, participamos do curso
