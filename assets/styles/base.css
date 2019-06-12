@@ -467,6 +467,18 @@ html.post article .content p {
   hyphens: auto;
 }
 
+/* Make images as wide as the text */
+
+html.post article figure.text-wide img {
+  width: 100%;
+}
+
+html.post article img.text-wide {
+  width: 100%;
+}
+
+/* Make images screen wide across the screen */
+
 html.post article figure.wide img {
   width: 100vw;
   margin-left: calc(50% - 50vw);
