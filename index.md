@@ -10,6 +10,6 @@ desc: Augusto Herrmann's personal webpage.
 
 {% include profiles.md %}
 
-[🇬🇧 English](en/){: .btn .btn-lg .btn-secondary .button1}
-[🇧🇷 Português](pt/){: .btn .btn-lg .btn-secondary .button2}
+[English](en/){: .btn .btn-lg .btn-secondary .btn-en .button1}
+[Português](pt/){: .btn .btn-lg .btn-secondary .btn-pt .button2}
 

@@ -19,6 +19,14 @@ a:hover {
   border: .05rem solid #fff;
 }
 
+.btn-en:before {
+  content: '🇬🇧 ';
+}
+
+.btn-pt:before {
+  content: '🇧🇷 ';
+}
+
 /* Typography */
 
 @font-face {
@@ -411,8 +419,23 @@ html.post article .heading .container {
   position: relative;
 }
 
-html.post article h1 {
+html.post article .heading .languages {
+  text-align: right;
+}
+
+html.post article .heading .languages ul {
+  list-style-type: none;
+}
+
+html.post article .heading {
   color: white;
+}
+
+html.post article .heading.inverted {
+  color: black;
+}
+
+html.post article h1 {
   margin-bottom: 1em;
 }
 
