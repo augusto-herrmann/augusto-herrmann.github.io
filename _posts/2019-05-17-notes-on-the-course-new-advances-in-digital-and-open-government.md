@@ -29,8 +29,10 @@ encourage further discussions. It is also an opportunity to write about some
 related issues and show examples that a lot of people might not have heard
 before.
 
-![The class of the open government course works on an assignment]({{ 'assets/images/2019/05/open-government-course-class.jpg' | relative_url }}){: .wide}
-
+<figure markdown="1" class="wide">
+![The class of the open government course works on an assignment]({{ 'assets/images/2019/05/open-government-course-class.jpg' | relative_url }})
+<figcaption>The class of the open government course works on an assignment.</figcaption>
+</figure>
 
 The first day of the course began with a review of what constitutes the
 concept of open government, highlighting five pillars: openness, transparency,
@@ -70,7 +72,10 @@ over the business units. The first is often inflexible and slow to change, but
 highly efficient. The second is close to the user and can react faster to
 changing needs, but will inevitably waste resources on redundant work.
 
-![Diagram explaining the benefits of shared services center, adapted from Prof. Janssen's presentation slides]({{ 'assets/images/2019/05/shared-service-benefits.svg' | relative_url }}){: .wide}
+<figure markdown="1" class="text-wide">
+![Diagram explaining the benefits of shared services center, adapted from Prof. Janssen's presentation slides]({{ 'assets/images/2019/05/shared-service-benefits.svg' | relative_url }})
+<figcaption>Diagram explaining the benefits of shared services center, adapted from Prof. Janssen's presentation slides.</figcaption>
+</figure>
 
 Is it possible to balance the exploitation of existing capabilities when
 exploring new opportunities? Organizations need

@@ -28,8 +28,10 @@ de evitar que eles se esvaiam e encorajar mais discussões. É também uma
 oportunidade de escrever sobre algumas questões relacionadas e mostrar exemplos
 que muitas pessoas podem não ter ouvido falar antes.
 
-![A turma do curso de governo aberto trabalha em um exercício]({{ 'assets/images/2019/05/open-government-course-class.jpg' | relative_url }}){: .wide}
-
+<figure markdown="1" class="wide">
+![A turma do curso de governo aberto trabalha em um exercício]({{ 'assets/images/2019/05/open-government-course-class.jpg' | relative_url }})
+<figcaption>A turma do curso de governo aberto trabalha em um exercício.</figcaption>
+</figure>
 
 O primeiro dia do curso começou com uma revisão do que constitui o conceito de
 governo aberto, salientando cinco pilares: abertura, transparência,
@@ -72,7 +74,10 @@ mas altamente eficiente. A segunda é próxima do usuário e pode reagir mais
 rápido às necessidades que mudam, mas inevitavelmente desperdiçará recursos em
 trabalho redundante.
 
-![Diagrama explicando os benefícios de uma central de serviços compartilhados, adaptada da apresentação de slides do Prof. Janssen]({{ 'assets/images/2019/05/beneficios-servicos-compartilhados.svg' | relative_url }}){: .wide}
+<figure markdown="1" class="text-wide">
+![Diagrama explicando os benefícios de uma central de serviços compartilhados, adaptada da apresentação de slides do Prof. Janssen]({{ 'assets/images/2019/05/beneficios-servicos-compartilhados.svg' | relative_url }})
+<figcaption>Diagrama explicando os benefícios de uma central de serviços compartilhados, adaptada da apresentação de slides do Prof. Janssen.</figcaption>
+</figure>
 
 É possível equilibrar a exploração de capacidades existentes ao explorar novas
 oportunidades? As organizações precisam de
