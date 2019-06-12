@@ -31,8 +31,17 @@
     {% endif %}
     
     <title>{{ page.title }} – herrmann.tech</title>
-    <meta name="description" content="{{ page.desc }}">
-    <meta name="author" content="Augusto Herrmann">
+    {% if page.desc %}
+      <meta name="description" content="{{ page.desc }}">
+    {% else %}
+      <meta name="description" content="A page or article on herrmann.tech website.">
+    {% endif %}
+    {% if page.author %}
+      <meta name="author" content="{{ page.author }}">
+    {% else %}
+      <meta name="author" content="Augusto Herrmann">
+    {% endif %}
+
     <meta name="generator" content="Jekyll 3.8.5">
     
     <style type="text/css">
