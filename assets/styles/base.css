@@ -508,3 +508,9 @@ html.post article img.wide {
 html.post article figure figcaption {
   color: gray;
 }
+
+html.post article blockquote {
+  padding-left: 1rem;
+  border-left: 0.5rem solid gray;
+}
+
