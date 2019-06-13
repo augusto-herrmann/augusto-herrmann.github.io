@@ -407,7 +407,8 @@ html.post article .heading {
 
 @media (max-width: 48em) {
   html.post article .heading {
-  padding-bottom: 5em;
+    padding-bottom: 5em;
+  }
 }
 
 html.post article .heading::before {
