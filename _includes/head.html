@@ -30,6 +30,7 @@
       {% endfor %}
     {% endif %}
     
+    <!-- metadata -->
     <title>{{ page.title }} – herrmann.tech</title>
     {% if page.desc %}
       <meta name="description" content="{{ page.desc }}">
@@ -43,6 +44,13 @@
     {% endif %}
 
     <meta name="generator" content="Jekyll 3.8.5">
+    
+    <!-- atom feed -->
+    {% if page.category %}
+      <link type="application/atom+xml" rel="alternate" href="{{ 'feed' | relative_url }}/{{ page.category[0] }}.xml" title="herrmann.tech Atom feed" />
+    {% else %}
+      <link type="application/atom+xml" rel="alternate" href="{{ 'feed.xml' | relative_url }}" title="herrmann.tech Atom feed" />
+    {% endif %}
     
     <style type="text/css">
       html.post article .heading::before {

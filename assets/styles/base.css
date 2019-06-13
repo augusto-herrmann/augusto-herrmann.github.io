@@ -31,12 +31,12 @@ a:hover {
 
 @font-face {
   font-family: opensans;
-  src: url('../fonts/opensans/OpenSans-Regular.ttf');
+  src: url('{{ "assets/fonts/opensans/OpenSans-Regular.ttf" | relative_url }}');
 }
 
 @font-face {
   font-family: breeserif;
-  src: url('../fonts/breeserif/BreeSerif-Regular.ttf')
+  src: url('{{ "assets/fonts/breeserif/BreeSerif-Regular.ttf" | relative_url }}')
 }
 
 /*
@@ -172,7 +172,7 @@ html.default section h2 {
   position: absolute;
   top: 0; left: 0;
   width: 100%; height: 100%;
-  background-image: url('../images/unsplash/jonathan-brinkhorst-678155-unsplash.jpg');
+  background-image: url('{{ "assets/images/unsplash/jonathan-brinkhorst-678155-unsplash.jpg" | relative_url }}');
   /* Photo by Jonathan Brinkhorst on Unsplash */
   background-size: cover;
   background-repeat: no-repeat;
@@ -209,7 +209,7 @@ html.default section h2 {
   position: absolute;
   top: 0; left: 0;
   width: 100%; height: 100%;
-  background-image: url('../images/palestras.jpg');
+  background-image: url('{{ "assets/images/palestras.jpg" | relative_url }}');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -236,7 +236,7 @@ body.cover {
   color: #e2dde1;
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
-  background-image: url('../images/mountain-top.jpg');
+  background-image: url('{{ "assets/images/mountain-top.jpg" | relative_url }}');
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #3672a8;

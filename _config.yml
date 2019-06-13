@@ -6,7 +6,15 @@ markdown: kramdown
 kramdown:
   parse_block_html: false
 
+plugins:
+  - jekyll-feed
+
 baseurl: /
+
+feed:
+  categories:
+    - en
+    - pt
 
 t:
   en:

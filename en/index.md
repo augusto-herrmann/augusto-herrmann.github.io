@@ -6,6 +6,7 @@ filename: index.md
 title: Augusto Herrmann
 lang: en
 ref: index
+category: [en]
 desc: Creating public value from data.
 themes_heading: Subjects
 themes:

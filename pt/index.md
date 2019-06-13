@@ -6,6 +6,7 @@ filename: index.md
 title: Augusto Herrmann
 lang: pt
 ref: index
+category: [pt]
 desc: Criando valor público de a partir dos dados.
 themes_heading: Assuntos
 themes:
