@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "Tokens e atribulações"
+author: "Augusto Herrmann"
 lang: pt
 ref: 2019-06-12-tokens-and-atribulations
-cover: /assets/images/2019/06/brina-blum-156977-unsplash.jpg
+category: [pt, blog]
 tags: [certificado digital, ICP Brasil, token criptográfico]
+cover: /assets/images/2019/06/brina-blum-156977-unsplash.jpg
+desc: >-
+  Tutorial com o passo a passo para instalar e usar o token criptográfico
+  GD Starsign no sistema operacional Ubuntu 18.04.2 LTS.
+image-credits: "Brina Blum / Unsplash"
 ---
 
 Após quinze anos acompanhando de longe a evolução da Infraestrutura de Chaves
