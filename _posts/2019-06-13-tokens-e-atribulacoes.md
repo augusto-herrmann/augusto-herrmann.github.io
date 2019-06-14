@@ -3,7 +3,7 @@ layout: post
 title: "Tokens e atribulações"
 author: "Augusto Herrmann"
 lang: pt
-ref: 2019-06-12-tokens-and-atribulations
+ref: 2019-06-13-tokens-and-tribulations
 category: [pt, blog]
 tags: [certificado digital, ICP Brasil, token criptográfico]
 cover: /assets/images/2019/06/brina-blum-156977-unsplash.jpg
