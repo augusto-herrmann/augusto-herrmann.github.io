@@ -164,7 +164,7 @@ No Firefox (para referência, estamos usando a versão 67), abra o menu sanduíc
 e selecione preferências. Alternativamente, pode-se digitar `about:preferences`
 na barra de endereços. Selecione o menu "Privacidade e Segurança" na coluna
 esquerda. A configuração do token está na última opção, "dispositivos de
-segurança.
+segurança".
 
 ![Imagem de tela de configurações do Firefox, salientando a opção "dispositivos
 de segurança"]({{ 'assets/images/2019/06/firefox-dispositivos-de-seguranca.gif' | relative_url }})
@@ -254,7 +254,7 @@ selecione o arquivo com extensão `.cer`, que foi exportado na etapa anterior.
 
 Serão então mostrado os principais dados do certificado (nome, autoridade
 certificadora, data de expiração). Clique o botão importar. A patir de agora,
-o certificado deve aparecer entre as opções do LibreOffice
+o certificado deve aparecer entre os disponíveis ao LibreOffice.
 
 #### Bug no Ubuntu 18.04.2 LTS
 
@@ -296,9 +296,9 @@ Os processos administrativos são cojuntos de documentos oficiais, que muitas
 vezes precisam ser assinados pela parte interessada ou pelo autor do ato
 oficial, como forma de garantir a sua autoria e autenticidade como
 representação da manifestação de intenção do assinante. Na transição para o
-meio digital, é necessário encontrar uma forma de estabelecer uma garantia à
-assinatura em papel. Foi com esse objetivo que foi criada, em 2001, a
-Infraestrutura de Chaves Públicas Brasileira – ICP Brasil, por meio da
+meio digital, é necessário encontrar uma forma de estabelecer uma garantia
+semelhante à assinatura em papel. Foi com esse objetivo que foi criada, em
+2001, a Infraestrutura de Chaves Públicas Brasileira – ICP Brasil, por meio da
 [Medida Provisória 2.200-2](https://www.lexml.gov.br/urn/urn:lex:br:federal:medida.provisoria:2001-08-24;2200-2).
 Ela estabelece a validade jurídica das assinaturas digitais realizadas com
 um certificado da ICP Brasil (art. 1º).
