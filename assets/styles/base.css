@@ -491,6 +491,17 @@ html.post article img.text-wide {
   width: 100%;
 }
 
+/* But no image should add horizontal scrolling to the page */
+
+html.post article figure img {
+  max-width: 100%;
+}
+
+html.post article img {
+  max-width: 100%;
+}
+
+
 /* Make images screen wide across the screen */
 
 html.post article figure.wide img {
