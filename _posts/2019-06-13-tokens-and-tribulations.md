@@ -13,10 +13,10 @@ desc: >-
 image-credits: "Brina Blum / Unsplash"
 ---
 
-After fifteen years looking from afar the evolution of the Brazilian Public Key
-Infrastructure – ICP Brasil, I have, at last, acquired my own certificate. And,
-with it, a hardware token to store the private key. I have decided, then, to
-try and install and use it in an Ubuntu 18.04.2 LTS operating system while
+After fifteen years looking from afar at the evolution of the Brazilian Public
+Key Infrastructure – ICP Brasil, I have, at last, acquired my own certificate.
+And, with it, a hardware token to store the private key. I have decided, then,
+to try and install and use it in an Ubuntu 18.04.2 LTS operating system while
 documenting the steps in order to help other people that may want to use it in
 the same system and might face difficulties.
 
