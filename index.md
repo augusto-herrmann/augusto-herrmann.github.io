@@ -5,7 +5,7 @@ layout: cover
 filename: index.md
 ref: root
 title: herrmann.tech – Augusto Herrmann
-desc: Augusto Herrmann's personal webpage.
+desc: Augusto Herrmann's writings about technology and professional info.
 ---
 
 {% include profiles.md %}

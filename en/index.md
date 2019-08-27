@@ -7,7 +7,8 @@ title: Augusto Herrmann
 lang: en
 ref: index
 category: [en]
-desc: Creating public value from data.
+desc: Creating public value from data. Professional information about Augusto
+      Herrmann and writings about technology and other subjects.
 themes_heading: Subjects
 themes:
   - |

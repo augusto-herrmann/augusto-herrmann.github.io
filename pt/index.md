@@ -7,7 +7,8 @@ title: Augusto Herrmann
 lang: pt
 ref: index
 category: [pt]
-desc: Criando valor público de a partir dos dados.
+desc: Criando valor público de a partir dos dados. Informações profissionais
+      sobre Augusto Herrmann escritos sobre tecnologia e outros assuntos.
 themes_heading: Assuntos
 themes:
   - |
