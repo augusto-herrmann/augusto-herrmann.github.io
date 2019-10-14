@@ -216,4 +216,5 @@ além de muitos outros. Ele é coproprietário do site Boing Boing, consultor
 especial da *Electronic Frontier Foundation*, professor visitante de ciência da
 computação na *Open University* e *Research Affiliate* no *MIT Media Lab*.
 
+**Traduzido por:** Augusto Herrmann
 
