@@ -6,12 +6,12 @@ lang: en
 ref: 2019-11-25-on-the-state-of-open-data-does-it-face-an-identity-crisis
 category: [en, blog]
 tags: [open data, open data impact]
-cover: /assets/images/2019/11/-unsplash.jpg
+cover: /assets/images/2019/11/inset-agency-gTbRw_XcYpE-unsplash.jpg
 desc: >-
   Thoughts about the impact of open data policies, the State of Open Data
   book and its launch event, and whether or not open data faces an
   identity crisis.
-image-credits: " / Unsplash"
+image-credits: "Inset Agency / Unsplash"
 ---
 
 What is the current state of open data around the world? Is open data facing
@@ -53,6 +53,11 @@ need to face the challenge of dealing with privacy and personal data without
 reinforcing the old practices of holding on to data under a power and fear
 rationale.
 
+<figure markdown="1" class="text-wide">
+![Speakers at the event Let's Talk Data: Does Open Data Have an Identity Crisis?]({{ 'assets/images/2019/11/open-data-identity-crisis-2019-05-20.jpg' | relative_url }})
+<figcaption>The speakers Tim Davis and Anat Lewin, at the World Bank conference – Let's Talk Data: Does Open Data Have an Identity Crisis?</figcaption>
+</figure>
+
 I can say that this challenge is not new, but it is aggravated as
 governments and companies alike are collecting more and more personal
 information on citizens around the clock. While some cases are pretty
@@ -60,23 +65,40 @@ clear-cut, other times it can be indeed difficult to weigh the scale in favor
 of either the personal privacy of people that some kind of relationship with
 the state, such as receiving public funds in some way, or the need for
 disclosure and transparency to the public to hold them accountable. Sometimes,
-different societies will weigh those need differently and arrive at different
+different societies will weigh those needs differently and arrive at different
 outcomes.
 
-One recent example of these differences is the decision of an EU court to
+A recent example of one of these differences is the decision of an EU court to
 [keep secret €4,416-a-month worth of expenses](https://www.theguardian.com/world/2018/sep/25/mep-expenses-eu-court-ruling)
-of public money. On the opposing side of the scale, similar expenses from the
-Brazilian Chamber of Deputies are released as
+of public money spent by the MEPs. On the other hand, similar
+expenses from the Brazilian Chamber of Deputies are released as
 [open data](https://www.camara.leg.br/cota-parlamentar/) (and also
 [its Senate counterpart](https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps)).
 In fact, for a few years there has been a
-crowdfunded, open source project to track these expenses and find discrepancies
-by using a network of dedicated activists and artificial intelligence tools.
-Project *[Serenata de Amor](https://serenata.ai/)* has received accolades of
-the press and even has received
+crowdfunded, open source project to track these expenses and find possible
+discrepancies by using a network of dedicated activists and artificial
+intelligence tools. Project *[Serenata de Amor](https://serenata.ai/)* has
+received accolades of the press and even has received
 [attention from the World Bank](https://blogs.worldbank.org/governance/rosie-robot-social-accountability-one-tweet-time),
-written by the founders of the project, Yasodara Córdova and Eduardo Cuducos,
-displayed as an example of good governance for development.
+in the form of an article written by two of the founders of the project,
+Yasodara Córdova and Eduardo Cuducos, displayed as an example of good
+governance for development.
+
+The reasonable middle ground seems to be to disclose as open data the
+information related to expenditures of public money, such as
+[the wages of public officials](http://dados.gov.br/dataset/carreiras-do-poder-executivo-federal),
+or the list of
+[beneficiaries of the *Bolsa Família* social program and the stipends received](http://dados.gov.br/dataset/bolsa-familia-pagamentos),
+but not other personal information about them that is completely unrelated to
+the expenditure of public funds, such as their home addresses or medical
+records. That has been the stance that has prevailed in Brazil, while so many
+other countries
+[have been lagging behind in the transparency of public expenditure](https://index.okfn.org/dataset/spending/).
+
+Speaking of fiscal transparency, Tim Davies mentioned his work on the
+[Fiscal Data Package](http://www.fiscaltransparency.net/ofdp/), which is a
+data standard for improved reusability and interoperability for budget and
+spending data that has been increasingly adopted by countries.
 
 As for the excuses to not open data under power and fear rationales, most of
 those have been represented pretty early on the
@@ -94,10 +116,10 @@ attention by Fernanda Campagnucci on
 </figure>
 
 Still on the topic of privacy, Anat Lewin made a very pertinent remark
-that data that you would normally not think of privacy issues become so
-depending on the sample size of the dataset, as having fewer samples
+that aggregated data that you would normally not think of privacy issues
+become so depending on the sample size of the dataset, as having fewer samples
 in an aggregated cross-section of a dataset could more easily lead
-to re-identification.
+to re-identification of individuals.
 
 
 ## Organizational and governance challenges
@@ -126,9 +148,9 @@ the UN Department of Economic and Social Affairs in
 and
 [2017](https://publicadministration.un.org/en/news-and-events/calendar/ModuleID/1146/ItemID/2942/mctl/EventDetails),
 the procedures, norms and responsibilities need to
-be spread out to the leaves of the organizational tree, especially in large
+be reach out to the leaves of the organizational tree, especially in large
 countries, for it to reach relevant data subjects that are under the
-responsibilities of different government institutions. These lessons are
+responsibilities of different government institutions. The lessons learned are
 [summarized in a Guide to Open Data Planning for Sustainable Development](http://dados.gov.br/noticia/onu-lanca-guia-de-planejamento-de-dados-abertos-governamentais).
 
 <figure markdown="1">
@@ -138,13 +160,13 @@ responsibilities of different government institutions. These lessons are
 
 The need for clearly defined responsibilities and roles in the data opening
 pipeline is also very much in line with Anat's second observation, noting that
-people need to work with open data as part of their expected job.
+people need to produce open data as part of their expected job.
 
 Also, none of the advances that we achieved in Brazil in those years would
 have been possible without the extensive
 [capacity building](http://wiki.dados.gov.br/Capacitacao-da-INDA.ashx)
-program we implemented, training over 700 public servants, in person,
-[on how to build open data plans](http://wiki.dados.gov.br/Capacitacao-para-Elaboracao-de-Planos-de-Dados-Abertos.ashx),
+program we implemented, training over 700 public servants, in person, on
+[how to build open data plans](http://wiki.dados.gov.br/Capacitacao-para-Elaboracao-de-Planos-de-Dados-Abertos.ashx),
 and almost two thousand people through the online course. What we did on
 the supply side of open data was complemented by the
 [local chapter of the W3C](http://www.w3c.br/GT/GrupoDadosAbertos)
@@ -161,8 +183,10 @@ that many online courses and other resources have, in a way, catered to the
 need for more training in data literacy. However, data usage skills are surely
 not yet widespread enough to consider that open data is something usable by
 everybody. But will that ever be the case? That is something to think about.
-8 years ago, Tom Steinberg, founder of My Society,
-[wrote an article to The Guardian](https://www.theguardian.com/technology/blog/2011/apr/05/data-gov-steinberg-questions)
+
+Eight years ago, Tom Steinberg, founder of My Society, wrote
+[an article on his personal blog](https://steiny.typepad.com/premise/2011/04/asking-the-wrong-question-about-datagov.html),
+commented on [by The Guardian](https://www.theguardian.com/technology/blog/2011/apr/05/data-gov-steinberg-questions)
 stating clearly that open data isn't, at least directly, for everybody, but
 for people with the required skills. It seems obvious, though, that
 nevertheless the general public can benefit from open data, even if they
@@ -175,7 +199,7 @@ audience questioned, in the context of government accountability, whether or
 not the theory of citizen "armchair auditors" would ever be viable. Tim's
 answer was that the "armchair auditor" is possible in a long tail form.
 Whenever people get frustrated enough with government they will dive into the
-data to find out information to hold governments accountable.
+data to find out information to hold them accountable.
 
 
 ## Outlier leaders, Latin America and the challenges of measuring open data impact
@@ -184,7 +208,7 @@ The book offers, at the same time, a broad overview of the state of open data
 in the world, while also going pretty in-depth on several key issues involving
 the open data landscape. It covers how open data fares in specific sectors,
 such as government finances, agriculture, education, national statistics, etc.
-I also deals with current issues related to open data such as data literacy,
+It also deals with current issues related to open data such as data literacy,
 data infrastructure, algorithms, artificial intelligence and privacy.
 Additionally, the roles of key stakeholders in the open data ecosystem, such as
 governments, civil society, private sector, academia and journalism. There is
@@ -239,7 +263,7 @@ engineering and related backgrounds.
 
 > Perhaps this is the real "identity crisis" of open data around the world:
 > the need to clearly acknowledge and raising awareness that in order to
-> enable many emerging activities today such as data science, AI modeling and
+> enable many emerging activities today such as data science, AI modelling and
 > training, and smart human cities we need not just data, but *open* data.
 > – **Augusto Herrmann**
 
@@ -248,14 +272,14 @@ as they take the pragmatic (and legally dangerous) stance of just finding
 some data to use and do not care about the licensing details and its
 implications, being focused instead in the immediate need of achieving some
 analysis or integration with said data that will bring results to the core
-business, whithout caring to the legal consequences of, e.g., unauthorized use.
+business, without caring to the legal consequences of, e.g., unauthorized use.
 Sometimes people do care if open data is easy to find and to use, but are not
 aware of the decade long struggle and activism for open data, and do not call
 open data by its name, naming it just "data". That is something I often see in
 message groups related to the data science community in Brazil. Perhaps this
-is the real "identity crysis" of open data around the world: the need to
+is the real "identity crisis" of open data around the world: the need to
 clearly acknowledge and raising awareness that in order to enable many emerging
-activities today such as data science, AI modeling and training, and smart
+activities today such as data science, AI modelling and training, and smart
 human cities we need not just data, but *open* data.
 
 On the other hand, another factor could be influencing the lack of documented
@@ -308,14 +332,15 @@ other countries in the region combined.
                 };
     </script>
 </div>
-<figcaption>Number of cases of open data impact in Latin America by country.</figcaption>
+<figcaption>Number of cases of open data impact in Latin America and Caribbean by country.</figcaption>
 </figure>
 
 Actually, this is a trend that can be observed in other regions of the world
 as well: an outlier has a disproportionately high number of open data impact
 cases while every other country in the region has a lot less documented cases.
 Besides Mexico in Latin America & Caribbean, there is the UK in Europe and
-Central Asia, the United States in North America and India in South Asia.
+Central Asia, the United States in North America and India in South Asia
+(those are some of the regional partitions of the world used in that study).
 
 <figure markdown="1" class="text-wide">
 <div>
@@ -336,15 +361,15 @@ Central Asia, the United States in North America and India in South Asia.
 <figcaption>Distribution of the number of cases of open data impact around the world by country.</figcaption>
 </figure>
 
-## Conclusion
+## Final thoughts
 
 All things considered, the State of Open Data book is worth a read for
 anyone concerned with open data around the world, while it's still up to
 date. Make sure to check it out.
 
 As for the supposed identity crisis of open data, do open data policies
-need a rebranding? Will open data ever reach a broader awareness in society? When
-even people that do need and use data every day are often not familiar
-with the basic concepts of openness, these are some of the burning questions
+need a rebranding? Will open data ever reach a broader awareness in society?
+When even people that do need and use data every day are often not familiar
+with the basic concepts of openness, these are some of the emerging questions
 we are left with to ponder.
 
