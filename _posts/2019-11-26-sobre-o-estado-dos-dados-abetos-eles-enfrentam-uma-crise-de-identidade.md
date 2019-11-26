@@ -8,9 +8,9 @@ category: [pt, blog]
 tags: [dados abertos, impacto dos dados abertos]
 cover: /assets/images/2019/11/inset-agency-gTbRw_XcYpE-unsplash.jpg
 desc: >-
-  Thoughts about the impact of open data policies, the State of Open Data
-  book and its launch event, and whether or not open data faces an
-  identity crisis.
+  Reflexões sobre o impacto das políticas de dados abertos, o livro o Estado
+  dos Dados Abertos e o seu evento de lançamento, bem como se os dados abertos
+  enfrentam ou não uma crise de identidade.
 image-credits: "Inset Agency / Unsplash"
 ---
 
