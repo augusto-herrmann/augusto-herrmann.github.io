@@ -204,7 +204,7 @@ repercutido no [The Guardian](https://www.theguardian.com/technology/blog/2011/a
 afirmando claramente que os dados abertos não são, pelo menos diretamente,
 para todas as pessoas, e sim para pessoas com as habilidades necessárias.
 Parece óbvio, no entanto, que mesmo assim o público em geral pode se
-beneficiar dos dados abertos, mesmo que não possam utilizá-los diretamente.
+beneficiar dos dados abertos, mesmo que não possa utilizá-los diretamente.
 Esse é um assunto que vale a pena revisitar em uma discussão futura.
 Considerando que cada vez mais pessoas estão adquirindo habilidades para
 lidar com dados, os dados abertos serão algum dia acessíveis a um público
