@@ -53,7 +53,7 @@ e aos tópicos que ele aborda Chamado
 tradução livre), ele aconteceu em 20 de maio de 2019 e eu tive a oportunidade
 de assistir, fazer anotações e algumas perguntas.
 
-## Privacidade e os dos dados pessoais em um contexto de dados abertos
+## Privacidade e os dados pessoais em um contexto de dados abertos
 
 Tim passou por cada capítulo do livro de trás para frente. Ele salientou a
 necessidade de enfrentar o desafio de lidar com a privacidade e os dados
@@ -124,7 +124,7 @@ atenção pela Fernanda Campagnucci no
 </figure>
 
 Ainda no tópico da privacidade, a Anat Lewin fez uma observação muito
-pertinente que os dados agregados que normalmente não se associa a questões de
+pertinente que os dados agregados que normalmente não se associam a questões de
 privacidade se tornam um problema dependendo do tamanho da amostra do conjunto
 de dados, já que ter poucas amostras em uma seção cruzada dos dados pode levar
 mais facilmente à reidentificação de indivíduos.
@@ -159,7 +159,7 @@ e
 [2017](https://publicadministration.un.org/en/news-and-events/calendar/ModuleID/1146/ItemID/2942/mctl/EventDetails),
 os procedimentos, normas e responsabilidade precisam alcançar as
 folhas da árvore organizacional, especialmente em países grandes, para que
-possa alcançar os dados de assuntos que estão sob a responsabilidade de
+se possa alcançar os dados de assuntos que estão sob a responsabilidade de
 diferentes instituições governamentais. As lições aprendidas estão
 [sumarizadas em um Guia para o Planejamento de Dados Abertos para o Desenvolvimento Sustentável](http://dados.gov.br/noticia/onu-lanca-guia-de-planejamento-de-dados-abertos-governamentais).
 
@@ -176,7 +176,7 @@ de dados como parte do seu trabalho esperado.
 Além disso, nenhum dos avanços conquistados no Brasil nesses anos teria sido
 possível sem o extenso
 [programa de capacitação](http://wiki.dados.gov.br/Capacitacao-da-INDA.ashx)
-que implementando, capacitando mais de 700 servidores públicos,
+que implementamos, capacitando mais de 700 servidores públicos,
 presencialmente, sobre
 [como construir planos de dados abertos](http://wiki.dados.gov.br/Capacitacao-para-Elaboracao-de-Planos-de-Dados-Abertos.ashx),
 e quase duas mil pessoas pelo curso à distância. O que fizemos do lado da
@@ -191,7 +191,7 @@ na forma de guias e cursos à distância sobre o uso de dados abertos.
 
 Nos últimos anos, impulsionado pela necessidade percebida de mais cientistas de
 dados, engenheiros de dados e outros profissionais de dados relacionados em
-em quase todos os campos, acredito que muitos cursos à distância e outros
+quase todos os campos, acredito que muitos cursos à distância e outros
 recursos atenderam, de alguma maneira, à necessidade de mais treinamento no
 letramento de dados. Entretanto, as habilidades de uso de dados certamente
 ainda não estão difundidas o suficiente para considerar que os dados abertos
@@ -200,7 +200,7 @@ são algo utilizável por todas as pessoas. Mas isso será verdade algum dia? Is
 
 Há oito anos, Tom Steinberg, fundador da My Society, escreveu
 [um artigo em seu blog pessoal](https://steiny.typepad.com/premise/2011/04/asking-the-wrong-question-about-datagov.html),
-repercutido no [The Guardian](https://www.theguardian.com/technology/blog/2011/apr/05/data-gov-steinberg-questions)
+repercutido no [The Guardian](https://www.theguardian.com/technology/blog/2011/apr/05/data-gov-steinberg-questions),
 afirmando claramente que os dados abertos não são, pelo menos diretamente,
 para todas as pessoas, e sim para pessoas com as habilidades necessárias.
 Parece óbvio, no entanto, que mesmo assim o público em geral pode se
@@ -214,8 +214,9 @@ Sobre o assunto do uso dos dados pela sociedade para propósitos cívicos,
 alguém da plateia perguntou, no contexto da responsabilização do governo, se
 a teoria dos "auditores cidadãos" algum dia se tornaria viável. A resposta do
 Tim foi que o "auditor cidadão" é possível como uma forma de cauda longa.
-Na medida em que as pessoas se tornam frustradas o suficiente com o governo
-elas mergulharão nos dados para encontrar informações para responsabilizá-los.
+Na medida em que as pessoas se tornam frustradas o suficiente com o governo,
+elas mergulharão nos dados para encontrar informações para responsabilizar
+e cobrar o governo.
 
 
 ## Líderes isolados, América Latina e os desafios de se medir os impactos dos dados abertos
@@ -279,7 +280,7 @@ Sabe-se bem que as empresas têm tido dificuldades em encontrar profissionais
 suficientes com uma formação adequada em ciência de dados, engenharia de dados
 e outras relacionadas.
 
-> Talvez essa seja a verdadeira "crise de identidade" dos dados abertos ao
+> Talvez essa seja a verdadeira "crise de identidade" dos dados abertos
 > ao redor do mundo: a necessidade de reconhecer claramente e de se difundir
 > a percepção de que para tornar possível muitas das atividades que hoje
 > emergem como ciência de dados, modelagem e treinamento de IA e cidades
@@ -299,7 +300,7 @@ da luta e ativismo de uma década pelos dados abertos e não chamam os dados
 abertos pelo nome, chamando-os apenas de "dados". Isso é algo que vejo
 frequentemente em grupos de mensagens relacionados à comunidade de ciência
 de dados no Brasil. Talvez essa seja a verdadeira "crise de identidade" dos
-dados abertos ao ao redor do mundo: a necessidade de reconhecer claramente e
+dados abertos ao redor do mundo: a necessidade de reconhecer claramente e
 de se difundir a percepção de que para tornar possível muitas das atividades
 que hoje emergem como ciência de dados, modelagem e treinamento de IA e cidades
 humanas e inteligentes precisamos não apenas de dados, mas sim de dados
