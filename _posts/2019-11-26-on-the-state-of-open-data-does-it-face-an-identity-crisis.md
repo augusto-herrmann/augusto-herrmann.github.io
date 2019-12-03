@@ -42,7 +42,7 @@ To accompany the launch of the book, the World Bank has hosted an event, both
 local and online, so that people could ask Tim Davis, who is one of the
 editors of the book, and Anat Lewin, a Senior ICT Policy Specialist at the
 World Bank, for questions related to the book and the topics it covers. Named
-"[Let's Talk Data: Does Open Data Have an Identity Crisis?](https://www.eventbrite.com/e/book-launch-at-world-bankthe-state-of-open-data-histories-and-horizons-tickets-61431189341)",
+“[Let's Talk Data: Does Open Data Have an Identity Crisis?](https://www.eventbrite.com/e/book-launch-at-world-bankthe-state-of-open-data-histories-and-horizons-tickets-61431189341)”,
 it took place on May 20th, 2019, and I had the opportunity to watch, take notes
 and ask some questions.
 
@@ -196,8 +196,8 @@ skills, will open data ever be accessible to a wide audience?
 
 On the topic of data use by society for civic purposes, someone from the
 audience questioned, in the context of government accountability, whether or
-not the theory of citizen "armchair auditors" would ever be viable. Tim's
-answer was that the "armchair auditor" is possible in a long tail form.
+not the theory of citizen “armchair auditors” would ever be viable. Tim's
+answer was that the “armchair auditor” is possible in a long tail form.
 Whenever people get frustrated enough with government they will dive into the
 data to find out information to hold them accountable.
 
@@ -261,7 +261,7 @@ new data-driven business. It is well known that companies have been
 struggling to find enough qualified professionals with data science, data
 engineering and related backgrounds.
 
-> Perhaps this is the real "identity crisis" of open data around the world:
+> Perhaps this is the real “identity crisis” of open data around the world:
 > the need to clearly acknowledge and raising awareness that in order to
 > enable many emerging activities today such as data science, AI modelling and
 > training, and smart human cities we need not just data, but *open* data.
@@ -275,9 +275,9 @@ analysis or integration with said data that will bring results to the core
 business, without caring to the legal consequences of, e.g., unauthorized use.
 Sometimes people do care if open data is easy to find and to use, but are not
 aware of the decade long struggle and activism for open data, and do not call
-open data by its name, naming it just "data". That is something I often see in
+open data by its name, naming it just “data”. That is something I often see in
 message groups related to the data science community in Brazil. Perhaps this
-is the real "identity crisis" of open data around the world: the need to
+is the real “identity crisis” of open data around the world: the need to
 clearly acknowledge and raising awareness that in order to enable many emerging
 activities today such as data science, AI modelling and training, and smart
 human cities we need not just data, but *open* data.

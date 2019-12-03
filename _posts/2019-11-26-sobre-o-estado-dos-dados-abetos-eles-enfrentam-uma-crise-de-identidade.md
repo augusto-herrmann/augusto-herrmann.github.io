@@ -212,8 +212,8 @@ amplo?
 
 Sobre o assunto do uso dos dados pela sociedade para propósitos cívicos,
 alguém da plateia perguntou, no contexto da responsabilização do governo, se
-a teoria dos "auditores cidadãos" algum dia se tornaria viável. A resposta do
-Tim foi que o "auditor cidadão" é possível como uma forma de cauda longa.
+a teoria dos “auditores cidadãos” algum dia se tornaria viável. A resposta do
+Tim foi que o “auditor cidadão” é possível como uma forma de cauda longa.
 Na medida em que as pessoas se tornam frustradas o suficiente com o governo,
 elas mergulharão nos dados para encontrar informações para responsabilizar
 e cobrar o governo.
@@ -280,7 +280,7 @@ Sabe-se bem que as empresas têm tido dificuldades em encontrar profissionais
 suficientes com uma formação adequada em ciência de dados, engenharia de dados
 e outras relacionadas.
 
-> Talvez essa seja a verdadeira "crise de identidade" dos dados abertos
+> Talvez essa seja a verdadeira “crise de identidade” dos dados abertos
 > ao redor do mundo: a necessidade de reconhecer claramente e de se difundir
 > a percepção de que para tornar possível muitas das atividades que hoje
 > emergem como ciência de dados, modelagem e treinamento de IA e cidades
@@ -297,9 +297,9 @@ dados que trarão resultados para a área fim, sem se importar com as
 consequências legais, por exemplo, do uso não autorizado. Às vezes as pessoas
 se importam se os dados são fáceis de achar e usar, mas não têm consciência
 da luta e ativismo de uma década pelos dados abertos e não chamam os dados
-abertos pelo nome, chamando-os apenas de "dados". Isso é algo que vejo
+abertos pelo nome, chamando-os apenas de “dados”. Isso é algo que vejo
 frequentemente em grupos de mensagens relacionados à comunidade de ciência
-de dados no Brasil. Talvez essa seja a verdadeira "crise de identidade" dos
+de dados no Brasil. Talvez essa seja a verdadeira “crise de identidade” dos
 dados abertos ao redor do mundo: a necessidade de reconhecer claramente e
 de se difundir a percepção de que para tornar possível muitas das atividades
 que hoje emergem como ciência de dados, modelagem e treinamento de IA e cidades
