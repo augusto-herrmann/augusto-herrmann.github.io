@@ -116,7 +116,7 @@ It is completely open licensed and
 So fork it, create your version, and send me a pull request if you know
 Portuguese and has an useful argument against the excuses not to open up data.
 If you're not familiar with Github, you can leave your comment on the
-dadosabertos.social forum as well.
-If you know the context of Brazilian laws, institutions and data landscape,
-all the better! Your contributions will be most welcome.
+[dadosabertos.social forum](https://dadosabertos.social/t/e-2020-por-que-voce-ainda-nao-esta-abrindo-dados-bingo/213)
+as well. If you know the context of Brazilian laws, institutions and data
+landscape, all the better! Your contributions will be most welcome.
 

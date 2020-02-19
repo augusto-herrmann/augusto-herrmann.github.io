@@ -120,8 +120,8 @@ Ele usa uma licença completamente aberta e está
 [disponível no Github](https://github.com/augusto-herrmann/opendatabingo).
 Então faça o seu *fork*, crie a sua versão e me envie um *pull request* se
 você tem um argumento útil contra as desculpas para não abrir dados. Se não
-tem familiaridade com o Github, deixe os seus comentários no fórum
-dadosabertos.social. Se você conhece o contexto das leis brasileiras,
-instituições e o panorama de dados, melhor ainda! Suas contribuições serão
-muito bem vindas.
+tem familiaridade com o Github, deixe os seus comentários no
+[fórum dadosabertos.social](https://dadosabertos.social/t/e-2020-por-que-voce-ainda-nao-esta-abrindo-dados-bingo/213).
+Se você conhece o contexto das leis brasileiras, instituições e o panorama de
+dados, melhor ainda! Suas contribuições serão muito bem vindas.
 
