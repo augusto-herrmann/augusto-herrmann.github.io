@@ -101,6 +101,10 @@ this version. She then mentioned it while being a guest in an episode of the
 [Pizza de Dados Podcast](http://umdadoamais.com/dados-do-ponto-de-vista-do-governo-pizza-de-dados/),
 and that's how I first heard of the open data bingo.
 
+When considering the arguments for the adaptation of this content for many
+different countries and cultures, it is remarkable how similar the barriers
+for opening up data are among them.
+
 ## bingo.dadosabertos.social
 
 I then finished the translation and adaptation to the Brazilian context of the

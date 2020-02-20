@@ -105,6 +105,10 @@ então, mencionou isso quando foi convidada a um episódio do
 [Podcast Pizza de Dados](http://umdadoamais.com/dados-do-ponto-de-vista-do-governo-pizza-de-dados/),
 e foi assim que eu ouvi dizer pela primeira vez do open data bingo.
 
+Ao considerar os argumentos na adaptação desse conteúdo para tantos países e
+culturas diferentes, é notável o qual semelhantes são entre eles as barreiras
+à abertura de dados.
+
 ## bingo.dadosabertos.social
 
 Então eu terminei a tradução e adaptação ao contexto brasileiro do resto das
