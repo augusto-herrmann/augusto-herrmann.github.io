@@ -8,14 +8,21 @@ kramdown:
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 baseurl: /
 
+# rss feed
 feed:
   categories:
     - en
     - pt
 
+# pagination
+paginate: 6
+paginate_path: /page:num/
+
+# site wide translations
 t:
   en:
     by: "by"

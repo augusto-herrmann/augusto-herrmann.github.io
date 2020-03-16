@@ -60,16 +60,11 @@ themes:
 <section id="blog">
 <div class="container">
 
-## *﻿*{: .fas .fa-pencil-alt} Blog
+## *﻿*{: .fas .fa-pencil-alt} Latest posts
 
-{% assign posts=site.posts | where:"lang", page.lang %}
+{% include latest-posts.md %}
 
-<div class="row">
-{% for post in posts %}
-* [{{ post.title }}]({{ post.url | relative_url }})
-{% endfor %}
-</div>
-
+For more posts, please see [the blog](blog).
 </div>
 </section>
 

@@ -527,3 +527,11 @@ html.post article blockquote {
   background-color: lightgray;
 }
 
+/* Blog listing */
+
+img.excerpt_cover {
+  width: 200px;
+  float: right;
+  margin: 1em;
+}
+
