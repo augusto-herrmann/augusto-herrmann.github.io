@@ -1,0 +1,23 @@
+17/6/2019
+
+What are the most significant actions towards open data governance your institutions has achieved?  
+
+I think the most important milestone in open data governance in Brazil has been achieved by establishing the obligation for each government body to build their own bi-annual open data plans, detailing which data their institution will open, when, and who is responsible. This was instated by Decree no. 8.777, of May 11th 2016. In order for this to be effective, we had to provide ample capacity building – between 2016 and 2018, more than 700 people in government have been trained in person, and 3500 in distance courses on how to build those plans. In 2018, a resolution approved by the Open Data Steering Committee (in which there was also civil society participation) made mandatory that the institutional open data plan must undergo a public consultation period.
+
+
+What role does open governance (public involvement, focus on citizens, etc.) play in this?
+
+Besides participation in the public consultations of the institutional open data plans and in the Steering Committee, in 2017 we have also debuted an integration between the Brazilian Open Data Portal and the Federal Ombudsman System. From the page of a dataset in the portal, you can give feedback that will reach the people responsible for the dataset and, optionally, get a response. This is all done within the Ombudsmanship system and following its legislation, deadlines and practices.
+
+
+How do you seek to evolve open data governance challenges with this measure in the broader context of open data governance?
+
+If I were to continue to be involved in managing the Brazilian Federal Government's open data policies (which I'm not), I would promote more events and channels that put in contact data users and data providers, so that the first can provide feedback to the latter on how to improve upon the datasets already released and their documentation. It would also work so that data providers can better explain concepts involved in the data (e.g.. about procurement practices mandated by law) which can often seem esoteric to people outside government, even to those well versed in data use. More dialogue between users and providers, both in person and though other channels, would certainly benefit society to achieve greater social and economic impact of open data.
+
+Link from open data to access to information policy, to ombudsmanship systems
+and other existing mechanisms.
+
+How do resolve disputes on whether or not some data should be open
+
+Collaborative work to build dados.gov.br
+
