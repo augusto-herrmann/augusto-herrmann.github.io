@@ -68,11 +68,30 @@ h1, h2, h3, h4, h5 {
  * Header
  */
 .masthead {
+  position: fixed;
+  z-index: 2;
+  width: 100%;
   margin-bottom: 2rem;
 }
 
 .masthead-brand {
   margin-bottom: 0;
+}
+
+.masthead-brand .logo {
+  width: 250px;
+  height: 40px;
+  display: flex;
+  margin-bottom: -16px;
+  color: transparent;
+  margin-left: 2rem;
+  background-image: url({{ "assets/images/logo.png" | relative_url }});
+}
+
+.masthead-brand .logo a {
+  color: transparent;
+  width: 250px;
+  height: 40px;
 }
 
 .nav-masthead .nav-link {

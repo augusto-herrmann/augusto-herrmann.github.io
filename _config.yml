@@ -8,7 +8,7 @@ kramdown:
 
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+#  - jekyll-paginate
 
 baseurl: /
 
@@ -19,8 +19,8 @@ feed:
     - pt
 
 # pagination
-paginate: 6
-paginate_path: /page:num/
+# paginate: 6
+# paginate_path: /page:num/
 
 # site wide translations
 t:
