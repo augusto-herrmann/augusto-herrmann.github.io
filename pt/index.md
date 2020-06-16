@@ -87,6 +87,16 @@ Para mais postagens, por favor veja [o blog](blog).
 <div class="col item">
 <div class="content">
 
+### *﻿*{: .far .fa-calendar-alt} 2020
+
+* 🇧🇷 Brasília, 6/3/2020 -- [Open Data Day 2020](https://opendataday.org) -- [Rio de Janeiro - Arquivo Nacional](http://arquivonacional.gov.br/br/ultimas-noticias/2043-6-de-marco-open-data-day-no-arquivo-nacional) ([gravação](https://www.youtube.com/watch?v=-1mR2gz_4Hg)) ([apresentação](https://pt.slideshare.net/AugustoHerrmannBatis/open-data-day-2020-arquivo-nacional-rio-de-janeiro))
+* 🌐 Online, 14/1/2020 -- [Projeto Embaixadoras - Open Data Day 2020: Descubra como fazer na sua cidade](https://www.youtube.com/watch?v=MGceIuNm2xY)
+
+</div>
+</div>
+<div class="col item">
+<div class="content">
+
 ### *﻿*{: .far .fa-calendar-alt} 2018
 
 * 🇧🇷 Brasília, 27/11/2018 -- Oficina de uso de dados abertos do Ministério do Planejamento -- 4ª Semana de Inovação: Serviço público para o futuro
@@ -123,13 +133,18 @@ Para mais postagens, por favor veja [o blog](blog).
 
 </div>
 </div>
+
+</div>
+
+<div class="row">
+
 <div class="col item">
 <div class="content">
 
 ### *﻿*{: .far .fa-calendar-alt} 2015 e antes
 
-* 🇹🇭 Bangkok, 21/5/2015 -- [Open Data intro](https://www.youtube.com/watch?v=NQTuBuvBfrM) -- [CI@Practice Day on “Smart Agriculture and Collective Intelligence for Smart Community”](https://uknowcoe.wordpress.com/2015/05/21/%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3-cipractice-day-on/)
-* 🇷🇺 Moscou, 11/12/2014 -- [CKAN overview](https://www.slideshare.net/AugustoHerrmannBatis/ckan-overview) (em inglês) -- [IV Moscow Urban Forum](https://mosurbanforum.com/archive/2014/)
+* 🇹🇭 Bangkok, 21/5/2015 -- [Open Data intro](https://www.youtube.com/watch?v=NQTuBuvBfrM) (em inglês) -- [CI@Practice Day on “Smart Agriculture and Collective Intelligence for Smart Community”](https://uknowcoe.wordpress.com/2015/05/21/%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3-cipractice-day-on/)
+* 🇷🇺 Moscou, 11/12/2014 -- [From Chaos to Order: Open Data for All](https://www.youtube.com/watch?v=vYU6-BRyjXA) e [CKAN overview](https://www.slideshare.net/AugustoHerrmannBatis/ckan-overview) (em inglês, com tradução simultânea para russo) -- [IV Moscow Urban Forum](https://mosurbanforum.com/archive/2014/)
 * 🇧🇷 Florianópolis, 20/11/2014 -- [Minicurso de CKAN](https://www.slideshare.net/AugustoHerrmannBatis/minicurso-de-ckan) -- [Congresso Linked Open Data Brasil](https://noticias.ufsc.br/2014/11/ufsc-recebe-congresso-brasileiro-linked-open-data-de-19-a-21-de-novembro/)
 * 🇧🇷 Brasília, 15/8/2013 -- [Aspectos legais na utilização de dados abertos](https://www.slideshare.net/AugustoHerrmannBatis/aspectos-legais-na-utilizao-de-dados-abertos) -- Consegi 2013
 * 🇧🇷 Rio de Janeiro, 18/11/2011 -- Semântica e Ontologias conectando Dados na Web -- [3ª Conferência Web W3C Brasil](https://conferenciaweb.w3c.br/2011/)	
