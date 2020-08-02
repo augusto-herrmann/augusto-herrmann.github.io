@@ -2,555 +2,491 @@
 title: CSS stylesheet
 ---
 
-/* Links */
-a,
-a:focus,
-a:hover {
-  color: #fff;
-}
+@import {{ "assets/styles/syntax-thankful_eyes.css" | relative_url }}
 
-/* Custom default button */
-.btn-secondary,
-.btn-secondary:hover,
-.btn-secondary:focus {
-  color: #734932;
-  text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #e2dde1;
-  border: .05rem solid #fff;
-}
+// Links
 
-.btn-en:before {
-  content: '🇬🇧 ';
-}
+a
+  color: #fff
 
-.btn-pt:before {
-  content: '🇧🇷 ';
-}
+  &:focus, &:hover
+    color: #fff
 
-/* Typography */
+// Custom default button
 
-@font-face {
-  font-family: opensans;
-  src: url('{{ "assets/fonts/opensans/OpenSans-Regular.ttf" | relative_url }}');
-}
+.btn-secondary
+  color: #734932
+  text-shadow: none
 
-@font-face {
-  font-family: breeserif;
-  src: url('{{ "assets/fonts/breeserif/BreeSerif-Regular.ttf" | relative_url }}')
-}
+  // Prevent inheritance from `body`
+  background-color: #e2dde1
+  border: .05rem solid #fff
+
+  &:hover, &:focus
+    color: #734932
+    text-shadow: none
+
+    // Prevent inheritance from `body`
+    background-color: #e2dde1
+    border: .05rem solid #fff
+
+.btn-en:before
+  content: '🇬🇧 '
+
+.btn-pt:before
+  content: '🇧🇷 '
+
+// Typography
+
+@font-face
+  font-family: opensans
+  src: url({{ "assets/fonts/opensans/OpenSans-Regular.ttf" | relative_url }})
+
+@font-face
+  font-family: breeserif
+  src: url({{ "assets/fonts/breeserif/BreeSerif-Regular.ttf" | relative_url }})
 
 /*
  * Base structure
  */
 
-html,
-body {
-  font-family: opensans, Calibri, Arial, helvetica;
-  height: 100%;
-  width: 100%;
-  background-color: #101020;
-  margin: 0;
-  display: -ms-flexbox;
-  display: flex;
-  color: #e2dde1;
-  z-index: -2;
-}
+html, body
+  font-family: opensans, Calibri, Arial, helvetica
+  height: 100%
+  width: 100%
+  background-color: #101020
+  margin: 0
+  display: -ms-flexbox
+  display: flex
+  color: #e2dde1
+  z-index: -2
 
-h1, h2, h3, h4, h5 {
-  font-family: breeserif;
-}
+h1, h2, h3, h4, h5
+  font-family: breeserif
 
-.secondary-color {
-  background-color: #7a93b0;
-}
+.secondary-color
+  background-color: #7a93b0
 
 /*
  * Header
  */
-.masthead {
-  position: fixed;
-  z-index: 2;
-  width: 100%;
-  margin-bottom: 2rem;
-}
 
-.masthead-brand {
-  margin-bottom: 0;
-}
+.masthead
+  position: fixed
+  z-index: 2
+  width: 100%
+  margin-bottom: 2rem
 
-.masthead-brand .logo {
-  width: 258px;
-  height: 40px;
-  display: flex;
-  margin-bottom: -16px;
-  color: transparent;
-  margin-left: 2rem;
-  background-image: url({{ "assets/images/logo.png" | relative_url }});
-}
+.masthead-brand
+  margin-bottom: 0
 
-.masthead-brand .logo a {
-  color: transparent;
-  width: 250px;
-  height: 40px;
-}
+  .logo
+    width: 258px
+    height: 40px
+    display: flex
+    margin-bottom: -16px
+    color: transparent
+    margin-left: 2rem
+    background-image: url({{ "assets/images/logo.png" | relative_url }})
 
-.nav-masthead .nav-link {
-  padding: .25rem 0;
-  font-weight: 700;
-  color: rgba(255, 255, 255, .5);
-  background-color: transparent;
-  border-bottom: .25rem solid transparent;
-}
+    a
+      color: transparent
+      width: 250px
+      height: 40px
 
-.nav-masthead .nav-link:hover,
-.nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255, .25);
-}
+.nav-masthead
+  .nav-link
+    padding: .25rem 0
+    font-weight: 700
+    color: rgba(255, 255, 255, 0.5)
+    background-color: transparent
+    border-bottom: .25rem solid transparent
 
-.nav-masthead .nav-link + .nav-link {
-  margin-left: 1rem;
-}
+    &:hover, &:focus
+      border-bottom-color: rgba(255, 255, 255, 0.25)
 
-.nav-masthead .active {
-  color: #fff;
-  border-bottom-color: #fff;
-}
+    + .nav-link
+      margin-left: 1rem
 
-@media (min-width: 48em) {
-  .masthead-brand {
-    float: left;
-  }
-  .nav-masthead {
-    float: right;
-  }
-}
+  .active
+    color: #fff
+    border-bottom-color: #fff
+
+@media (min-width: 48em)
+  .masthead-brand
+    float: left
+
+  .nav-masthead
+    float: right
 
 /*
  * Contact
-*/
+ */
 
-.contact a,
-.contact a:focus,
-.contact a:hover {
-  color: #fff;
-}
+.contact a
+  color: #fff
+
+  &:focus, &:hover
+    color: #fff
 
 /*
  * Main
-*/
+ */
 
-html.default main,
-html.post main,
-html.default footer {
-  width: 100%;
-}
+html
+  &.default main, &.post main
+    width: 100%
 
-html.default section {
-  padding: 5em 2em;
-}
+  &.default
+    footer
+      width: 100%
 
-html.default section h2 {
-  margin-bottom: 1em;
-}
+    section
+      padding: 5em 2em
 
-.item {
-  position: relative;
-}
+      h2
+        margin-bottom: 1em
 
-.item::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background-color: #e2dde1;
-  filter: opacity(.8);
-}
+.item
+  position: relative
 
-.item .content {
- /* This will make it stack on top of the ::before */
-  position: relative;
-}
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    background-color: #e2dde1
+    filter: opacity(0.8)
 
-.item {
-  color: #365374;
-  padding: 0.5em 1em;
-  margin: 1em;
-  animation: slide-from-top 0.6s ease-out;
-}
+  .content
+    // This will make it stack on top of the ::before
+    position: relative
 
-.item h3 {
-  color: #734932;
-}
+  color: #365374
+  padding: 0.5em 1em
+  margin: 1em
+  animation: slide-from-top 0.6s ease-out
 
-#publications {
-  position: relative;
-}
+  h3
+    color: #734932
 
-#publications::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background-image: url('{{ "assets/images/unsplash/jonathan-brinkhorst-678155-unsplash.jpg" | relative_url }}');
-  /* Photo by Jonathan Brinkhorst on Unsplash */
-  background-size: cover;
-  background-repeat: no-repeat;
-  filter: brightness(.3);
-}
+#publications
+  position: relative
 
-#publications .container {
- /* This will make it stack on top of the ::before */
-  position: relative;
-}
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    background-image: url({{ "assets/images/unsplash/jonathan-brinkhorst-678155-unsplash.jpg" | relative_url }})
 
-#blog {
-  color: black;
-  background-color: white;
-}
+    // Photo by Jonathan Brinkhorst on Unsplash
+    background-size: cover
+    background-repeat: no-repeat
+    filter: brightness(0.3)
 
-#blog a,
-#blog a:focus,
-#blog a:hover {
-  color: black;
-}
+  .container
+    // This will make it stack on top of the ::before
+    position: relative
 
-#talks {
-    padding: 0;
-}
+#blog
+  color: black
+  background-color: white
 
-#talks .long-h {
-  position: relative;
-  padding: 14em 2em 2em;
-}
+  a
+    color: black
 
-#talks .long-h::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background-image: url('{{ "assets/images/palestras.jpg" | relative_url }}');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  filter: brightness(.3);
-}
+    &:focus, &:hover
+      color: black
 
-#talks .long-h .container {
- /* This will make it stack on top of the ::before */
-  position: relative;
-}
+#talks
+  padding: 0
+
+  .long-h
+    position: relative
+    padding: 14em 2em 2em
+
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 0
+      width: 100%
+      height: 100%
+      background-image: url({{ "assets/images/palestras.jpg" | relative_url }})
+      background-size: cover
+      background-position: center
+      background-repeat: no-repeat
+      filter: brightness(0.3)
+
+    .container
+      // This will make it stack on top of the ::before
+      position: relative
 
 /*
  * Cover
  */
 
-html.cover,
-body.cover {
-  font-family: opensans, Calibri, Arial, helvetica;
-  height: 100%;
-  width: 100%;
-  margin: 0;
-  display: -ms-flexbox;
-  display: flex;
-  color: #e2dde1;
-  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
-  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
-  background-image: url('{{ "assets/images/mountain-top.jpg" | relative_url }}');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-color: #3672a8;
-  z-index: -2;
-}
+html.cover, body.cover
+  font-family: opensans, Calibri, Arial, helvetica
+  height: 100%
+  width: 100%
+  margin: 0
+  display: -ms-flexbox
+  display: flex
+  color: #e2dde1
+  text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5)
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.5)
+  background-image: url({{ "assets/images/mountain-top.jpg" | relative_url }})
+  background-size: cover
+  background-repeat: no-repeat
+  background-color: #3672a8
+  z-index: -2
 
-.cover-container {
-  max-width: 30em;
-}
+.cover-container
+  max-width: 30em
 
-main.cover::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity: .4;
-  background-color: black;
-  z-index: -1;
-}
+main.cover::before
+  content: ''
+  position: absolute
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  opacity: .4
+  background-color: black
+  z-index: -1
 
-div.cover {
-  padding: 0 1.5rem;
-}
+div.cover
+  padding: 0 1.5rem
 
-@keyframes button1 {
-  0% {
-    transform: scale(.9);
-    opacity: 0;
-  }
-  50% {
-    transform: scale(.9);
-    opacity: 0;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
+@keyframes button1
+  0%
+    transform: scale(0.9)
+    opacity: 0
 
-@keyframes button1 {
-  0% {
-    transform: scale(.9);
-    opacity: 0;
-  }
-  50% {
-    transform: scale(.9);
-    opacity: 0;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
+  50%
+    transform: scale(0.9)
+    opacity: 0
 
-@keyframes button2 {
-  0% {
-    transform: scale(.9);
-    opacity: 0;
-  }
-  66% {
-    transform: scale(.9);
-    opacity: 0;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
+  100%
+    transform: scale(1)
+    opacity: 1
 
-main.cover .btn-lg {
-  padding: .75rem 1.25rem;
-  margin: .25rem;
-  font-weight: 700;
-}
+@keyframes button1
+  0%
+    transform: scale(0.9)
+    opacity: 0
 
-main.cover .button1 {
-  animation: button1 1.4s ease-out;
-}
+  50%
+    transform: scale(0.9)
+    opacity: 0
 
-main.cover .button2 {
-  animation: button2 2.1s ease-out;
-}
+  100%
+    transform: scale(1)
+    opacity: 1
 
-@keyframes pop-in {
-  0% {
-    transform: scale(.9);
-    opacity: 0;
-  }
-  90% {
-    transform: scale(1);
-    opacity: 0.5;
-  }
-  95% {
-    transform: scale(1.05);
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
+@keyframes button2
+  0%
+    transform: scale(0.9)
+    opacity: 0
 
-.pop-in {
-  width: 90%;
-  animation: pop-in 0.7s cubic-bezier(.39,.58,.57,1);
-}
+  66%
+    transform: scale(0.9)
+    opacity: 0
 
-@keyframes slide-from-top {
-  0% {
-    transform: rotateX(-90deg);
-    opacity: 0;
-  }
-  100% {
-    transform: rotateX(0);
-    opacity: 1;
-  }
-}
+  100%
+    transform: scale(1)
+    opacity: 1
 
-.flip-in {
-  margin-top: 0;
-  opacity: 1;
-  animation: slide-from-top 0.6s ease-out;
-}
+main.cover
+  .btn-lg
+    padding: .75rem 1.25rem
+    margin: .25rem
+    font-weight: 700
 
-.cover-heading {
-  color: #a1bfdc;
-  margin: .5em 0;
-}
-main.cover > .row {
-  margin-top: 1em;
-}
+  .button1
+    animation: button1 1.4s ease-out
 
-/**
- ** Posts
-**/
+  .button2
+    animation: button2 2.1s ease-out
 
-html.post body {
-  color: black;
-  background: white;
-}
+@keyframes pop-in
+  0%
+    transform: scale(0.9)
+    opacity: 0
 
-html.post a,
-html.post a:focus,
-html.post a:hover {
-  color: #734932;
-}
+  90%
+    transform: scale(1)
+    opacity: 0.5
 
-html.post article {
-  background: white;
-}
+  95%
+    transform: scale(1.05)
 
-/* Make fonts larger on large screens to improve readability */
-@media (min-width: 48em) {
-  html.post article {
-    font-size: 1.4rem;
-  }
-}
+  100%
+    transform: scale(1)
+    opacity: 1
 
-html.post article .heading {
-  width: 100%;
-  background: black;
-  position: relative;
-  padding: 4em 2em 3em;
-}
+.pop-in
+  width: 90%
+  animation: pop-in 0.7s cubic-bezier(0.39, 0.58, 0.57, 1)
 
-/* Give some more room to fit the text on small screens */
+@keyframes slide-from-top
+  0%
+    transform: rotateX(-90deg)
+    opacity: 0
 
-@media (max-width: 48em) {
-  html.post article .heading {
-    padding-bottom: 5em;
-  }
-}
+  100%
+    transform: rotateX(0)
+    opacity: 1
 
-html.post article .heading::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  filter: brightness(.3);
-}
+.flip-in
+  margin-top: 0
+  opacity: 1
+  animation: slide-from-top 0.6s ease-out
 
-html.post article .heading .container {
- /* This will make it stack on top of the ::before */
-  position: relative;
-}
+.cover-heading
+  color: #a1bfdc
+  margin: .5em 0
 
-html.post article .heading .languages {
-  text-align: right;
-}
+main.cover > .row
+  margin-top: 1em
 
-html.post article .heading .languages ul {
-  list-style-type: none;
-}
+/*
+ * Posts
+ */
 
-html.post article .heading {
-  color: white;
-}
+html.post
+  body
+    color: black
+    background: white
 
-html.post article .heading.inverted {
-  color: black;
-}
+  a
+    color: #734932
 
-html.post article .title {
-  margin-top: 4em;
-}
+    &:focus, &:hover
+      color: #734932
 
-html.post article h1 {
-  margin-bottom: 1em;
-}
+  article
+    background: white
 
-/* Make fonts larger on large screens to improve readability */
-@media (min-width: 48em) {
-  html.post article h1 {
-    font-size: 3rem;
-  }
-}
+    .heading
+      width: 100%
+      background: black
+      position: relative
+      padding: 4em 2em 3em
 
-html.post article h1.inverted {
-  color: black;
-}
+      &::before
+        content: ""
+        position: absolute
+        top: 0
+        left: 0
+        width: 100%
+        height: 100%
+        background-size: cover
+        background-position: center
+        background-repeat: no-repeat
+        filter: brightness(0.3)
 
-html.post article .heading .image-credits {
-  float: left;
-  font-size: 1rem;
-  opacity: .7;
-}
+      .container
+        // This will make it stack on top of the ::before
+        position: relative
 
-html.post article .metadata {
-  float: right;
-}
+      .languages
+        text-align: right
 
-html.post article .content {
-  padding: 5em 2em;
-}
+        ul
+          list-style-type: none
 
-html.post article .content p {
-  text-align: justify;
-  hyphens: auto;
-}
+      color: white
 
-/* Make images as wide as the text */
+      &.inverted
+        color: black
 
-html.post article figure.text-wide img {
-  width: 100%;
-}
+    .title
+      margin-top: 4em
 
-html.post article img.text-wide {
-  width: 100%;
-}
+    h1
+      margin-bottom: 1em
 
-/* But no image should add horizontal scrolling to the page */
+      &.inverted
+        color: black
 
-html.post article figure img {
-  max-width: 100%;
-}
+    .heading .image-credits
+      float: left
+      font-size: 1rem
+      opacity: .7
 
-html.post article img {
-  max-width: 100%;
-}
+    .metadata
+      float: right
 
+    .content
+      padding: 5em 2em
 
-/* Make images screen wide across the screen */
+      p
+        text-align: justify
+        hyphens: auto
+      
+      table
+        margin: 1em 0
+        
+        thead
+          border-bottom: 2px #fafad2 solid
+          
+        tbody
+          tr:nth-child(2n)
+            background-color: #fafad2
 
-html.post article figure.wide img {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-}
+    figure.text-wide img, img.text-wide
+      width: 100%
 
-html.post article img.wide {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-}
+    figure img, img
+      max-width: 100%
 
-html.post article figure figcaption {
-  color: gray;
-}
+    figure.wide img, img.wide
+      width: 100vw
+      margin-left: calc(50% - 50vw)
+      margin-right: calc(50% - 50vw)
 
-html.post article blockquote {
-  padding-left: 1rem;
-  padding-right: 1rem;
-  border-left: 0.5rem solid gray;
-  background-color: lightgray;
-}
+    figure figcaption
+      color: gray
 
-/* Blog listing */
+    blockquote
+      padding-left: 1rem
+      padding-right: 1rem
+      border-left: 0.5rem solid gray
+      background-color: lightgray
 
-img.excerpt_cover {
-  width: 200px;
-  float: right;
-  margin: 1em;
-}
+// Make fonts larger on large screens to improve readability
+@media (min-width: 48em)
+  html.post article
+    font-size: 1.4rem
+
+// Give some more room to fit the text on small screens
+
+@media (max-width: 48em)
+  html.post article .heading
+    padding-bottom: 5em
+
+// Make fonts larger on large screens to improve readability
+@media (min-width: 48em)
+  html.post article h1
+    font-size: 3rem
+
+// Make images as wide as the text
+
+// But no image should add horizontal scrolling to the page
+
+// Make images screen wide across the screen
+
+// Blog listing
+
+img.excerpt_cover
+  width: 200px
+  float: right
+  margin: 1em
 
