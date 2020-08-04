@@ -5,7 +5,7 @@ title: >-
   lists
 author: "Augusto Herrmann"
 lang: en
-ref: 2020-08-02-a-simple-python-refactoring-pattern-replacing-special-handling-in-lists
+ref: 2020-08-01-a-simple-python-refactoring-pattern-replacing-special-handling-in-lists
 category: [en, blog]
 tags: [python, code refactoring]
 cover: /assets/images/2020/08/ant-rozetsky-SLIFI67jv5k-unsplash.jpg
