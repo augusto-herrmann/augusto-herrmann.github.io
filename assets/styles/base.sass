@@ -4,6 +4,11 @@ title: CSS stylesheet
 
 @import {{ "assets/styles/syntax-thankful_eyes.css" | relative_url }}
 
+$almost-white: #e2dde1
+$darker-text: #734932
+$darker-bg: #3672a8
+$lighter-bg: #7a93b0
+
 // Links
 
 a
@@ -15,19 +20,19 @@ a
 // Custom default button
 
 .btn-secondary
-  color: #734932
+  color: $darker-text
   text-shadow: none
 
   // Prevent inheritance from `body`
-  background-color: #e2dde1
+  background-color: $almost-white
   border: .05rem solid #fff
 
   &:hover, &:focus
-    color: #734932
+    color: $darker-text
     text-shadow: none
 
     // Prevent inheritance from `body`
-    background-color: #e2dde1
+    background-color: $almost-white
     border: .05rem solid #fff
 
 .btn-en:before
@@ -58,14 +63,14 @@ html, body
   margin: 0
   display: -ms-flexbox
   display: flex
-  color: #e2dde1
+  color: $almost-white
   z-index: -2
 
 h1, h2, h3, h4, h5
   font-family: breeserif
 
 .secondary-color
-  background-color: #7a93b0
+  background-color: $lighter-bg
 
 /*
  * Header
@@ -157,7 +162,7 @@ html
     left: 0
     width: 100%
     height: 100%
-    background-color: #e2dde1
+    background-color: $almost-white
     filter: opacity(0.8)
 
   .content
@@ -170,7 +175,7 @@ html
   animation: slide-from-top 0.6s ease-out
 
   h3
-    color: #734932
+    color: $darker-text
 
 #publications
   position: relative
@@ -238,13 +243,13 @@ html.cover, body.cover
   margin: 0
   display: -ms-flexbox
   display: flex
-  color: #e2dde1
+  color: $almost-white
   text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5)
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.5)
   background-image: url({{ "assets/images/mountain-top.jpg" | relative_url }})
   background-size: cover
   background-repeat: no-repeat
-  background-color: #3672a8
+  background-color: $darker-bg
   z-index: -2
 
 .cover-container
@@ -366,10 +371,10 @@ html.post
     background: white
 
   a
-    color: #734932
+    color: $darker-text
 
     &:focus, &:hover
-      color: #734932
+      color: $darker-text
 
   article
     background: white
@@ -460,6 +465,10 @@ html.post
       padding-right: 1rem
       border-left: 0.5rem solid gray
       background-color: lightgray
+    
+  aside.seeAlso
+    background-color: $lighter-bg
+    padding: 2em
 
 // Make fonts larger on large screens to improve readability
 @media (min-width: 48em)

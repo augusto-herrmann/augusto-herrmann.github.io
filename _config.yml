@@ -28,8 +28,14 @@ t:
     by: "by"
     when: "on"
     image: "image by"
+    see_also: "See also"
+    previous_post: "Previous post"
+    next_post: "Next post"
   pt:
     by: "por"
     when: "em"
     image: "imagem"
+    see_also: "Veja também"
+    previous_post: "Texto anterior"
+    next_post: "Próximo texto"
 

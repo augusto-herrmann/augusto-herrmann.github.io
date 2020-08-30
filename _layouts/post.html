@@ -44,6 +44,35 @@
       </div>    
     </div>
     </article>
+    {% assign posts = site.posts | reverse | where:"lang", page.lang %}
+    
+    {% assign iteration_previous = False %}
+    
+    {% for iteration_current in posts %}
+      {% if page.ref == iteration_current.ref %}
+        {% assign previous = iteration_previous %}
+      {% elsif iteration_previous != False %}  
+        {% if page.ref == iteration_previous.ref %}
+          {% assign next = iteration_current %}
+        {% endif %}
+      {% endif %}
+      {% assign iteration_previous = iteration_current %}
+    {% endfor %}
+    <aside class="seeAlso">
+      <h2>{{ site.t[page.lang].see_also }}</h2>
+      <div class="row">
+      {% if previous %}
+        <div class="col">
+          {{ site.t[page.lang].previous_post }}: <a class="btn btn-lg btn-secondary button1" href="{{ previous.url | relative_url }}">{{previous.title}}</a>
+        </div>
+      {% endif %}  
+      {% if next %}
+        <div class="col">
+          {{ site.t[page.lang].next_post }}: <a class="btn btn-lg btn-secondary button2" href="{{ next.url | relative_url }}">{{next.title}}</a>
+        </div>
+      {% endif %}
+      </div>
+    </aside>
   </main>
   <!-- Optional JavaScript -->
   </body>
