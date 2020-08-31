@@ -2,7 +2,7 @@
 layout: post
 title: >-
   Cadência e estética: coisas estranhas que moldam artigos de maneiras
-  inesperadas em língas latinas
+  inesperadas em línguas latinas
 author: “Augusto Herrmann"
 lang: pt
 ref: 2020-08-30-cadence-and-aesthetics-weird-things-that-shape-articles-in-unexpected-ways-in-romance-languages
@@ -76,7 +76,7 @@ Entretanto, se a próxima palavra não começar com uma vogal, deve-se usar
 
 <figure markdown="1">
 ![Silhueta de uma mulher fazendo uma pose de pulo em um corredor de uma escola.]({{ 'assets/images/2020/08/mesh-TRVSyEf4UEE-unsplash.jpg' | relative_url }})
-<figcaption>Eu não sei o qual legal essa escola é, mas ela certamente parece
+<figcaption>Eu não sei o quão legal essa escola é, mas ela certamente parece
 estar entusiasmada com ela (crédito da foto: <a target="_blank"
 href="https://unsplash.com/@crypticsy">Mesh</a> no Unsplash).</figcaption>
 </figure>
