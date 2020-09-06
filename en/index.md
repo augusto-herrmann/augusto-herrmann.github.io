@@ -145,7 +145,7 @@ For more posts, please see [the blog](blog).
 * 🇷🇺 Moscow, 11/12/2014 -- [From Chaos to Order: Open Data for All](https://www.youtube.com/watch?v=vYU6-BRyjXA) and [CKAN overview](https://www.slideshare.net/AugustoHerrmannBatis/ckan-overview) (in English, with simultaneous translation to Russian) -- [IV Moscow Urban Forum](https://mosurbanforum.com/archive/2014/)
 * 🇧🇷 Florianópolis, 20/11/2014 -- [Minicurso de CKAN](https://www.slideshare.net/AugustoHerrmannBatis/minicurso-de-ckan)  (in Portuguese, but [an English version is available](https://www.slideshare.net/AugustoHerrmannBatis/ckan-overview)) -- [Congresso Linked Open Data Brasil](https://noticias.ufsc.br/2014/11/ufsc-recebe-congresso-brasileiro-linked-open-data-de-19-a-21-de-novembro/)
 * 🇧🇷 Brasília, 22/11/2013 -- Oficina: Licenciamento de dados abertos (in Portuguese) -- [II Encontro Nacional de Dados Abertos](http://wiki.dados.gov.br/II-Encontro-Nacional-de-Dados-Abertos.ashx)
-* 🇧🇷 Brasília, 15/8/2013 -- [Aspectos legais na utilização de dados abertos](https://www.slideshare.net/AugustoHerrmannBatis/aspectos-legais-na-utilizao-de-dados-abertos) (in Portuguese) -- Consegi 2013
+* 🇧🇷 Brasília, 15/8/2013 -- [Aspectos legais na utilização de dados abertos](https://www.slideshare.net/AugustoHerrmannBatis/aspectos-legais-na-utilizao-de-dados-abertos) (in Portuguese) -- [Consegi 2013](https://blog.consegi.gov.br/post/58364990791/voc%C3%AA-sabe-o-que-s%C3%A3o-dados-abertos)
 * 🇧🇷 Rio de Janeiro, 18/11/2011 -- Semântica e Ontologias conectando Dados na Web (in Portuguese) -- [3ª Conferência Web W3C Brasil](https://conferenciaweb.w3c.br/2011/)
 
 </div>
