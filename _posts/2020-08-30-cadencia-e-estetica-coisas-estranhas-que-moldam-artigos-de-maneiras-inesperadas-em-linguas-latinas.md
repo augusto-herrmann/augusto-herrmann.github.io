@@ -3,7 +3,7 @@ layout: post
 title: >-
   Cadência e estética: coisas estranhas que moldam artigos de maneiras
   inesperadas em línguas latinas
-author: “Augusto Herrmann"
+author: "Augusto Herrmann"
 lang: pt
 ref: 2020-08-30-cadence-and-aesthetics-weird-things-that-shape-articles-in-unexpected-ways-in-romance-languages
 category: [pt, blog]
@@ -12,7 +12,7 @@ cover: /assets/images/2020/08/daniel-canibano-IvIhwbuMvG0-unsplash.jpg
 desc: >-
   Em línguas latinas, a maneira que as palavras soam podem mudar artigos de
   maneiras surpreendentes. Vamos dar uma olhada em algumas delas.
-image-credits: “Daniel Cañibaoo / Unsplash"
+image-credits: "Daniel Cañibano / Unsplash"
 ---
 
 Como um aspirante a poliglota e linguista amador, às vezes eu encontro

@@ -3,7 +3,7 @@ layout: post
 title: >-
   Cadence and aesthetics: weird things that change articles in unexpected ways
   in romance languages
-author: “Augusto Herrmann"
+author: "Augusto Herrmann"
 lang: en
 ref: 2020-08-30-cadence-and-aesthetics-weird-things-that-shape-articles-in-unexpected-ways-in-romance-languages
 category: [en, blog]
@@ -12,7 +12,7 @@ cover: /assets/images/2020/08/daniel-canibano-IvIhwbuMvG0-unsplash.jpg
 desc: >-
   In romance languages the way words sound can change articles in surprising
   ways. Let's take a look at some of those.
-image-credits: “Daniel Cañibaoo / Unsplash"
+image-credits: "Daniel Cañibano / Unsplash"
 ---
 
 As a aspiring polyglot and amateur linguist, sometimes I find curious
