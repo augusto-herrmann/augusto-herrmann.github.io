@@ -3,7 +3,7 @@ published: true
 permalink: /en/
 layout: default
 filename: index.md
-title: Augusto Herrmann – data professional and blog
+title: Augusto Herrmann – data for improving lives
 lang: en
 ref: index
 category: [en]
