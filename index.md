@@ -4,7 +4,7 @@ permalink: /
 layout: cover
 filename: index.md
 ref: root
-title: herrmann.tech – Augusto Herrmann
+title: Augusto Herrmann
 desc: Augusto Herrmann's writings about technology and professional info.
 ---
 

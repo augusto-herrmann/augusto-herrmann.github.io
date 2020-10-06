@@ -4,6 +4,7 @@ title: CSS stylesheet
 
 @import {{ "assets/styles/syntax-thankful_eyes.css" | relative_url }}
 
+$clear-white-bg: #fff
 $almost-white: #e2dde1
 $darker-text: #734932
 $darker-bg: #3672a8
@@ -377,7 +378,7 @@ html.post
       color: $darker-text
 
   article
-    background: white
+    background: $clear-white-bg
 
     .heading
       width: 100%
@@ -465,7 +466,23 @@ html.post
       padding-right: 1rem
       border-left: 0.5rem solid gray
       background-color: lightgray
-    
+
+  aside.aboutAuthor
+    background-color: $clear-white-bg
+    padding: 2em
+    font-size: 1.2rem
+    img
+      float: left
+      padding: 1em
+    p
+      clear: left
+      min-height: 100px
+
+  aside.licensing
+    background-color: $almost-white
+    padding: 2em
+    font-size: 1rem
+  
   aside.seeAlso
     background-color: $lighter-bg
     padding: 2em

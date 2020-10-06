@@ -10,7 +10,7 @@
 
   <div class="row inner contact">
 
-![Augusto's portrait]({{ 'assets/images/4730_2.png' | relative_url }}){: .col-sm .pop-in}
+![{{ site.t[page.lang].portrait }}]({{ 'assets/images/4730_2.png' | relative_url }}){: .col-sm .pop-in}
 
 [*/*{: .fab .fa-github}augusto-herrmann](https://github.com/augusto-herrmann)  
 [*/*{: .fab .fa-linkedin}augusto-herrmann-batista](https://www.linkedin.com/in/augusto-herrmann-batista-7678abb3/)  

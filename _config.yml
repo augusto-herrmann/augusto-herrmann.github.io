@@ -25,17 +25,50 @@ feed:
 # site wide translations
 t:
   en:
+    portrait: Augusto’s portrait
+    bio:
+      is a civic hacker engaged in finding ways to improve lives with the use
+      of data. With a passion to open data, free software, the open and
+      semantic web, data science, data engineering, machine learning and
+      natural language processing, I've been involved in many interesting
+      projects over the years, including designing and implementing
+      collaboratively Brazil's national open data policy and portal, from 2010
+      to 2018.
     by: "by"
     when: "on"
     image: "image by"
+    about_author: About the author
+    licensing_preamble: The texts on this blog can be used according to the
+    license_name: Creative Commons Attribution-ShareAlike 4.0 International
+    license_href: https://creativecommons.org/licenses/by-sa/4.0/
+    licensing_supplement: license unless otherwise specified.
     see_also: "See also"
+    see_also_text:
+      If you like this post, you might want to look at these too
     previous_post: "Previous post"
     next_post: "Next post"
   pt:
+    portrait: retrato de Augusto
+    bio:
+      é um hacker cívico engajado em encontrar maneiras de melhorar vidas com
+      o uso de dados. Apaixonado por dados abertos, software livre, a web
+      aberta e semântica, ciência de dados, engenharia de dados, aprendizado
+      de máquina e processamento de linguagem natural, estive envolvido em
+      diversos projetos interessantes ao longo dos anos, incluindo projetar e
+      implementar colaborativamente a política e o portal de dados abertos do
+      governo federal brasileiro, de 2010 a 2018.
     by: "por"
     when: "em"
     image: "imagem"
+    about_author: Sobre o autor
+    licensing_preamble:
+      Os textos deste blog podem ser usados de acordo com a licença
+    license_name: Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional
+    license_href: https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR
+    licensing_supplement: exceto quando especificado em contrário.
     see_also: "Veja também"
+    see_also_text:
+      Se você gostou desta postagem, você pode querer ver essas também
     previous_post: "Texto anterior"
     next_post: "Próximo texto"
 

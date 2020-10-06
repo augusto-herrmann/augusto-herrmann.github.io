@@ -44,6 +44,32 @@
       </div>    
     </div>
     </article>
+    {% if page.author == 'Augusto Herrmann' %}
+    <aside class="aboutAuthor">
+      <h2>{{ site.t[page.lang].about_author }}</h2>
+      <p>
+        <img
+          alt="{{ site.t[page.lang].portrait }}"
+          src="{{ 'assets/images/4730_2.png' | relative_url }}"
+        />
+        <a href="{{site.baseurl}}{{page.lang}}">
+          {{ page.author }}
+        </a>
+        {{ site.t[page.lang].bio }}
+      </p>
+    </aside>
+    {% endif %}
+    <aside class="licensing">
+      {{ site.t[page.lang].licensing_preamble }}
+      <a rel="license" href="{{ site.t[page.lang].license_href }}">
+        {{ site.t[page.lang].license_name }}
+        <img
+          alt="{{ site.t[page.lang].license_name }}"
+          src="{{site.baseurl}}/assets/images/cc-4-by-sa-88x31.png"
+        />
+      </a>
+      {{ site.t[page.lang].licensing_supplement}}
+    </aside>
     {% assign posts = site.posts | reverse | where:"lang", page.lang %}
     
     {% assign iteration_previous = False %}
@@ -60,6 +86,7 @@
     {% endfor %}
     <aside class="seeAlso">
       <h2>{{ site.t[page.lang].see_also }}</h2>
+      <p>{{ site.t[page.lang].see_also_text }}:</p>
       <div class="row">
       {% if previous %}
         <div class="col">
