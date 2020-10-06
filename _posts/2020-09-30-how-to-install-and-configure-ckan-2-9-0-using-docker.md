@@ -513,3 +513,6 @@ the documentation did not work right away. However, with help from the CKAN
 community, we were able to overcome those hurdles and to end up with a
 working installation of the latest version of CKAN in a Docker environment.
 
+**Edit:** for another possible way to install CKAN 2.9.0 with Docker, please
+see this [blog post](https://blog.thenets.org/install-ckan-using-docker/) by
+Luis Felipe Costa.

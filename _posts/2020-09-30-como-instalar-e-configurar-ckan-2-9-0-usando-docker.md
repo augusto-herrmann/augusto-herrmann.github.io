@@ -526,3 +526,8 @@ da documentação não funcionaram de imediato. Entretanto, com a ajuda da
 comunidade do CKAN, fomos capazes de superar esses obstáculos e terminar com
 uma instalação da última versão do CKAN, em pleno funcionamento em um ambiente
 Docker.
+
+**Editado:** para uma outra maneira possível de se instalar o CKAN 2.9.0 com
+Docker, por favor leia esta
+[postagem de blog](https://blog.thenets.org/install-ckan-using-docker/) (em
+inglês) do Luis Felipe Costa.
