@@ -515,4 +515,7 @@ working installation of the latest version of CKAN in a Docker environment.
 
 **Edit:** for another possible way to install CKAN 2.9.0 with Docker, please
 see this [blog post](https://blog.thenets.org/install-ckan-using-docker/) by
-Luis Felipe Costa.
+Luiz Felipe Costa. Luiz developed the CKAN customization for the
+[dados.gov.br](https:/dados.gov.br)
+[revision from 2017](https://wiki.dados.gov.br/ProdutoGT3_Portal%20de%20Dados%20Abertos.ashx#%E2%9E%83_E%C2%BA_Ciclo_CABH_15),
+which I was the product owner of, and I can only recommend his services.

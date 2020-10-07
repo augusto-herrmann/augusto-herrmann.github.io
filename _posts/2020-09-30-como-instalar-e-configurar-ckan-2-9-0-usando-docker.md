@@ -530,4 +530,7 @@ Docker.
 **Editado:** para uma outra maneira possível de se instalar o CKAN 2.9.0 com
 Docker, por favor leia esta
 [postagem de blog](https://blog.thenets.org/install-ckan-using-docker/) (em
-inglês) do Luis Felipe Costa.
+inglês) do Luiz Felipe Costa. O Luiz desenvolveu a personalização do CKAN para
+o portal [dados.gov.br](https://dados.gov.br) na
+[revisão de 2017](https://wiki.dados.gov.br/ProdutoGT3_Portal%20de%20Dados%20Abertos.ashx#%E2%9E%83_E%C2%BA_Ciclo_CABH_15),
+da qual eu fui *product owner*, e eu recomendo os seus serviços.
