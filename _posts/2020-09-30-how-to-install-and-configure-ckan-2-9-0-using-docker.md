@@ -5,7 +5,7 @@ author: "Augusto Herrmann"
 lang: en
 ref: 2020-09-30-how-to-install-and-configure-ckan-2-9-0-using-docker
 category: [en, blog]
-tags: [ckan,docker]
+tags: [ckan, docker, how to]
 cover: /assets/images/2020/09/max-gotts-AFg4iczGE9g-unsplash.jpg
 desc: >-
   After a few years, I try using CKAN again with Docker. Let's find out

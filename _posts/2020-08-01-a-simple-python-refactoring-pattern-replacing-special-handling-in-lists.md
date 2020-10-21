@@ -7,7 +7,7 @@ author: "Augusto Herrmann"
 lang: en
 ref: 2020-08-01-a-simple-python-refactoring-pattern-replacing-special-handling-in-lists
 category: [en, blog]
-tags: [python, code refactoring]
+tags: [python, code refactoring, how to]
 cover: /assets/images/2020/08/ant-rozetsky-SLIFI67jv5k-unsplash.jpg
 desc: >-
   A way to refactor Python code when you have to handle in a consistent way
