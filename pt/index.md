@@ -20,18 +20,24 @@ themes:
     [14ª](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     posições em rankings internacionais
   - |
-    ### governo aberto
+    ### governo aberto e participação cidadã
     
     contribuições sobre dados abertos em todos os 4 planos de ação da
     [Parceria para Governo Aberto](http://governoaberto.cgu.gov.br/a-ogp/o-que-e-a-iniciativa),
     desde a elaboração até a execução de compromissos
-  - |
-    ### participação cidadã
-    
+
     participou da condução da primeira
     [construção colaborativa](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     no mundo de um portal de governo, aberta à participação de
     qualquer cidadão
+  - |
+    ### engenharia de dados
+    
+    implementou fluxos de dados para alguns indicadores da administração
+    pública federal (chamado [painel Raio-X](https://www.gov.br/raio-x))
+    e a abertura de seus
+    [dados](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
+    usando um stack de software livre incluindo o Apache Airflow
   - |
     ### aprendizagem de máquina
     

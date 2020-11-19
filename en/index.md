@@ -20,17 +20,23 @@ themes:
     [14th](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     positions in international rankings
   - |
-    ### open government
+    ### open government and citizen participation
     
     made contributions on open data to all of the 4 Brazilian action
     plans in the [Open Government Partnership](https://www.opengovpartnership.org/),
     from drafting to excecution of commitments
-  - |
-    ### citizen participation
     
     took part in driving the first ever
     [collaborative crafting](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     in the world of a government portal, open to participation of any citizen
+  - |
+    ### data engineering
+    
+    implemented data flows for some indicators of the Brazilian public
+    administration (called the [X-Ray dashboard](https://www.gov.br/raio-x))
+    and the opening of its
+    [data](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
+    using a free and open source software stack including Apache Airflow
   - |
     ### machine learning
     
