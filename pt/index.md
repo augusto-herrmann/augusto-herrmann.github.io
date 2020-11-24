@@ -7,7 +7,7 @@ title: Augusto Herrmann – dados para melhorar vidas
 lang: pt
 ref: index
 category: [pt]
-desc: Criando valor público de a partir dos dados. Informações profissionais
+desc: Criando valor público a partir dos dados. Informações profissionais
       sobre Augusto Herrmann escritos sobre tecnologia e outros assuntos.
 themes_heading: Assuntos
 themes:
