@@ -54,11 +54,11 @@
 
     <!---open graph protocol -->
     <meta property="og:site_name" content="herrmann.tech">
-    <meta property="title" content="{{ page.title }}">
+    <meta property="og:title" content="{{ page.title }}">
     {% if page.desc %}
-      <meta property="description" content="{{ page.desc }}">
+      <meta property="og:description" content="{{ page.desc }}">
     {% else %}
-      <meta property="description" content="A page or article on herrmann.tech website.">
+      <meta property="og:description" content="A page or article on herrmann.tech website.">
     {% endif %}
     {% if page.lang == 'pt' %}
       <meta property="og:locale" content="pt_BR">
