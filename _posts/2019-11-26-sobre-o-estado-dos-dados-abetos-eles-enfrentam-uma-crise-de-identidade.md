@@ -7,6 +7,7 @@ ref: 2019-11-25-on-the-state-of-open-data-does-it-face-an-identity-crisis
 category: [pt, blog]
 tags: [dados abertos, impacto dos dados abertos]
 cover: /assets/images/2019/11/inset-agency-gTbRw_XcYpE-unsplash.jpg
+snippet-image: /assets/images/2019/11/open-data-identity-crisis-2019-05-20.jpg
 desc: >-
   Reflexões sobre o impacto das políticas de dados abertos, o livro o Estado
   dos Dados Abertos e o seu evento de lançamento, bem como se os dados abertos

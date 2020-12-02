@@ -7,6 +7,7 @@ ref: 2019-06-13-tokens-and-tribulations
 category: [en, blog]
 tags: [digital cerificate, ICP Brasil, cryptographic token]
 cover: /assets/images/2019/06/brina-blum-156977-unsplash.jpg
+snippet-image: /assets/images/2019/06/brina-blum-156977-unsplash.jpg
 desc: >-
   Tutorial with step by step instructions on how to install and use the
   cryptographic token GD Starsign on the Ubuntu 18.04.2 LTS operating system.

@@ -7,6 +7,7 @@ ref: 2020-09-30-how-to-install-and-configure-ckan-2-9-0-using-docker
 category: [en, blog]
 tags: [ckan, docker, how to]
 cover: /assets/images/2020/09/max-gotts-AFg4iczGE9g-unsplash.jpg
+snippet-image: /assets/images/2020/09/ckan-master-class-moscow-urban-forum-2014.jpg
 desc: >-
   After a few years, I try using CKAN again with Docker. Let's find out
   just how much straightforward (or not) it is to set up an open data

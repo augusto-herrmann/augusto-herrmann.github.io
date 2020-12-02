@@ -9,6 +9,7 @@ ref: 2020-08-01-a-simple-python-refactoring-pattern-replacing-special-handling-i
 category: [en, blog]
 tags: [python, code refactoring, how to]
 cover: /assets/images/2020/08/ant-rozetsky-SLIFI67jv5k-unsplash.jpg
+snippet-image: /assets/images/2020/08/ant-rozetsky-SLIFI67jv5k-unsplash.jpg
 desc: >-
   A way to refactor Python code when you have to handle in a consistent way
   just a few special cases on a list.

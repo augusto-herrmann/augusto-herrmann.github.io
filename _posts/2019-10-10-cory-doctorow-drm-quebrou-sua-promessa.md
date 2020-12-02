@@ -7,6 +7,7 @@ ref: 2019-08-27-cory-doctorow-drm-broke-its-promise
 category: [pt, blog]
 tags: [drm, defesa do consumidor, mídia digital, livros digitais, e-books]
 cover: /assets/images/2019/10/jose-fontano-pZld9PiPDno-unsplash.jpg
+snippet-image: /assets/images/2019/10/jose-fontano-pZld9PiPDno-unsplash.jpg
 desc: >-
   As grandes corporações de tecnologia e mídia nos prometeram que os ssistemas
   de controle de mídias digitais, chamados DRM, nos trariam flexibilidade e

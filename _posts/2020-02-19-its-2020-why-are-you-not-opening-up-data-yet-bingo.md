@@ -7,6 +7,7 @@ ref: 2020-02-19-its-2020-why-are-you-not-opening-up-data-yet-bingo
 category: [en, blog]
 tags: [open data, data publisher]
 cover: /assets/images/2020/02/sydney-rae-geM5lzDj4Iw-unsplash.jpg
+snippet-image: /assets/images/2020/02/italian-open-data-bingo.gif
 desc: >-
   A new year has arrived and some people are still using old excuses not to
   open up data that should be available for the public to use. How could we

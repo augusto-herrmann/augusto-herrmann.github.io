@@ -51,10 +51,32 @@
     {% else %}
       <link type="application/atom+xml" rel="alternate" href="{{ 'feed.xml' | relative_url }}" title="herrmann.tech Atom feed" />
     {% endif %}
-    
-    <style type="text/css">
-      html.post article .heading::before {
-        background-image: url('{{ page.cover | relative_url }}');
-      }
-    </style>
+
+    <!---open graph protocol -->
+    <meta property="og:site_name" content="herrmann.tech">
+    <meta property="title" content="{{ page.title }}">
+    {% if page.desc %}
+      <meta property="description" content="{{ page.desc }}">
+    {% else %}
+      <meta property="description" content="A page or article on herrmann.tech website.">
+    {% endif %}
+    {% if page.lang == 'pt' %}
+      <meta property="og:locale" content="pt_BR">
+    {% else %}
+      <meta property="og:locale" content="{{ page.lang }}">
+    {% endif %}
+
+    {% if page_type == blog_post %}
+      <!-- for blog posts -->
+      <meta property="og:type" content="article">
+      {% if page.snippet-image %}
+        <meta property="og:image" content="{{ page.snippet-image }}">
+      {% endif %}
+
+      <style type="text/css">
+        html.post article .heading::before {
+          background-image: url('{{ page.cover | relative_url }}');
+        }
+      </style>
+    {% endif %}
   </head>

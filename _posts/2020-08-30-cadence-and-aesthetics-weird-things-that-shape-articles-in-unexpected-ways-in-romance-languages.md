@@ -9,6 +9,7 @@ ref: 2020-08-30-cadence-and-aesthetics-weird-things-that-shape-articles-in-unexp
 category: [en, blog]
 tags: [languages]
 cover: /assets/images/2020/08/daniel-canibano-IvIhwbuMvG0-unsplash.jpg
+snippet-image: /assets/images/2020/08/thandy-yung-UbVeeFYrcUs-unsplash.jpg
 desc: >-
   In romance languages the way words sound can change articles in surprising
   ways. Let's take a look at some of those.

@@ -9,6 +9,7 @@ ref: 2020-08-30-cadence-and-aesthetics-weird-things-that-shape-articles-in-unexp
 category: [pt, blog]
 tags: [languages]
 cover: /assets/images/2020/08/daniel-canibano-IvIhwbuMvG0-unsplash.jpg
+snippet-image: /assets/images/2020/08/thandy-yung-UbVeeFYrcUs-unsplash.jpg
 desc: >-
   Em línguas latinas, a maneira que as palavras soam podem mudar artigos de
   maneiras surpreendentes. Vamos dar uma olhada em algumas delas.

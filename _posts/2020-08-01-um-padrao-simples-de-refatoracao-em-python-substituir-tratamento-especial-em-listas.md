@@ -9,6 +9,7 @@ ref: 2020-08-01-a-simple-python-refactoring-pattern-replacing-special-handling-i
 category: [pt, blog]
 tags: [python, code refactoring, tutorial]
 cover: /assets/images/2020/08/ant-rozetsky-SLIFI67jv5k-unsplash.jpg
+snippet-image: /assets/images/2020/08/ant-rozetsky-SLIFI67jv5k-unsplash.jpg
 desc: >-
   Uma maneira de refatorar código Python quando você tem que lidar de uma
   maneira consistente com alguns casos especiais em uma lista.

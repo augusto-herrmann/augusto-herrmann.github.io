@@ -7,6 +7,7 @@ ref: 2019-08-27-counting-tabular-and-map-datasets-in-ckan
 category: [en, blog]
 tags: [open data, ckan, jupyter notebook, how to]
 cover: /assets/images/2019/08/fleur-dQf7RZhMOJU-unsplash.jpg
+snippet-images: /assets/images/2019/08/fleur-dQf7RZhMOJU-unsplash.jpg
 desc: >-
   How to count tabular and map datasets in a CKAN instance using the API,
   explained in a Jupyter Notebook.

@@ -7,6 +7,7 @@ ref: 2019-05-17-notes-on-the-course-new-advances-in-digital-and-open-government
 category: [en, blog]
 tags: [open government, shared services, innovation, enterprise architecture]
 cover: /assets/images/2019/05/banner-marijin.jpg
+snippet-image: /assets/images/2019/05/banner-marijin.jpg
 desc: >-
   Notes taken by Augusto Herrmann during his participation in the course New
   Advances in Open and Digital Government, run on the week of 13th to 17th of
