@@ -345,7 +345,7 @@ with in-place workshops and almost 1,800 people in the distance
 course.
 
 <figure markdown="1" class="text-wide">
-![one of the training sessions for public servants on how to plan for open data]({{ 'assets/images/2019/11/open-data-planning-traning.jpg' | relative_url }})
+![one of the training sessions for public servants on how to plan for open data]({{ 'assets/images/2019/11/open-data-planning-training.jpg' | relative_url }})
 <figcaption>One of the workshops on open data planning for public servants in the Brazilian federal government.</figcaption>
 </figure>
 

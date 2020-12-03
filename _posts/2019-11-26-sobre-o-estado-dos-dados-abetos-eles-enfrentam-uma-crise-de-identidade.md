@@ -186,7 +186,7 @@ oferta dos dados abertos foi complementado pelo
 na forma de guias e cursos à distância sobre o uso de dados abertos.
 
 <figure markdown="1" class="text-wide">
-![uma das sessões de capacitação para servidores públicos sobre como planejar dados abertos]({{ 'assets/images/2019/11/open-data-planning-traning.jpg' | relative_url }})
+![uma das sessões de capacitação para servidores públicos sobre como planejar dados abertos]({{ 'assets/images/2019/11/open-data-planning-training.jpg' | relative_url }})
 <figcaption>Uma das oficinas de planejamento de dados abertos para servidores públicos no governo federal.</figcaption>
 </figure>
 
