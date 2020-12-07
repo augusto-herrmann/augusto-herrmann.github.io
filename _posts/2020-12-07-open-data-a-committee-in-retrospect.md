@@ -3,7 +3,7 @@ layout: post
 title: "Open data: a committee in retrospect"
 author: "Augusto Herrmann"
 lang: en
-ref: 2020-12-02-open-data-a-committee-in-retrospect
+ref: 2020-12-07-open-data-a-committee-in-retrospect
 category: [en, blog]
 tags: [open data,open government,social participation]
 cover: /assets/images/2020/12/maximilian-weisbecker-Esq0ovRY-Zs-unsplash.jpg

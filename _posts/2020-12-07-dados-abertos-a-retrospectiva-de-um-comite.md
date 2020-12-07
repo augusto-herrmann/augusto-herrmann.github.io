@@ -3,7 +3,7 @@ layout: post
 title: "Dados abertos: a retrospectiva de um comitê"
 author: "Augusto Herrmann"
 lang: pt
-ref: 2020-12-02-open-data-a-committee-in-retrospect
+ref: 2020-12-07-open-data-a-committee-in-retrospect
 category: [pt, blog]
 tags: [dados abertos,governo aberto,participação social]
 cover: /assets/images/2020/12/maximilian-weisbecker-Esq0ovRY-Zs-unsplash.jpg
