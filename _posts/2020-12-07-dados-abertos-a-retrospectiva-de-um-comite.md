@@ -199,10 +199,10 @@ importante e fortemente influenciador na história dos dados abertos no
 Brasil. Praticamente todos os palestrantes desta conferência viriam mais
 tarde a desempenhar um papel ainda mais importante, de alguma maneira,
 no desenvolvimento do ecossistema de dados abertos nos anos
-subsequentes. There were not only talks, but also courses, workshops on
-topics very much relevant to the open data agenda and an open data
-contest that awarded applications that used open data for developing
-civic applications.
+subsequentes. Não houve apenas palestras, mas também cursos, oficinas em
+assuntos bastante relevantes para a agenda dos dados abertos e um
+concurso de dados abertos que premiou soluções e visualizações que usaram
+dados abertos para desenvolver aplicações cívicas.
 
 Os temas das oficinas foram:
 

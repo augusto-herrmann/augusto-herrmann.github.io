@@ -198,8 +198,8 @@ every speaker at the conference would later take an even more important
 role in some way in developing the open data ecosystem in the years to
 come. There were not only talks, but also courses, workshops on topics
 very much relevant to the open data agenda and an open data contest that
-awarded applications that used open data for developing civic
-applications.
+awarded solutions and visualizations that used open data for developing
+civic applications.
 
 The themes of the workshops were:
 
