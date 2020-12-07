@@ -289,7 +289,7 @@ ganhassem escala para todas as instituições do governo federal. Um dos
 [Decreto n.º 8.777/2016](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Decreto/D8777.htm)
 estabeleceu que planos de dados abertos institucionais, como os que tinham
 sido feitos no Ministério do Planejamento e no Ministério da Justiça, se
-tornaria obrigatório para todos os órgãos e entidades federais:
+tornariam obrigatórios para todos os órgãos e entidades federais:
 
 > § 2º A implementação da Política de Dados Abertos ocorrerá por meio da
 > execução de Plano de Dados Abertos no âmbito de cada órgão ou entidade
