@@ -61,15 +61,18 @@
     </aside>
     {% endif %}
     <aside class="licensing">
-      {{ site.t[page.lang].licensing_preamble }}
-      <a rel="license" href="{{ site.t[page.lang].license_href }}">
-        {{ site.t[page.lang].license_name }}
-        <img
-          alt="{{ site.t[page.lang].license_name }}"
-          src="{{site.baseurl}}/assets/images/cc-4-by-sa-88x31.png"
-        />
-      </a>
-      {{ site.t[page.lang].licensing_supplement}}
+      <p>{{ site.t[page.lang].disclaimer }}</p>
+      <p>
+        {{ site.t[page.lang].licensing_preamble }}
+        <a rel="license" href="{{ site.t[page.lang].license_href }}">
+          {{ site.t[page.lang].license_name }}
+          <img
+            alt="{{ site.t[page.lang].license_name }}"
+            src="{{site.baseurl}}/assets/images/cc-4-by-sa-88x31.png"
+          />
+        </a>
+        {{ site.t[page.lang].licensing_supplement}}
+      </p>
     </aside>
     {% assign posts = site.posts | reverse | where:"lang", page.lang %}
     

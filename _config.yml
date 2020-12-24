@@ -27,13 +27,17 @@ t:
   en:
     portrait: Augusto’s portrait
     bio:
-      is a civic hacker engaged in finding ways to improve lives with the use
-      of data. With a passion to open data, free software, the open and
-      semantic web, data science, data engineering, machine learning and
-      natural language processing, I've been involved in many interesting
-      projects over the years, including designing and implementing
-      collaboratively Brazil's national open data policy and portal, from 2010
-      to 2018.
+      is a civic innovation practitioner engaged in finding ways to
+      improve lives with the use of data. With a passion to open data,
+      free software, the open and semantic web, data science, data
+      engineering, machine learning and natural language processing,
+      I've been involved in many interesting projects over the years,
+      including designing and implementing collaboratively Brazil's
+      national open data policy and portal, from 2010 to 2018.
+    disclaimer:
+      The views expressed on this article are those of the author only
+      and do not necessarily represent the views of his employers and
+      bear no direct relationship with his work.
     by: "by"
     when: "on"
     image: "image by"
@@ -50,13 +54,18 @@ t:
   pt:
     portrait: retrato de Augusto
     bio:
-      é um hacker cívico engajado em encontrar maneiras de melhorar vidas com
-      o uso de dados. Apaixonado por dados abertos, software livre, a web
-      aberta e semântica, ciência de dados, engenharia de dados, aprendizado
-      de máquina e processamento de linguagem natural, estive envolvido em
-      diversos projetos interessantes ao longo dos anos, incluindo projetar e
-      implementar colaborativamente a política e o portal de dados abertos do
+      é um praticante da inovação cívica engajado em encontrar maneiras
+      de melhorar vidas com o uso de dados. Apaixonado por dados
+      abertos, software livre, a web aberta e semântica, ciência de
+      dados, engenharia de dados, aprendizado de máquina e processamento
+      de linguagem natural, estive envolvido em diversos projetos
+      interessantes ao longo dos anos, incluindo projetar e implementar
+      colaborativamente a política e o portal de dados abertos do
       governo federal brasileiro, de 2010 a 2018.
+    disclaimer:
+      As opiniões expressas neste artigo são apenas as do autor e não
+      necessariamente representam as posições de seu empregador e não
+      trazem nenhuma relação direta com o seu trabalho.
     by: "por"
     when: "em"
     image: "imagem"
