@@ -2,7 +2,7 @@
 layout: post
 title: >-
   Por que ainda chamamos o Facebook de plataforma?
-  O que é mesmo uma plataforma?"
+  O que é mesmo uma plataforma?
 author: "Augusto Herrmann"
 lang: pt
 ref: 2020-12-09-why-do-we-still-call-facebook-a-platform-what-is-a-platform-really
