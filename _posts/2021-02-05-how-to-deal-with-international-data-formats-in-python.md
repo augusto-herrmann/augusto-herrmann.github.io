@@ -198,7 +198,7 @@ work.
    sed -i 's/^# fr_FR.UTF-8 UTF-8$/fr_FR.UTF-8 UTF-8/g' /etc/locale.gen
    ```
 
-   for instance, to enable the German locale settings.
+   for instance, to enable the French and German locale settings.
 3. Run `locale-gen` to generate the locales you have chosen. For
    example, if you wish to have U.S. English, German and French enabled,
    you would do

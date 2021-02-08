@@ -199,7 +199,7 @@ baseado em Debian como o Ubuntu, então o seguinte deve funcionar.
    ```
 
    por exemplo, para habilitar as configurações de localidade para o
-   alemão.
+   francês.
 3. Rode o `locale-gen` para gerar as localidades que você escolheu. Por
    exemplo, se você quer ter disponíveis inglês dos E.U.A., francês e
    português do Brasil, você faria
