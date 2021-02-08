@@ -198,7 +198,8 @@ baseado em Debian como o Ubuntu, então o seguinte deve funcionar.
    sed -i 's/^# fr_FR.UTF-8 UTF-8$/fr_FR.UTF-8 UTF-8/g' /etc/locale.gen
    ```
 
-   for instance, to enable the German locale settings.
+   por exemplo, para habilitar as configurações de localidade para o
+   alemão.
 3. Rode o `locale-gen` para gerar as localidades que você escolheu. Por
    exemplo, se você quer ter disponíveis inglês dos E.U.A., francês e
    português do Brasil, você faria
