@@ -1,2 +1,5 @@
+# do not store html cooked by Jekyll
 _site
+
+# editor metadata
 .vscode
