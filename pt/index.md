@@ -97,7 +97,7 @@ Para mais postagens, por favor veja [o blog](blog).
 ### *﻿*{: .far .fa-calendar-alt} 2020
 
 * 🌐 Online, 10/12/2020 -- [Webinar OKBR – 10 anos do início da construção da INDA no Brasil](https://www.ok.org.br/noticia/webinar-celebra-10-anos-da-infraestrutura-nacional-de-dados-abertos-no-brasil/) ([gravação](https://www.youtube.com/watch?v=1rCsoU7XSdM))
-* 🇧🇷 Brasília, 6/3/2020 -- [Open Data Day 2020](https://opendataday.org) -- [Rio de Janeiro - Arquivo Nacional](http://arquivonacional.gov.br/br/ultimas-noticias/2043-6-de-marco-open-data-day-no-arquivo-nacional) ([gravação](https://www.youtube.com/watch?v=-1mR2gz_4Hg)) ([apresentação](https://pt.slideshare.net/AugustoHerrmannBatis/open-data-day-2020-arquivo-nacional-rio-de-janeiro))
+* 🇧🇷 Rio de Janeiro, 6/3/2020 -- [Open Data Day 2020](https://opendataday.org) -- [Rio de Janeiro - Arquivo Nacional](http://arquivonacional.gov.br/br/ultimas-noticias/2043-6-de-marco-open-data-day-no-arquivo-nacional) ([gravação](https://www.youtube.com/watch?v=-1mR2gz_4Hg)) ([apresentação](https://pt.slideshare.net/AugustoHerrmannBatis/open-data-day-2020-arquivo-nacional-rio-de-janeiro))
 * 🌐 Online, 14/1/2020 -- [Projeto Embaixadoras - Open Data Day 2020: Descubra como fazer na sua cidade](https://embaixadoras.ok.org.br/civic%20tech/open%20data%20day%202020/2020/01/21/live-open-data-day-2020/) ([gravação](https://www.youtube.com/watch?v=MGceIuNm2xY))
 
 </div>
