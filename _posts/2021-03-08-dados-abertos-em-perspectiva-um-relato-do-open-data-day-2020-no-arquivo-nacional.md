@@ -12,6 +12,7 @@ tags: [open data day, dia dos dados abertos, política de dados abertos,
   dados de pesquisas, identificadores de dados, arquivística de dados,
   arquivista de dados, editoração científica, livro, arquivo nacional]
 cover: /assets/images/2021/03/open-data-day-rio-2020.jpg
+snippet-image: /assets/images/2021/03/open-data-day-rio-2020.jpg
 desc: >-
   Um relato do Open Data Day no Arquivo Nacional, no Rio de Janeiro, em
   2020. Inclui uma reflexão sobre o próprio ODD, os planos para a política

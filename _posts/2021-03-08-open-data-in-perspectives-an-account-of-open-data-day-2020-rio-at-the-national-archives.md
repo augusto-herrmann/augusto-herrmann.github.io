@@ -12,6 +12,7 @@ tags: [open data day, open data policy, open government, open access,
   data archival, data archivist, scientific publishing, book,
   national archives]
 cover: /assets/images/2021/03/open-data-day-rio-2020.jpg
+snippet-image: /assets/images/2021/03/open-data-day-rio-2020.jpg
 desc: >-
   A recount of the Open Data Day event on the National Archives, in Rio de
   Janeiro, in 2020. Includes a reflection on the ODD itself, the plans for
