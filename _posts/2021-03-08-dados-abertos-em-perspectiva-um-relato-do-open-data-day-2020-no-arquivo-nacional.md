@@ -245,6 +245,14 @@ em dezembro passado para mais informações sobre isso. Além disso, até
 onde sei, o Plano de Ação aprovado em fevereiro ainda não foi
 disponibilizado ao público até agora.
 
+**Atualização (2021-03-09):** A Open Knowledge Brasil conseguiu, por
+meio de um pedido pela Lei de Acesso à Informação, tornar disponível o
+conteúdo do
+[Plano de Ação para 2021-2022](https://dados.gov.br/wp/wp-content/uploads/2021/02/Plano-de-A%C3%A7%C3%A3o-INDA-2021-2022-vers%C3%A3ofinal.pdf),
+aprovado em fevereiro. Você também pode ler a
+[avaliação do plano](https://www.ok.org.br/noticia/infraestrutura-nacional-de-dados-abertos-tem-novo-plano-de-acao-leia-analise-da-okbr/)
+feita pela entidade.
+
 ## Gestão de dados de pesquisa e arquivística de dados
 
 As [apresentações da tarde](https://youtu.be/Ugd2EmUKtu4?t=97) começaram

@@ -242,6 +242,14 @@ December for more on that. Also, as far as I know, to this day the
 Action Plan approved in February has not been made available to the
 public yet.
 
+**Update (2021-03-09):** Open Knowledge Brazil has succeeded, through an
+access to information law request, in making available the contents of
+the
+[Action Plan for 2021-2022](https://dados.gov.br/wp/wp-content/uploads/2021/02/Plano-de-A%C3%A7%C3%A3o-INDA-2021-2022-vers%C3%A3ofinal.pdf),
+approved in February. You can also read their
+[review of the plan](https://www.ok.org.br/noticia/infraestrutura-nacional-de-dados-abertos-tem-novo-plano-de-acao-leia-analise-da-okbr/)
+(the article is in Portuguese).
+
 ## Research data management and data archival
 
 The [afternoon presentations](https://youtu.be/Ugd2EmUKtu4?t=97) started
