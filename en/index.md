@@ -3,7 +3,7 @@ published: true
 permalink: /en/
 layout: default
 filename: index.md
-title: Augusto Herrmann – data for improving lives
+title: Augusto Herrmann – data engineer and digital rights activist
 lang: en
 ref: index
 category: [en]

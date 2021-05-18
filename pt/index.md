@@ -3,7 +3,7 @@ published: true
 permalink: /pt/
 layout: default
 filename: index.md
-title: Augusto Herrmann – dados para melhorar vidas
+title: Augusto Herrmann – engenheiro de dados e ativista de direitos digitais
 lang: pt
 ref: index
 category: [pt]
