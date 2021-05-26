@@ -33,11 +33,15 @@ themes:
   - |
     ### engenharia de dados
     
-    implementou fluxos de dados para alguns indicadores da administração
+    implementa fluxos de dados para alguns indicadores da administração
     pública federal (chamado [painel Raio-X](https://www.gov.br/raio-x))
     e a abertura de seus
     [dados](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
-    usando um stack de software livre incluindo o Apache Airflow
+    usando stack de software livre incluindo o Apache Airflow
+
+    implementa fluxos de dados em projetos colaborativos, como o
+    [publicbodies.org](https://publicbodies.org) usando Github
+    Actions para automatizar as atualizações de fontes de dados abertos
   - |
     ### aprendizagem de máquina
     

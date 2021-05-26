@@ -32,11 +32,15 @@ themes:
   - |
     ### data engineering
     
-    implemented data flows for some indicators of the Brazilian public
+    implements data flows for some indicators of the Brazilian public
     administration (called the [X-Ray dashboard](https://www.gov.br/raio-x))
     and the opening of its
     [data](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
     using a free and open source software stack including Apache Airflow
+
+    implements data flows in collaborative projects, such as
+    [publicbodies.org](https://publicbodies.org) using Github Actions
+    to automate updates from open data sources
   - |
     ### machine learning
     
