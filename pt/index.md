@@ -86,7 +86,7 @@ Para mais postagens, por favor veja [o blog](blog).
 <div class="long-h">
 <div class="container">
 
-## *﻿*{: .fas .fa-microphone-alt} Palestras
+## *﻿*{: .fas .fa-microphone-alt} Palestras, webinars e podcasts
 
 </div>
 </div>
@@ -98,11 +98,29 @@ Para mais postagens, por favor veja [o blog](blog).
 <div class="col item">
 <div class="content">
 
+### *﻿*{: .far .fa-calendar-alt} 2021
+
+* 🌐 Online, 18/6/2021 -- Painel de Discussões: Cidadania Digital: O novo
+  projeto de lei aprovado Governo Digital, desafios e riscos --
+  [Conip Gestão Pública 2021](https://www.conipevento.com.br/)
+
+* 🌐 Online, 1/6/2021 -- [Como a franquia zero contribui para o monopólio do Whatsapp](https://www.youtube.com/watch?v=gcJ7RnbMjE8)
+  -- Podcast Tecnopolítica #91
+
 ### *﻿*{: .far .fa-calendar-alt} 2020
 
+{% assign linked_post=site.posts | where:"ref", "2021-03-08-open-data-in-perspectives-an-account-of-open-data-day-2020-rio-at-the-national-archives" | where:"lang", page.lang %}
+
 * 🌐 Online, 10/12/2020 -- [Webinar OKBR – 10 anos do início da construção da INDA no Brasil](https://www.ok.org.br/noticia/webinar-celebra-10-anos-da-infraestrutura-nacional-de-dados-abertos-no-brasil/) ([gravação](https://www.youtube.com/watch?v=1rCsoU7XSdM))
-* 🇧🇷 Rio de Janeiro, 6/3/2020 -- [Open Data Day 2020](https://opendataday.org) -- [Rio de Janeiro - Arquivo Nacional](http://arquivonacional.gov.br/br/ultimas-noticias/2043-6-de-marco-open-data-day-no-arquivo-nacional) ([gravação](https://www.youtube.com/watch?v=-1mR2gz_4Hg)) ([apresentação](https://pt.slideshare.net/AugustoHerrmannBatis/open-data-day-2020-arquivo-nacional-rio-de-janeiro))
-* 🌐 Online, 14/1/2020 -- [Projeto Embaixadoras - Open Data Day 2020: Descubra como fazer na sua cidade](https://embaixadoras.ok.org.br/civic%20tech/open%20data%20day%202020/2020/01/21/live-open-data-day-2020/) ([gravação](https://www.youtube.com/watch?v=MGceIuNm2xY))
+* 🇧🇷 Rio de Janeiro, 6/3/2020 -- [Open Data Day 2020](https://opendataday.org)
+  -- [Rio de Janeiro - Arquivo Nacional](http://arquivonacional.gov.br/br/ultimas-noticias/2043-6-de-marco-open-data-day-no-arquivo-nacional)
+  ([gravação](https://www.youtube.com/watch?v=-1mR2gz_4Hg))
+  ([apresentação](https://pt.slideshare.net/AugustoHerrmannBatis/open-data-day-2020-arquivo-nacional-rio-de-janeiro))
+  ([postagem de blog]({{linked_post.first.url}}))
+* 🌐 Online, 14/1/2020 --
+  [Open Data Day 2020: Descubra como fazer na sua cidade](https://embaixadoras.ok.org.br/civic%20tech/open%20data%20day%202020/2020/01/21/live-open-data-day-2020/)
+  -- Projeto Embaixadoras
+  ([gravação](https://www.youtube.com/watch?v=MGceIuNm2xY))
 
 </div>
 </div>

@@ -83,7 +83,7 @@ For more posts, please see [the blog](blog).
 <div class="long-h">
 <div class="container">
 
-## *﻿*{: .fas .fa-microphone-alt} Talks
+## *﻿*{: .fas .fa-microphone-alt} Talks, webinars and podcasts
 
 </div>
 </div>
@@ -95,11 +95,31 @@ For more posts, please see [the blog](blog).
 <div class="col item">
 <div class="content">
 
+### *﻿*{: .far .fa-calendar-alt} 2021
+
+* 🌐 Online, 18/6/2021 -- Discussion panel: Digital Citizenship: The newly
+  approved digital government bill, challenges and risks (in Portuguese) --
+  [Conip Gestão Pública 2021](https://www.conipevento.com.br/)
+
+* 🌐 Online, 1/6/2021 -- [How zero-rating contributes to Whatsapp's monopoly](https://www.youtube.com/watch?v=gcJ7RnbMjE8)
+  (in Portuguese) -- Podcast Tecnopolítica #91
+
 ### *﻿*{: .far .fa-calendar-alt} 2020
 
-* 🌐 Online, 10/12/2020 -- [Webinar OKBR – 10 years from the beginning of open data in Brazil](https://www.ok.org.br/noticia/webinar-celebra-10-anos-da-infraestrutura-nacional-de-dados-abertos-no-brasil/) ([recording](https://www.youtube.com/watch?v=1rCsoU7XSdM))
-* 🇧🇷 Rio de Janeiro, 6/3/2020 -- [Open Data Day 2020](https://opendataday.org) -- [Rio de Janeiro - Arquivo Nacional](http://arquivonacional.gov.br/br/ultimas-noticias/2043-6-de-marco-open-data-day-no-arquivo-nacional) (in Portuguese) ([recording](https://www.youtube.com/watch?v=-1mR2gz_4Hg)) ([presentation](https://pt.slideshare.net/AugustoHerrmannBatis/open-data-day-2020-arquivo-nacional-rio-de-janeiro))
-* 🌐 Online, 14/1/2020 -- [Projeto Embaixadoras - Open Data Day 2020: Descubra como fazer na sua cidade](https://embaixadoras.ok.org.br/civic%20tech/open%20data%20day%202020/2020/01/21/live-open-data-day-2020/) (in Portuguese) ([recording](https://www.youtube.com/watch?v=MGceIuNm2xY))
+{% assign linked_post=site.posts | where:"ref", "2021-03-08-open-data-in-perspectives-an-account-of-open-data-day-2020-rio-at-the-national-archives" | where:"lang", page.lang %}
+
+* 🌐 Online, 10/12/2020 --
+  [Webinar OKBR – 10 years from the beginning of open data in Brazil](https://www.ok.org.br/noticia/webinar-celebra-10-anos-da-infraestrutura-nacional-de-dados-abertos-no-brasil/)
+  (in Portuguese) ([recording](https://www.youtube.com/watch?v=1rCsoU7XSdM))
+* 🇧🇷 Rio de Janeiro, 6/3/2020 -- [Open Data Day 2020](https://opendataday.org)
+  -- [Rio de Janeiro - Arquivo Nacional](http://arquivonacional.gov.br/br/ultimas-noticias/2043-6-de-marco-open-data-day-no-arquivo-nacional)
+  (in Portuguese) ([recording](https://www.youtube.com/watch?v=-1mR2gz_4Hg))
+  ([presentation](https://pt.slideshare.net/AugustoHerrmannBatis/open-data-day-2020-arquivo-nacional-rio-de-janeiro))
+  ([blog post]({{linked_post.first.url}}))
+* 🌐 Online, 14/1/2020 --
+  [Open Data Day 2020: Descubra como fazer na sua cidade](https://embaixadoras.ok.org.br/civic%20tech/open%20data%20day%202020/2020/01/21/live-open-data-day-2020/)
+  (in Portuguese) -- Projeto Embaixadoras
+  ([recording](https://www.youtube.com/watch?v=MGceIuNm2xY))
 
 </div>
 </div>
