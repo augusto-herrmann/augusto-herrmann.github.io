@@ -368,7 +368,7 @@ community is very much alive and helpful. Thanks to
 is the solution:
 
 ```bash
-ckan/contrib/docker$ docker exec -it ckan
+ckan/contrib/docker$ docker exec -it ckan bash
 $ source /usr/lib/ckan/venv/bin/activate
 (venv) $ ckan -c /etc/ckan/production.ini sysadmin add admin email=admin@localhost name=admin
 ```

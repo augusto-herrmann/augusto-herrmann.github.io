@@ -375,7 +375,7 @@ CKAN está bem ativa e solícita. Graças ao
 está a solução:
 
 ```bash
-ckan/contrib/docker$ docker exec -it ckan
+ckan/contrib/docker$ docker exec -it ckan bash
 $ source /usr/lib/ckan/venv/bin/activate
 (venv) $ ckan -c /etc/ckan/production.ini sysadmin add administrador email=administrador@localhost name=administrador
 ```
