@@ -97,12 +97,16 @@ For more posts, please see [the blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2021
 
+* 🌐 Online, 25/11/2021 -- Round table: Digital Transformation in Governments:
+opportunities to advance in fighting corruption (in Portuguese) --
+[1st Annual Meeting of the Brazilian Network of Anti-corruption Studies and Practice](https://transparenciainternacional.org.br/posts/brasil-passa-a-contar-com-rede-de-especialistas-para-estudar-a-corrupcao/)
+
 * 🌐 Online, 18/6/2021 -- Discussion panel: Digital Citizenship: The newly
   approved digital government bill, challenges and risks (in Portuguese) --
   [Conip Gestão Pública 2021](https://www.conipevento.com.br/)
 
 * 🌐 Online, 1/6/2021 -- [How zero-rating contributes to Whatsapp's monopoly](https://www.youtube.com/watch?v=gcJ7RnbMjE8)
-  (in Portuguese) -- Podcast Tecnopolítica #91
+  (in Portuguese) -- Podcast Tecnopolítica #92
 
 ### *﻿*{: .far .fa-calendar-alt} 2020
 

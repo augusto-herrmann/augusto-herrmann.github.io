@@ -100,12 +100,16 @@ Para mais postagens, por favor veja [o blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2021
 
+* 🌐 Online, 25/11/2021 -- Mesa redonda: Transformação digital em
+  governos: oportunidades para avançar no combate à corrupção --
+[1º Encontro Anual da Rede Brasileira de Estudos e Práticas Anticorrupção](https://transparenciainternacional.org.br/posts/brasil-passa-a-contar-com-rede-de-especialistas-para-estudar-a-corrupcao/)
+
 * 🌐 Online, 18/6/2021 -- Painel de Discussões: Cidadania Digital: O novo
   projeto de lei aprovado Governo Digital, desafios e riscos --
   [Conip Gestão Pública 2021](https://www.conipevento.com.br/)
 
 * 🌐 Online, 1/6/2021 -- [Como a franquia zero contribui para o monopólio do Whatsapp](https://www.youtube.com/watch?v=gcJ7RnbMjE8)
-  -- Podcast Tecnopolítica #91
+  -- Podcast Tecnopolítica #92
 
 ### *﻿*{: .far .fa-calendar-alt} 2020
 
