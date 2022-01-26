@@ -8,7 +8,7 @@ lang: pt
 ref: index
 category: [pt, blog]
 desc: Escritos de Augusto Herrmann sobre dados, tecnologia e outros assuntos.
-      Criando valor público de a partir dos dados.
+      Criando valor público a partir dos dados.
 ---
 
 {% include profiles.md %}
@@ -25,6 +25,6 @@ desc: Escritos de Augusto Herrmann sobre dados, tecnologia e outros assuntos.
 
 <footer>
 
-{% include contact-en.md %}
+{% include contact-pt.md %}
 
 </footer>
