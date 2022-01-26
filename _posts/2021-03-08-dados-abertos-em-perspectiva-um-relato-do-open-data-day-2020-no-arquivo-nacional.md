@@ -72,7 +72,7 @@ para Governo Aberto e
 [como funciona o processo do Plano de Ação com avaliação independente](https://www.opengovpartnership.org/process/action-plan-cycle/).
 
 
-## O Open Data Day e o seu histório no Brasil
+## O Open Data Day e o seu histórico no Brasil
 
 [A minha palestra](https://youtu.be/-1mR2gz_4Hg?t=780), cujos slides
 [estão disponíveis no SlideShare](https://pt.slideshare.net/AugustoHerrmannBatis/open-data-day-2020-arquivo-nacional-rio-de-janeiro), teve dois tópicos
