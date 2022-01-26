@@ -17,6 +17,7 @@ feed:
   categories:
     - en
     - pt
+    - es
 
 # pagination
 # paginate: 6
@@ -54,6 +55,9 @@ t:
       If you like this post, you might want to look at these too
     previous_post: "Previous post"
     next_post: "Next post"
+    no_posts:
+      There are no posts yet published in this language. Please check one
+      of the other available languages.
   pt:
     portrait: retrato de Augusto
     bio:
@@ -86,4 +90,38 @@ t:
       Se você gostou desta postagem, você pode querer ver essas também
     previous_post: "Texto anterior"
     next_post: "Próximo texto"
-
+    no_posts:
+      Ainda não há nenhuma postagem publicada neste idioma. Por favor verifique
+      uma das outras línguas disponíveis.
+  es:
+    portrait: retrato de Augusto
+    bio:
+      es un practicante de la inovación cívica engajado en encontrar medios
+      de mejorar vidas con el uso de datos. Ama los datos abiertos, software
+      libre, la web abierta y semántica, ciencia de datos, ingeniaria de
+      datos, aprendizaje de máquina y procesamiento de lenguaje natural,
+      estuve envolvido en diversos proyectos interesantes al decurso de los
+      años, incluyendo projectar y implementar colaborativamiente la
+      política y el portal de datos abiertos del gobierno federal brasileño,
+      desde 2010 hasta 2018.
+    disclaimer:
+      Las opinones expresas en este artigo son solas las del autor y
+      no necessariamiente corresponden a las posiciones de su empleador
+      y no traen relacíon directa con su trabajo.
+    by: "por"
+    when: "en"
+    image: "imaje"
+    about_author: Sobre el autor
+    licensing_preamble:
+      Los textos de este blog pueden ser utilisados de acuerdo con la licencia
+    license_name: Creative Commons Atribuición-CompartillaIgual 4.0 Internacional
+    license_href: https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR
+    licensing_supplement: excepto cuando de otra manera especificado.
+    see_also: "Vea tambien"
+    see_also_text:
+      Se te gusta esta postaje, puedes querer ver también estas
+    previous_post: "Texto anterior"
+    next_post: "Próximo texto"
+    no_posts:
+      No hay aún postages disponibles en este idioma. Por favor verifique una
+      de las otras lenguajes disponibles.

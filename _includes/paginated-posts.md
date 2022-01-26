@@ -2,6 +2,7 @@
 {% assign posts=site.posts | where:"lang", page.lang %}
 
 <div class="row">
+{% if len(posts) > 0 %}
 {% for post in posts %}
 <div class="excerpt_post">
 ### [{{ post.title }}]({{ post.url | relative_url }})
@@ -17,5 +18,8 @@
 [read more]({{ post.url | relative_url }})
 </div>
 {% endfor %}
+{% else %}
+{{ site.t[page.lang].no_posts }}
+{% endif %}
 </div>
 
