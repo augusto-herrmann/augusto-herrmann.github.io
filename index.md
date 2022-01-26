@@ -12,4 +12,4 @@ desc: Augusto Herrmann's writings about technology and professional info.
 
 [English](en/){: .btn .btn-lg .btn-secondary .btn-en .button1}
 [Português](pt/){: .btn .btn-lg .btn-secondary .btn-pt .button2}
-
+[Español](es/){: .btn .btn-lg .btn-secondary .btn-es .button2}
