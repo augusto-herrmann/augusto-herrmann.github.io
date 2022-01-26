@@ -3,7 +3,7 @@ published: true
 permalink: /es/
 layout: default
 filename: index.md
-title: Augusto Herrmann – datos para mejorar vidas
+title: Augusto Herrmann – ingeniero de datos y ativista de derechos digitales
 lang: es
 ref: index
 category: [es]
@@ -20,24 +20,24 @@ themes:
     [14.ª](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     posiciones en rankings internacionales
   - |
-    ### governo aberto e participação cidadã
+    ### gobierno abierto y participación ciudadana
     
-    contribuições sobre dados abertos em todos os 4 planos de ação da
-    [Parceria para Governo Aberto](http://governoaberto.cgu.gov.br/a-ogp/o-que-e-a-iniciativa),
-    desde a elaboração até a execução de compromissos
+    contribuciones sobre datos abiertos en todos los 4 planes de acción de la
+    [Parceria para Gobierno Abeirto](http://governoaberto.cgu.gov.br/a-ogp/o-que-e-a-iniciativa),
+    desde la elaboración hacia la ejecución de compromisos
 
-    participou da condução da primeira
-    [construção colaborativa](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
-    no mundo de um portal de governo, aberta à participação de
-    qualquer cidadão
+    participó de la condución de la premera
+    [construcíon colaborativa](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
+    nel mundo de un portal de gobierno, abierta à la participación de
+    cualqiuer ciudadano
   - |
-    ### engenharia de dados
+    ### ingeniaría de datos
     
-    implementou fluxos de dados para alguns indicadores da administração
-    pública federal (chamado [painel Raio-X](https://www.gov.br/raio-x))
-    e a abertura de seus
-    [dados](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
-    usando um stack de software livre incluindo o Apache Airflow
+    implementó fluxos de datos para algunos indicadores de la administración
+    pública federal (llamado [painel Raio-X](https://www.gov.br/raio-x))
+    y la apertura de sus
+    [datos](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
+    usando un stack de software libre incluyendo Apache Airflow
   - |
     ### aprendizagem de máquina
     
