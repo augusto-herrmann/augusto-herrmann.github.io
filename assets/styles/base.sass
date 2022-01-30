@@ -4,11 +4,18 @@ title: CSS stylesheet
 
 @import {{ "assets/styles/syntax-thankful_eyes.css" | relative_url }}
 
-$clear-white-bg: #fff
-$almost-white: #e2dde1
-$darker-text: #734932
-$darker-bg: #3672a8
-$lighter-bg: #7a93b0
+$lt-clear-bg: #fff
+$lt-lighter-bg: #e2dde1
+$lt-text-highlight: #734932
+$lt-text: black
+$lt-colored-text: #365374
+$lt-colored-bg: #7a93b0
+$dt-clear-bg: #272121
+$dt-colored-bg: #3672a8
+$dt-lighter-bg: #363333
+$dt-text: white
+$dt-text-highlight: #f6e9e9
+$dt-colored-text: #e16428
 
 // Links
 
@@ -21,19 +28,19 @@ a
 // Custom default button
 
 .btn-secondary
-  color: $darker-text
+  color: $lt-text-highlight
   text-shadow: none
 
   // Prevent inheritance from `body`
-  background-color: $almost-white
+  background-color: $lt-lighter-bg
   border: .05rem solid #fff
 
   &:hover, &:focus
-    color: $darker-text
+    color: $lt-text-highlight
     text-shadow: none
 
     // Prevent inheritance from `body`
-    background-color: $almost-white
+    background-color: $lt-lighter-bg
     border: .05rem solid #fff
 
 .btn-en:before
@@ -64,14 +71,14 @@ html, body
   margin: 0
   display: -ms-flexbox
   display: flex
-  color: $almost-white
+  color: $lt-lighter-bg
   z-index: -2
 
 h1, h2, h3, h4, h5
   font-family: breeserif
 
 .secondary-color
-  background-color: $lighter-bg
+  background-color: $lt-colored-bg
 
 /*
  * Header
@@ -163,7 +170,7 @@ html
 
 .item
   position: relative
-  color: #365374
+  color: $lt-colored-text
   padding: 0.5em 1em
 
   &:nth-of-type(2n)
@@ -176,7 +183,7 @@ html
     left: 0
     width: 100%
     height: 100%
-    background-color: $almost-white
+    background-color: $lt-lighter-bg
     filter: opacity(0.8)
 
   > .content
@@ -197,7 +204,7 @@ html
     animation-delay: 2.2s
 
   h3
-    color: $darker-text
+    color: $lt-colored-text
 
 #publications
   position: relative
@@ -221,14 +228,14 @@ html
     position: relative
 
 #blog
-  color: black
-  background-color: white
+  color: $lt-text
+  background-color: $lt-clear-bg
 
   a
-    color: black
+    color: $lt-text
 
     &:focus, &:hover
-      color: black
+      color: $lt-text
 
 #talks
   padding: 0
@@ -265,13 +272,13 @@ html.cover, body.cover
   margin: 0
   display: -ms-flexbox
   display: flex
-  color: $almost-white
+  color: $lt-lighter-bg
   text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5)
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.5)
   background-image: url({{ "assets/images/mountain-top.jpg" | relative_url }})
   background-size: cover
   background-repeat: no-repeat
-  background-color: $darker-bg
+  background-color: $dt-colored-bg
   z-index: -2
 
 .cover-container
@@ -389,17 +396,25 @@ main.cover > .row
 
 html.post
   body
-    color: black
-    background: white
+    color: $lt-text
+    background: $lt-clear-bg
 
   a
-    color: $darker-text
+    color: $lt-text-highlight
 
     &:focus, &:hover
-      color: $darker-text
+      color: $dt-text
+      background-color: $lt-text-highlight
+      text-decoration: underline
+
+    &:visited
+      color: $lt-colored-text
+
+    &:visited:focus, &:visited:hover
+      color: $dt-text
 
   article
-    background: $clear-white-bg
+    background: $lt-clear-bg
 
     .heading
       width: 100%
@@ -442,6 +457,9 @@ html.post
 
       &.inverted
         color: black
+
+    h2, h3, h4, h5, h6
+      color: $lt-colored-text
 
     .heading .image-credits
       float: left
@@ -494,7 +512,7 @@ html.post
       background-color: lightgray
 
   aside.aboutAuthor
-    background-color: $clear-white-bg
+    background-color: $lt-clear-bg
     padding: 2em
     font-size: 1.2rem
     img
@@ -505,12 +523,12 @@ html.post
       min-height: 100px
 
   aside.licensing
-    background-color: $almost-white
+    background-color: $lt-lighter-bg
     padding: 2em
     font-size: 1rem
   
   aside.seeAlso
-    background-color: $lighter-bg
+    background-color: $lt-colored-bg
     padding: 2em
 
 // Make fonts larger on large screens to improve readability
