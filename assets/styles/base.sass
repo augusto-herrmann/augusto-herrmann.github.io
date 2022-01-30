@@ -14,7 +14,7 @@ $dt-clear-bg: #272121
 $dt-colored-bg: #3672a8
 $dt-lighter-bg: #363333
 $dt-text: white
-$dt-text-highlight: #f6e9e9
+$dt-text-highlight: #f3b0b0
 $dt-colored-text: #e16428
 
 // Links
@@ -418,7 +418,8 @@ html.post
 
     .heading
       width: 100%
-      background: black
+      color: $dt-text
+      background: $dt-clear-bg
       position: relative
       padding: 4em 2em 3em
 
@@ -443,8 +444,6 @@ html.post
 
         ul
           list-style-type: none
-
-      color: white
 
     .title
       margin-top: 4em
@@ -524,6 +523,42 @@ html.post
   aside.seeAlso
     background-color: $lt-colored-bg
     padding: 2em
+
+@media (prefers-color-scheme: light)
+  html.post
+    body
+      color: $lt-text
+      background: $lt-clear-bg
+    article
+      color: $lt-text
+      background: $lt-clear-bg
+
+// Posts in dark mode
+@media (prefers-color-scheme: dark)
+  html.post
+    body
+      color: $dt-text
+      background: $dt-clear-bg
+
+    a
+      color: $dt-text-highlight
+
+      &:focus, &:hover
+        color: $lt-text
+        background-color: $dt-text-highlight
+
+      &:visited
+        color: $dt-colored-text
+
+      &:visited:focus, &:visited:hover
+        color: $lt-text
+
+    article
+      color: $dt-text
+      background: $dt-clear-bg
+
+      h2, h3, h4, h5, h6
+        color: $dt-colored-text
 
 // Make fonts larger on large screens to improve readability
 @media (min-width: 48em)
