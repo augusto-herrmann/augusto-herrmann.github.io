@@ -501,8 +501,8 @@ html.post
     blockquote
       padding-left: 1rem
       padding-right: 1rem
-      border-left: 0.5rem solid gray
-      background-color: lightgray
+      border-left: 0.5rem solid $lt-lighter-bg
+      background-color: $lt-colored-bg
 
   aside.aboutAuthor
     background-color: $lt-clear-bg
@@ -570,6 +570,9 @@ html.post
       h2, h3, h4, h5, h6
         color: $dt-colored-text
 
+      blockquote
+        border-left-color: $dt-lighter-bg
+        background-color: $dt-colored-bg
 // Make fonts larger on large screens to improve readability
 @media (min-width: 48em)
   html.post article
