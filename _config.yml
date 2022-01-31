@@ -45,7 +45,10 @@ t:
     licensing_preamble: The texts on this blog can be used according to the
     license_name: Creative Commons Attribution-ShareAlike 4.0 International
     license_href: https://creativecommons.org/licenses/by-sa/4.0/
-    licensing_supplement: license unless otherwise specified.
+    licensing_supplement: |
+      license unless otherwise specified. Third party images may be either
+      in the public domain, used with a permissive license or fair use or
+      legal permission on citation and commentary.
     see_also: "See also"
     see_also_text:
       If you like this post, you might want to look at these too
@@ -74,7 +77,10 @@ t:
       Os textos deste blog podem ser usados de acordo com a licença
     license_name: Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional
     license_href: https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR
-    licensing_supplement: exceto quando especificado em contrário.
+    licensing_supplement: |
+      exceto quando especificado em contrário. Imagens de terceiros podem
+      ou ser de domínio público, ou usam uma licença permissiva ou
+      *fair use* ou permissão legal para citação e comentário.
     see_also: "Veja também"
     see_also_text:
       Se você gostou desta postagem, você pode querer ver essas também
