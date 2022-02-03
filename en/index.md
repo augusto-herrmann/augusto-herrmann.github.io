@@ -175,7 +175,7 @@ opportunities to advance in fighting corruption (in Portuguese) --
 <div class="col item">
 <div class="content">
 
-### *﻿*{: .far .fa-calendar-alt} 2015 e antes
+### *﻿*{: .far .fa-calendar-alt} 2015 and before
 
 * 🇹🇭 Bangkok, 21/5/2015 -- [Open Data intro](https://www.youtube.com/watch?v=NQTuBuvBfrM) -- [CI@Practice Day on “Smart Agriculture and Collective Intelligence for Smart Community”](https://uknowcoe.wordpress.com/2015/05/21/%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3-cipractice-day-on/)
 * 🇷🇺 Moscow, 11/12/2014 -- [From Chaos to Order: Open Data for All](https://www.youtube.com/watch?v=vYU6-BRyjXA) and [CKAN overview](https://www.slideshare.net/AugustoHerrmannBatis/ckan-overview) (in English, with simultaneous translation to Russian) -- [IV Moscow Urban Forum](https://mosurbanforum.com/archive/2014/)
