@@ -37,6 +37,7 @@ themes:
     and the opening of its
     [data](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
     using a free and open source software stack including Apache Airflow
+    ([pull requests contributed to](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed))
 
     implements data flows in collaborative projects, such as
     [publicbodies.org](https://publicbodies.org) using Github Actions
