@@ -24,7 +24,7 @@ themes:
     
     made contributions on open data to all of the 4 Brazilian action
     plans in the [Open Government Partnership](https://www.opengovpartnership.org/),
-    from drafting to excecution of commitments
+    from drafting to execution of commitments
     
     took part in driving the first ever
     [collaborative crafting](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
