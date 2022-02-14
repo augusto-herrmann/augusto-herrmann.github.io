@@ -357,3 +357,7 @@ engenharia de dados e ciência de dados quando dados internacionais estão
 envolvidos. Vale a pena adquirir prática com ele, já que o seu
 processamento dos dados se tornará mais robusto e evitará erros comuns
 ao fazer a limpeza dos dados.
+
+**Nota:** editado em 2022-02-14 para incluir exemplos usando moedas com
+separadores de milhar e convertendo números em notação científica.
+Obrigado pelas suas sugestões, Washington e Salomão!

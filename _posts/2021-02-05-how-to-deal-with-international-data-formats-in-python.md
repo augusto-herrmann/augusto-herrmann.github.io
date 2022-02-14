@@ -354,3 +354,7 @@ engineering and data science tasks when you have international data
 involved. It pays off to have some practice with it as your data
 processing will be more robust and avoid common mistakes when cleaning
 data.
+
+**Note:** edited in 2022-02-14 to include examples using currency with
+thousands separators and converting numbers in scientific notation.
+Thanks for your suggestions, Washington and Salomão!
