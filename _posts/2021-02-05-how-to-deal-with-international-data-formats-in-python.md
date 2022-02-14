@@ -318,6 +318,14 @@ Out[6]:
 2  pêssego  R$ 8,90   8.90
 ```
 
+Note that `atof` can even convert to floats strings containing numbers in
+scientific notation:
+
+```python
+In [7]: locale.atof('1E+10')
+Out[7]: 10000000000.0
+```
+
 ### Parsing dates
 
 The `datetime` module, as with all of the Python standard libraries, is
