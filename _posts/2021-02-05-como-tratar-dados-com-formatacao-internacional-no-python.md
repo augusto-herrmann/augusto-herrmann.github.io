@@ -246,13 +246,16 @@ Out[1]: 'pt_BR.UTF-8'
 In [2]: locale.currency(0.5)
 Out[2]: 'R$ 0,50'
 
-In [3]: print('meia unidade: ' + locale.format_string('%.2f', 0.5))
+In [3]: locale.currency(1000.5, grouping=True) # separador de milhar
+Out[3]: 'R$ 1.000,50'
+
+In [4]: print('meia unidade: ' + locale.format_string('%.2f', 0.5))
 meia unidade: 0,50
 
-In [4]: locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
-Out[4]: 'en_US.UTF-8'
+In [5]: locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+Out[5]: 'en_US.UTF-8'
 
-In [5]: print('half a unit: ' + locale.format_string('%.2f', 0.5))
+In [6]: print('half a unit: ' + locale.format_string('%.2f', 0.5))
 half a unit: 0.50
 ```
 
