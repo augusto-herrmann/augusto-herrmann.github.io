@@ -11,15 +11,15 @@ snippet-image: /assets/images/2021/03/open-data-day-rio-2020.jpg
 desc: >-
   Uma reflexão sobre o Open Data Day, o que ele significa, por que
   participar, como preparar um evento, além de um breve histórico de
-  como o ODD tem sido no Brasil pelos últimos 9 anos.
+  como o ODD tem sido no Brasil pelos últimos 12 anos.
 image-credits: "Arquivo Nacional"
 ---
 
 O [Open Data Day](https://opendataday.org/), ou dia dos dados abertos, vai
 acontecer de novo em breve. Ele está agendado para o dia 5 de março de 2022.
-Será a décima vez que o ODD acontece no Brasil. Assim, esta é uma boa
-oportunidade para conhecer mais sobre ele e como esses eventos têm
-acontecido no Brasil pelos últimos 9 anos.
+Será a décima terceira vez que o ODD acontece no Brasil. Assim, esta é
+uma boa oportunidade para conhecer mais sobre ele e como esses eventos
+têm acontecido no Brasil pelos últimos <del>9</del> anos.
 
 > __P__: *Espere, você disse que é o __décimo__ Open Data Day, mas eu li
 > em algum lugar que é o __décimo segundo__.*
@@ -27,6 +27,10 @@ acontecido no Brasil pelos últimos 9 anos.
 > __A__: Você tem razão. Estou considerando aqui somente aqueles que
 > aconteceram no Brasil. Continue lendo para saber mais ou pule para a
 > seção [primeiros anos](#primeiros-anos) para maiores detalhes.
+
+**ATUALIZAÇÃO:** Esta é na verdade a **décima terceira** vez que o ODD
+ocorre no Brasil. Mais sobre isso na seção
+[primeiros anos](#primeiros-anos).
 
 O Open Data Day é um grupo de eventos no mundo todo, sendo cada um deles
 organizado localmente, para celebrar os dados abertos e colaborar em
@@ -107,6 +111,11 @@ organizarem eventos online, como tem sido o normal desde que a pandemia
 de Covid começou em 2020. No entanto, muitas das ideias e orientações
 permanecem as mesmas e podem ser usadas para se criarem eventos do Open
 Data Day tanto presenciais quanto online.
+
+**ATUALIZAÇÃO:** agora também há uma
+[postagem de blog](https://ok.org.br/noticia/como-organizar-o-open-data-day-odd2022/)
+da Juliana Trevine e da Ariane Alves no blog da Open Knowledge Brasil
+com as orientações atualizadas.
 
 
 ## O que é o Open Data Day e como organizar um
@@ -433,9 +442,38 @@ de eventos passados.
 
 ### Primeira história
 
-Apesar de globalmente o ODD ter aparentemente
-[começado em Londres em 2010](http://dev.fernandobrito.com/2016/03/open-data-day-2016-joao-pessoa-brazil/),
-os primeiros registros que eu pude encontrar do evento no Brasil foram
+O ODD estreou mundialmente em 2010, com muitas cidades participantes em
+todo o mundo. Registros desses primeiros eventos são muito difíceis de
+se encontrar na internet de hoje. Em uma versão anterior deste texto eu
+havia mencionado somente
+[uma referência](http://dev.fernandobrito.com/2016/03/open-data-day-2016-joao-pessoa-brazil/)
+que eu havia encontrado sobre o ODD 2010, mas nenhuma no Brasil.
+
+Depois de ter publicado originalmente o texto, o David Eaves, um dos
+fundadores da ideia de se criar o Open Data Day, entrou em contato comigo
+para dizer que o Brasil esteve envolvido na organização de eventos do
+ODD desde o início.
+Ele me direcionou a uma
+[postagem em seu blog](https://eaves.ca/2010/10/29/lets-do-an-international-open-data-hackathon/)
+onde ele propunha criar um hackathon de dados abertos internacional e
+descentralizado. Nele, ele detalhou como a Daniela Silva e o Pedro Markun,
+do Transparência Hacker, foram parte do grupo de pessoas que havia
+inicialmente proposto criar um evento assim.
+
+Procurando por algumas referências lá, eu pude encontrar uma página em
+uma velha wiki desativada, copiada pelo Web Archive, que contém
+referências para
+[cada um dos eventos do Open Data Day 2010](https://web.archive.org/web/20120304233930/http://www.opendataday.org/wiki/City_Events#Bras.C3.ADlia.2C_Brazil).
+E nela já se pode ver
+[7 eventos no Brasil](https://web.archive.org/web/20120304233930/http://www.opendataday.org/wiki/City_Events#Brazil).
+Curiosamente, eu mesmo estive presente no ODD Brasília 2010, mas não me
+lembrava disso até ver o meu próprio nome na lista de participantes!
+
+Infelizmente, eu não pude encontrar referências para o ODD 2011 e 2012
+no Brasil. Se você tiver uma, por favor me envie o link!
+
+Depois disso, os primeiros registros que eu pude encontrar do evento no
+Brasil foram
 [em 2013](https://web.archive.org/web/20180314215648/http://wiki.opendataday.org/2013/City_Events#Brasil):
 em São Paulo,
 [na Casa de Cultura Digital](https://web.archive.org/web/20160105185538/http://wiki.opendataday.org/SaoPauloODD-SP2013),
@@ -1159,3 +1197,16 @@ Você sabe de um ou participou de um evento que eu deixei de fora? Nesse
 caso, me mande um e-mail com alguma evidência, preferencialmente com
 links, e eu o acrescentarei a esta narrativa e, é claro, te darei o
 crédito.
+
+### Atualizações
+
+**02/03/2022**: este artigo foi atualizado em 2/3/2022 com informações
+que me foram trazidas pelo David Eaves, um dos fundadores do Open Data
+Day, para incluir o fato de que o evento não somente esteve presente no
+Brasil desde o seu início em 2010, como também brasileiros (Daniela Silva
+e Pedro Markun) estiveram envolvidos na sua concepção. Eu mesmo havia
+participado do evento em Brasília em 2010 e me esquecido completamente
+disso!
+
+Além disso, uma referência à postagem de 2022 do blog da OKBR, com
+orientações sobre como organizar um evento, foi acrescentada.

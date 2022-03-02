@@ -11,15 +11,15 @@ snippet-image: /assets/images/2021/03/open-data-day-rio-2020.jpg
 desc: >-
   A reflection on the Open Data Day, what it means, why to participate,
   how to prepare an event, and a brief history of how has the ODD in
-  Brazil been like for the past 9 years.
+  Brazil been like for the past 12 years.
 image-credits: "Arquivo Nacional"
 ---
 
 The [Open Data Day](https://opendataday.org/) is soon going to happen
-again. It is scheduled for March 5th of 2022. This will be the tenth time
-that ODD happens in Brazil, so this is a good opportunity to get to know
-more about it and how these events have been happening in Brazil for the
-past 9 years.
+again. It is scheduled for March 5th of 2022. This will be the ~~tenth~~
+thirteenth time that ODD happens in Brazil, so this is a good opportunity
+to get to know more about it and how these events have been happening in
+Brazil for the past <del>9</del> 12 years.
 
 > __Q__: *Wait, you said it's the __tenth__ Open Data Day, but I read
 > somewhere else that it's the __twelfth__.*
@@ -27,6 +27,9 @@ past 9 years.
 > __A__: You are right. I'm considering here the ones
 > taking place in Brazil only. Read on to find out more or jump to the
 > [early history](#early-history) section for further details.
+
+**UPDATE:** This is actually the **thirteenth** time the ODD happens in
+Brazil. More on that in the [early history](#early-history) section.
 
 The Open Data Day is a world-wide group of events, each organized
 locally, to celebrate open data and to collaborate on common goals, often
@@ -104,6 +107,10 @@ online, as has been the norm since the Covid pandemic started in 2020.
 Many of the ideas and advice remain the same, though, and could be useful
 for creating Open Data Day events no matter if it is in-person or online.
 
+**UPDATE:** there is now also a
+[blog post](https://ok.org.br/noticia/como-organizar-o-open-data-day-odd2022/)
+by Juliana Trevine and Ariane Alves in the Open Knowledge Brasil blog
+with the updated advice.
 
 ## What is the Open Data Day and how to make one
 
@@ -412,9 +419,35 @@ events on the web.
 
 ### Early history
 
-Even though globally the ODD had apparently
-[debuted in London in 2010](http://dev.fernandobrito.com/2016/03/open-data-day-2016-joao-pessoa-brazil/),
-the earliest records I could find of the event in Brazil were
+The ODD debuted worldwide in 2010, with many participating cities around
+the world. Records of those early events are very hard to find in
+today's internet. In a previous version of this text I had only
+mentioned
+[a reference](http://dev.fernandobrito.com/2016/03/open-data-day-2016-joao-pessoa-brazil/)
+I had found for ODD 2010, but not any in Brazil.
+
+After originally publishing the post, David Eaves, one of the founders
+of the idea of creating the Open Data Day, reached out to me to say that
+Brazil has been involved and hosting ODD events since the very beginning.
+He pointed me to
+[a blog post of his](https://eaves.ca/2010/10/29/lets-do-an-international-open-data-hackathon/)
+where he proposed creating an international, decentralized open data
+hackathon. In it, he detailed how Daniela Silva and Pedro Markun, from
+Transparência Hacker, were part of the group of people that initially
+proposed creating such an event.
+
+Searching some references there, I could find a page at an old dead wiki,
+cached by the Web Archive, that contained references to
+[every single Open Data Day 2010 event](https://web.archive.org/web/20120304233930/http://www.opendataday.org/wiki/City_Events#Bras.C3.ADlia.2C_Brazil).
+And there you can already see
+[7 events in Brazil](https://web.archive.org/web/20120304233930/http://www.opendataday.org/wiki/City_Events#Brazil).
+Curiously, I myself was present at the ODD Brasília 2010, but did not
+remember it until I saw my name on the list of participants!
+
+Sadly, I could find no online references to ODD 2011 and 2012 in Brazil.
+If you have one, please send me the link!
+
+After that, the earliest records I could find of the event in Brazil were
 [in 2013](https://web.archive.org/web/20180314215648/http://wiki.opendataday.org/2013/City_Events#Brasil):
 São Paulo,
 [at the House of Digital Culture](https://web.archive.org/web/20160105185538/http://wiki.opendataday.org/SaoPauloODD-SP2013),
@@ -1108,3 +1141,16 @@ that it is entirely possible, even likely, that I missed a few or them.
 Do you know of or have participated in an event I missed? If so, drop me
 an email with some evidence, preferably with links, and I'll add it to
 this narrative, and of course give you credit.
+
+### Updates
+
+**2022-03-02**: this article has been updated on 2022-03-02 with some
+information brought to my attention by David Eaves, one of the founders
+of the Open Data Day, to include the fact that the event has not only
+been present in Brazil since the beginning in 2010, but also Brazilians
+(Daniela Silva and Pedro Markun) were involved in its inception. I had
+even participated myself in the Brasília 2010 event and completely
+forgot about it!
+
+Also, a reference to the 2022 OKBR blog post with advice on organizing
+an event has been included.
