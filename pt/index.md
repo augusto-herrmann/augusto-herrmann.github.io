@@ -99,6 +99,21 @@ Para mais postagens, por favor veja [o blog](blog).
 <div class="col item">
 <div class="content">
 
+### *﻿*{: .far .fa-calendar-alt} 2022
+
+* 🇧🇷 Brasília (Online), 5/3/2022 -- [Open Data Day](https://opendataday.org/)
+  2022:
+  [Open Datasets SEGES 2022](https://economiagovbr.github.io/opendataday2022/)
+* 🇳🇵 Catmandu (Online), 5/3/2022 -- [Open Data Day](https://opendataday.org/)
+  2022:
+  [Oficina Publicbodies.org Nepal](https://github.com/augusto-herrmann/opendataday-publicbodies-nepal/)
+
+</div>
+</div>
+
+<div class="col item">
+<div class="content">
+
 ### *﻿*{: .far .fa-calendar-alt} 2021
 
 * 🌐 Online, 25/11/2021 -- Mesa redonda: Transformação digital em
@@ -111,6 +126,11 @@ Para mais postagens, por favor veja [o blog](blog).
 
 * 🌐 Online, 1/6/2021 -- [Como a franquia zero contribui para o monopólio do Whatsapp](https://www.youtube.com/watch?v=gcJ7RnbMjE8)
   -- Podcast Tecnopolítica #92
+
+</div>
+</div>
+<div class="col item">
+<div class="content">
 
 ### *﻿*{: .far .fa-calendar-alt} 2020
 
@@ -143,6 +163,11 @@ Para mais postagens, por favor veja [o blog](blog).
 
 </div>
 </div>
+
+</div>
+
+<div class="row">
+
 <div class="col item">
 <div class="content">
 
@@ -169,10 +194,6 @@ Para mais postagens, por favor veja [o blog](blog).
 
 </div>
 </div>
-
-</div>
-
-<div class="row">
 
 <div class="col item">
 <div class="content">

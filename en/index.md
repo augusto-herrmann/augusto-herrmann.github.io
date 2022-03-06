@@ -96,6 +96,20 @@ For more posts, please see [the blog](blog).
 <div class="col item">
 <div class="content">
 
+### *﻿*{: .far .fa-calendar-alt} 2022
+
+* 🇧🇷 Brasília (Online), 5/3/2022 -- [Open Data Day](https://opendataday.org/)
+  2022:
+  [Open Datasets SEGES 2022](https://economiagovbr.github.io/opendataday2022/)
+* 🇳🇵 Kathmandu (Online), 5/3/2022 -- [Open Data Day](https://opendataday.org/)
+  2022:
+  [Publicbodies.org Nepal Workshop](https://github.com/augusto-herrmann/opendataday-publicbodies-nepal/)
+
+</div>
+</div>
+<div class="col item">
+<div class="content">
+
 ### *﻿*{: .far .fa-calendar-alt} 2021
 
 * 🌐 Online, 25/11/2021 -- Round table: Digital Transformation in Governments:
@@ -108,6 +122,11 @@ opportunities to advance in fighting corruption (in Portuguese) --
 
 * 🌐 Online, 1/6/2021 -- [How zero-rating contributes to Whatsapp's monopoly](https://www.youtube.com/watch?v=gcJ7RnbMjE8)
   (in Portuguese) -- Podcast Tecnopolítica #92
+
+</div>
+</div>
+<div class="col item">
+<div class="content">
 
 ### *﻿*{: .far .fa-calendar-alt} 2020
 
@@ -142,6 +161,11 @@ opportunities to advance in fighting corruption (in Portuguese) --
 
 </div>
 </div>
+
+</div>
+
+<div class="row">
+
 <div class="col item">
 <div class="content">
 
@@ -156,6 +180,7 @@ opportunities to advance in fighting corruption (in Portuguese) --
 
 </div>
 </div>
+
 <div class="col item">
 <div class="content">
 
@@ -168,10 +193,6 @@ opportunities to advance in fighting corruption (in Portuguese) --
 
 </div>
 </div>
-
-</div>
-
-<div class="row">
 
 <div class="col item">
 <div class="content">
