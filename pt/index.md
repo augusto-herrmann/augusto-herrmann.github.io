@@ -35,7 +35,7 @@ themes:
     
     implementa fluxos de dados para alguns indicadores da administração
     pública federal (chamado [painel Raio-X](https://www.gov.br/raio-x))
-    e a abertura de seus
+    e a abertura destes
     [dados](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
     usando stack de software livre incluindo o Apache Airflow
     ([pull requests contrubuídos](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed))
