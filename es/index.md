@@ -3,7 +3,7 @@ published: true
 permalink: /es/
 layout: default
 filename: index.md
-title: Augusto Herrmann – ingeniero de datos y ativista de derechos digitales
+title: Augusto Herrmann – ingeniero de datos y activista de derechos digitales
 lang: es
 ref: index
 category: [es]
@@ -16,34 +16,34 @@ themes:
     
     entusiasta de los datos abiertos desde 2009, concibió y implementó la [Política de Datos
     abiertos del poder ejecutivo federal](http://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
-    empiezando del cero en 2010 hasta alcanzar la [8.ª](https://index.okfn.org/place/br/) y la
+    empezando del cero en 2010 hasta alcanzar la [8.ª](https://index.okfn.org/place/br/) y la
     [14.ª](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     posiciones en rankings internacionales
   - |
     ### gobierno abierto y participación ciudadana
     
     contribuciones sobre datos abiertos en todos los 4 planes de acción de la
-    [Parceria para Gobierno Abeirto](http://governoaberto.cgu.gov.br/a-ogp/o-que-e-a-iniciativa),
+    [Alianza para Gobierno Abierto](http://governoaberto.cgu.gov.br/a-ogp/o-que-e-a-iniciativa),
     desde la elaboración hacia la ejecución de compromisos
 
-    participó de la condución de la premera
-    [construcíon colaborativa](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
+    participó de la conducción de la primera
+    [construcción colaborativa](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     nel mundo de un portal de gobierno, abierta à la participación de
-    cualqiuer ciudadano
+    cualquier ciudadano
   - |
     ### ingeniaría de datos
     
-    implementó fluxos de datos para algunos indicadores de la administración
-    pública federal (llamado [painel Raio-X](https://www.gov.br/raio-x))
-    y la apertura de sus
+    implementó flujos de datos para algunos indicadores de la administración
+    pública federal (llamado [panel Radiografía](https://www.gov.br/raio-x))
+    y la apertura de estos
     [datos](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
     usando un stack de software libre incluyendo Apache Airflow
   - |
     ### aprendizaje de máquina
     
-    investigación de [mestrado em gestión del conocimiento y tecnología de la información](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
-    utilijó técnicas de processamiento de linguaje natural y aprendizaje de
-    máquina para construyir automaticamiente glossários a partir de definiciones
+    investigación de [maestría em gestión del conocimiento y tecnología de la información](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
+    utilizó técnicas de procesamiento de lenguaje natural y aprendizaje de
+    máquina para construir automáticamente glosarios a partir de definiciones
     existentes en textos legislativos
 ---
 
@@ -56,12 +56,12 @@ themes:
 
 ## *﻿*{: .fas .fa-feather-alt} Publicaciones
 
-* [Extração automática de definições: um estudo de caso em textos legislativos](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356) -- disertación de mestrado en la Universidad Católica de Brasília -- [apresentação de defesa](https://www.slideshare.net/AugustoHerrmannBatis/extrao-automtica-de-definies-um-estudo-de-caso-em-textos-legislativos)
+* [Extração automática de definições: um estudo de caso em textos legislativos](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356) -- disertación de maestría en la Universidad Católica de Brasília -- [apresentação de defesa](https://www.slideshare.net/AugustoHerrmannBatis/extrao-automtica-de-definies-um-estudo-de-caso-em-textos-legislativos)
 * [Extracting definitions from brazilian legal texts](http://link.springer.com/chapter/10.1007/978-3-642-31137-6_48) (em inglês) -- Computational Science and Its Applications – ICCSA 2012 / Springer
-* [A Revolução dos Dados Abertos](https://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/Magazine/LM-ED02.pdf) -- LibreOffice Magazine, Ano 1, Edição 2, Dezembro de 2012
-* [Infraestrutura nacional de dados abertos](http://banco.consad.org.br/handle/123456789/854) -- Conselho Nacional de Secretários de Estado de Administração (Consad)
-* [Implementando uma infraestrutura nacional de dados abertos: o caso brasileiro](http://siare.clad.org/fulltext/0075041.pdf) -- Centro Latinoamericano de Administración para el Desarollo (CLAD)
-* [Planejando Dados Abertos – Novos compromissos para implementar a Estratégia de Governança Digital](http://consad.org.br/wp-content/uploads/2016/06/Painel-32-03.pdf) -- Conselho Nacional de Secretários de Estado de Administração (Consad)
+* [A Revolução dos Dados Abertos](https://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/Magazine/LM-ED02.pdf) -- LibreOffice Magazine, Ano 1, Edición 2, Diciembre de 2012
+* [Infraestrutura nacional de dados abertos](http://banco.consad.org.br/handle/123456789/854) -- Consejo Nacional de Secretarios de Estado de Administración (Consad)
+* [Implementando uma infraestrutura nacional de dados abertos: o caso brasileiro](http://siare.clad.org/fulltext/0075041.pdf) -- Centro Latinoamericano de Administración para el Desarrollo (CLAD)
+* [Planejando Dados Abertos – Novos compromissos para implementar a Estratégia de Governança Digital](http://consad.org.br/wp-content/uploads/2016/06/Painel-32-03.pdf) -- Consejo Nacional de Secretarios de Estado de Administración (Consad)
 
 </div>
 </section>
@@ -73,7 +73,7 @@ themes:
 
 {% include latest-posts.md %}
 
-Para más postajes, por favor vea [el blog](blog).
+Para más entradas, por favor vea [el blog](blog).
 
 </div>
 </section>
