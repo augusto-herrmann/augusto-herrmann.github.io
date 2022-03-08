@@ -69,7 +69,7 @@ themes:
 <section id="blog">
 <div class="container">
 
-## *﻿*{: .fas .fa-pencil-alt} Últimas postajes
+## *﻿*{: .fas .fa-pencil-alt} Últimas entradas de blog
 
 {% include latest-posts.md %}
 
