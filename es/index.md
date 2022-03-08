@@ -56,12 +56,12 @@ themes:
 
 ## *﻿*{: .fas .fa-feather-alt} Publicaciones
 
-* [Extração automática de definições: um estudo de caso em textos legislativos](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356) -- disertación de maestría en la Universidad Católica de Brasília -- [apresentação de defesa](https://www.slideshare.net/AugustoHerrmannBatis/extrao-automtica-de-definies-um-estudo-de-caso-em-textos-legislativos)
-* [Extracting definitions from brazilian legal texts](http://link.springer.com/chapter/10.1007/978-3-642-31137-6_48) (em inglês) -- Computational Science and Its Applications – ICCSA 2012 / Springer
-* [A Revolução dos Dados Abertos](https://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/Magazine/LM-ED02.pdf) -- LibreOffice Magazine, Ano 1, Edición 2, Diciembre de 2012
+* [Extração automática de definições: um estudo de caso em textos legislativos](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356) (en portugués) -- disertación de maestría en la Universidad Católica de Brasília -- [presentación de defensa](https://www.slideshare.net/AugustoHerrmannBatis/extrao-automtica-de-definies-um-estudo-de-caso-em-textos-legislativos)
+* [Extracting definitions from Brazilian legal texts](http://link.springer.com/chapter/10.1007/978-3-642-31137-6_48) (en inglés) -- Computational Science and Its Applications – ICCSA 2012 / Springer
+* [A Revolução dos Dados Abertos](https://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/Magazine/LM-ED02.pdf) (en portugués) -- LibreOffice Magazine, Ano 1, Edición 2, Diciembre de 2012
 * [Infraestrutura nacional de dados abertos](http://banco.consad.org.br/handle/123456789/854) -- Consejo Nacional de Secretarios de Estado de Administración (Consad)
-* [Implementando uma infraestrutura nacional de dados abertos: o caso brasileiro](http://siare.clad.org/fulltext/0075041.pdf) -- Centro Latinoamericano de Administración para el Desarrollo (CLAD)
-* [Planejando Dados Abertos – Novos compromissos para implementar a Estratégia de Governança Digital](http://consad.org.br/wp-content/uploads/2016/06/Painel-32-03.pdf) -- Consejo Nacional de Secretarios de Estado de Administración (Consad)
+* [Implementando uma infraestrutura nacional de dados abertos: o caso brasileiro](http://siare.clad.org/fulltext/0075041.pdf) (en portugués) -- Centro Latinoamericano de Administración para el Desarrollo (CLAD)
+* [Planejando Dados Abertos – Novos compromissos para implementar a Estratégia de Governança Digital](http://consad.org.br/wp-content/uploads/2016/06/Painel-32-03.pdf) (en portugués) -- Consejo Nacional de Secretarios de Estado de Administración (Consad)
 
 </div>
 </section>
