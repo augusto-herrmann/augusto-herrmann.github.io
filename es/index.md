@@ -94,6 +94,21 @@ Para más entradas, por favor vea [el blog](blog).
 <div class="col item">
 <div class="content">
 
+### *﻿*{: .far .fa-calendar-alt} 2022
+
+* 🇧🇷 Brasília (Online), 5/3/2022 -- [Open Data Day](https://opendataday.org/)
+  2022:
+  [Open Datasets SEGES 2022](https://economiagovbr.github.io/opendataday2022/)
+* 🇳🇵 Katmandú (Online), 5/3/2022 -- [Open Data Day](https://opendataday.org/)
+  2022:
+  [Taller Publicbodies.org Nepal](https://github.com/augusto-herrmann/opendataday-publicbodies-nepal/)
+
+</div>
+</div>
+
+<div class="col item">
+<div class="content">
+
 ### *﻿*{: .far .fa-calendar-alt} 2021
 
 * 🌐 Online, 25/11/2021 -- Mesa redonda: Transformación digital en
@@ -106,6 +121,12 @@ Para más entradas, por favor vea [el blog](blog).
 
 * 🌐 Online, 1/6/2021 -- [Como la calificación cero contribuye para el monopolio de Whatsapp](https://www.youtube.com/watch?v=gcJ7RnbMjE8) (en portugués)
   -- Podcast Tecnopolítica #92
+
+</div>
+</div>
+
+<div class="col item">
+<div class="content">
 
 ### *﻿*{: .far .fa-calendar-alt} 2020
 
@@ -135,6 +156,11 @@ Para más entradas, por favor vea [el blog](blog).
 
 </div>
 </div>
+
+</div>
+
+<div class="row">
+
 <div class="col item">
 <div class="content">
 
@@ -162,14 +188,10 @@ Para más entradas, por favor vea [el blog](blog).
 </div>
 </div>
 
-</div>
-
-<div class="row">
-
 <div class="col item">
 <div class="content">
 
-### *﻿*{: .far .fa-calendar-alt} 2015 y antes
+### *﻿*{: .far .fa-calendar-alt} 2015 y anteriores
 
 * 🇹🇭 Bangkok, 21/5/2015 -- [Open Data intro](https://www.youtube.com/watch?v=NQTuBuvBfrM) (en inglés) -- [CI@Practice Day on “Smart Agriculture and Collective Intelligence for Smart Community”](https://uknowcoe.wordpress.com/2015/05/21/%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3-cipractice-day-on/)
 * 🇷🇺 Moscú, 11/12/2014 -- [From Chaos to Order: Open Data for All](https://www.youtube.com/watch?v=vYU6-BRyjXA) e [CKAN overview](https://www.slideshare.net/AugustoHerrmannBatis/ckan-overview) (en inglés, com traducción simultanea para ruso) -- [IV Moscow Urban Forum](https://mosurbanforum.com/archive/2014/)
