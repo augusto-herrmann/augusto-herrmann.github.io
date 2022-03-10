@@ -2,6 +2,7 @@
 {% assign posts=site.posts | where:"lang", page.lang %}
 
 <div class="row">
+{% unless posts == empty %}
 {% for post in posts %}
 <div class="excerpt_post">
 ### [{{ post.title }}]({{ post.url | relative_url }})
@@ -17,5 +18,20 @@
 [read more]({{ post.url | relative_url }})
 </div>
 {% endfor %}
+{% else %}
+{{ site.t[page.lang].no_posts }}
+<div class="languages container">
+  <ul>
+  {% assign langs=site.feed.categories %}
+  {% for lang in langs %}
+    {% if lang != page.lang %}
+      <li>
+        <a href="/{{ lang }}/blog" class="btn btn-lg btn-secondary btn-{{ lang }}">{{ site.t[page.lang].languages[lang].name }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
+{% endunless %}
 </div>
 
