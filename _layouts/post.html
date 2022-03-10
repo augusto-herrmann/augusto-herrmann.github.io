@@ -4,21 +4,24 @@
   <main role="main">
     <article>
     <div class="heading">
-      <div class="languages container">
-        <ul>
+      <aside class="languages container">
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% if posts.size > 1 %}
+        <p>{{ site.t[page.lang].also_available}}</p>
+        <ul>
         {% for post in posts %}
           {% if post.lang != page.lang %}
             <li>
-              <a href="{{ post.url | relative_url }}" class="btn btn-lg btn-secondary btn-{{ post.lang }}">{{ post.lang }}</a>
+              <a href="{{ post.url | relative_url }}" class="btn btn-lg btn-secondary btn-{{ post.lang }}">{{ site.t[page.lang].languages[post.lang].name }}</a>
             </li>
           {% endif %}
         {% endfor %}
-      </ul>
-      </div>
+        </ul>
+        {% endif %}
+      </aside>
       <div class="title container">
         <h1>{{ page.title }}</h1>
-        {%if page.image-credits %}
+        {% if page.image-credits %}
           <div class="image-credits">
             {{ site.t[page.lang].image }}: {{ page.image-credits }}
           </div>

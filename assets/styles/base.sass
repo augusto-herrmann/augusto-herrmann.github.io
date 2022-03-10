@@ -263,6 +263,15 @@ html
       // This will make it stack on top of the ::before
       position: relative
 
+.languages
+
+  ul
+    list-style-type: none
+
+    li
+      display: inline
+      margin: 1em 0.5em
+
 /*
  * Cover
  */
@@ -423,7 +432,7 @@ html.post
       color: $dt-text
       background: $dt-clear-bg
       position: relative
-      padding: 4em 2em 3em
+      padding: 2em 2em 3em
 
       &::before
         content: ""
@@ -442,10 +451,8 @@ html.post
         position: relative
 
       .languages
+        font-size: 0.8em
         text-align: right
-
-        ul
-          list-style-type: none
 
     .title
       margin-top: 4em
@@ -617,8 +624,14 @@ html.post
 
 // Blog listing
 
-img.excerpt_cover
-  width: 200px
-  float: right
-  margin: 1em
+#blog
 
+  img.excerpt_cover
+    width: 200px
+    float: right
+    margin: 1em
+
+  .languages
+
+    ul
+      padding-left: 0

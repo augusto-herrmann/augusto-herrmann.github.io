@@ -58,6 +58,17 @@ t:
     no_posts:
       There are no posts yet published in this language. Please check one
       of the other available languages.
+    languages:
+      en:
+        code: en
+        name: English
+      pt:
+        code: pt
+        name: Portuguese
+      es:
+        code: es
+        name: Spanish
+    also_available: Also available in
   pt:
     portrait: retrato de Augusto
     bio:
@@ -93,6 +104,17 @@ t:
     no_posts:
       Ainda não há nenhuma postagem publicada neste idioma. Por favor verifique
       uma das outras línguas disponíveis.
+    languages:
+      en:
+        code: en
+        name: Inglês
+      pt:
+        code: pt
+        name: Português
+      es:
+        code: es
+        name: Espanhol
+    also_available: Também disponível em
   es:
     portrait: retrato de Augusto
     bio:
@@ -125,3 +147,14 @@ t:
     no_posts:
       No hay aún postages disponibles en este idioma. Por favor verifique una
       de las otras lenguajes disponibles.
+    languages:
+      en:
+        code: en
+        name: Inglés
+      pt:
+        code: pt
+        name: Portugués
+      es:
+        code: es
+        name: Español
+    also_available: También disponible en
