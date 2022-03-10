@@ -2,12 +2,12 @@
 published: true
 layout: default
 filename: index.md
-permalink: "/pt/blog/index.html"
-title: Blog do Augusto Herrmann
-lang: pt
+permalink: "/es/blog/index.html"
+title: Blog de Augusto Herrmann
+lang: es
 ref: index
 category: [pt, blog]
-desc: Escritos de Augusto Herrmann sobre datos, tecnología y outros asuntos.
+desc: Escrituras de Augusto Herrmann sobre datos, tecnología y otros asuntos.
       Creando valor público a partir de los datos.
 ---
 
