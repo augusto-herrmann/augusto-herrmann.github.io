@@ -145,7 +145,7 @@ t:
     previous_post: "Texto anterior"
     next_post: "Próximo texto"
     no_posts:
-      No hay aún postages disponibles en este idioma. Por favor verifique una
+      No hay aún entradas disponibles en este idioma. Por favor verifique una
       de las otras lenguajes disponibles.
     languages:
       en:
