@@ -110,7 +110,7 @@ t:
       y no traen relación directa con su trabajo.
     by: "por"
     when: "en"
-    image: "imaje"
+    image: "imagen"
     about_author: Sobre el autor
     licensing_preamble:
       Los textos de este blog pueden ser utilizados de acuerdo con la licencia
