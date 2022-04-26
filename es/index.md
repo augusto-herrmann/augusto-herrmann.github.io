@@ -181,7 +181,8 @@ Para más entradas, por favor vea [el blog](blog).
 ### *﻿*{: .far .fa-calendar-alt} 2016
 
 * 🇪🇸 Madrid, 7/10/2016 --
-  [Challenges in raising the social and economic impact of Open Data Policy in Brazil](https://www.slideshare.net/AugustoHerrmannBatis/challenges-in-raising-the-social-and-economic-impact-of-open-data-policy-in-brazil-iodc-2016),
+  [Challenges in raising the social and economic impact of Open Data Policy in Brazil](https://www.slideshare.net/AugustoHerrmannBatis/challenges-in-raising-the-social-and-economic-impact-of-open-data-policy-in-brazil-iodc-2016)
+  y
   [Talking CKAN](https://www.youtube.com/watch?v=E-tbixWtypU)
   (en inglés) -- Conferencia Internacional de Datos Abiertos (IODC) 2016
 * 🇨🇱 Santiago, 26/9/2016 --
