@@ -186,8 +186,15 @@ opportunities to advance in fighting corruption (in Portuguese) --
 
 ### *﻿*{: .far .fa-calendar-alt} 2016
 
-* 🇪🇸 Madrid, 7/10/2016 -- [Challenges in raising the social and economic impact of Open Data Policy in Brazil](https://www.slideshare.net/AugustoHerrmannBatis/challenges-in-raising-the-social-and-economic-impact-of-open-data-policy-in-brazil-iodc-2016) -- IODC 2016
-* 🇨🇱 Santiago, 26/9/2016 -- [Estrategias y Planes Nacionales para Datos Abiertos de Gobierno en Brasil](https://www.slideshare.net/AugustoHerrmannBatis/estrategias-y-planes-nacionales-para-datos-abiertos-de-gobierno-en-brasil) (in Spanish) -- Taller Planes de Acción en Datos Abiertos de Gobierno para el Desarrollo Sostenible en América Latina – UN DESA / CEPAL 2016
+* 🇪🇸 Madrid, 7/10/2016 --
+  [Challenges in raising the social and economic impact of Open Data Policy in Brazil](https://www.slideshare.net/AugustoHerrmannBatis/challenges-in-raising-the-social-and-economic-impact-of-open-data-policy-in-brazil-iodc-2016),
+  [Talking CKAN](https://www.youtube.com/watch?v=E-tbixWtypU)
+  -- International Open Data Conference (IODC) 2016
+* 🇨🇱 Santiago, 26/9/2016 --
+  [Estrategias y Planes Nacionales para Datos Abiertos de Gobierno en Brasil](https://www.slideshare.net/AugustoHerrmannBatis/estrategias-y-planes-nacionales-para-datos-abiertos-de-gobierno-en-brasil)
+  (in Spanish) -- Taller Planes de Acción en Datos Abiertos de Gobierno para
+  el Desarrollo Sostenible en América Latina – United Nations Department of
+  Economic and Social Affairs (UN DESA) / CEPAL 2016
 * 🇧🇷 Brasília, 9/6/2016 -- [Planejando dados abertos - novos compromissos para implementar a Estratégia de Governança Digital](https://www.slideshare.net/AugustoHerrmannBatis/planejando-dados-abertos-novos-compromissos-para-implementar-a-estratgia-de-governana-digital) (in Portuguese) -- IX Congresso Consad de Gestão Pública
 * 🇧🇷 Brasília, 4/4/2016 -- [Governança digital, interoperabilidade e web semântica](https://www.slideshare.net/AugustoHerrmannBatis/governana-digital-interoperabilidade-e-web-semntica-ii-seminrio-coorte-100-milhes-de-brasileiros) (in Portuguese) -- II Seminário Coorte 100 Milhões de Brasileiros
 

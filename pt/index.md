@@ -187,8 +187,15 @@ Para mais postagens, por favor veja [o blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2016
 
-* 🇪🇸 Madri, 7/10/2016 -- [Challenges in raising the social and economic impact of Open Data Policy in Brazil](https://www.slideshare.net/AugustoHerrmannBatis/challenges-in-raising-the-social-and-economic-impact-of-open-data-policy-in-brazil-iodc-2016) (em inglês) -- IODC 2016
-* 🇨🇱 Santiago, 26/9/2016 -- [Estrategias y Planes Nacionales para Datos Abiertos de Gobierno en Brasil](https://www.slideshare.net/AugustoHerrmannBatis/estrategias-y-planes-nacionales-para-datos-abiertos-de-gobierno-en-brasil) (em espanhol) -- Taller Planes de Acción en Datos Abiertos de Gobierno para el Desarrollo Sostenible en América Latina – UN DESA / CEPAL 2016
+* 🇪🇸 Madri, 7/10/2016 --
+  [Challenges in raising the social and economic impact of Open Data Policy in Brazil](https://www.slideshare.net/AugustoHerrmannBatis/challenges-in-raising-the-social-and-economic-impact-of-open-data-policy-in-brazil-iodc-2016),
+  [Talking CKAN](https://www.youtube.com/watch?v=E-tbixWtypU)
+  (em inglês) -- Conferência Internacional de Dados Abertos (IODC) 2016
+* 🇨🇱 Santiago, 26/9/2016 --
+  [Estrategias y Planes Nacionales para Datos Abiertos de Gobierno en Brasil](https://www.slideshare.net/AugustoHerrmannBatis/estrategias-y-planes-nacionales-para-datos-abiertos-de-gobierno-en-brasil)
+  (em espanhol) -- Taller Planes de Acción en Datos Abiertos de Gobierno para
+  el Desarrollo Sostenible en América Latina – Departamento de Assuntos
+  Econômicos e Sociais das Nações Unidas (UN DESA) / CEPAL 2016
 * 🇧🇷 Brasília, 9/6/2016 -- [Planejando dados abertos - novos compromissos para implementar a Estratégia de Governança Digital](https://www.slideshare.net/AugustoHerrmannBatis/planejando-dados-abertos-novos-compromissos-para-implementar-a-estratgia-de-governana-digital) -- IX Congresso Consad de Gestão Pública
 * 🇧🇷 Brasília, 4/4/2016 -- [Governança digital, interoperabilidade e web semântica](https://www.slideshare.net/AugustoHerrmannBatis/governana-digital-interoperabilidade-e-web-semntica-ii-seminrio-coorte-100-milhes-de-brasileiros) -- II Seminário Coorte 100 Milhões de Brasileiros
 
