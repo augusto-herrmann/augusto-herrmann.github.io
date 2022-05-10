@@ -217,3 +217,7 @@ para
 [o passo “escolhendo os seus pacotes”](#escolhendo-os-seus-pacotes-python),
 faça as alterações que deseja e siga a partir dali, construindo o
 container novamente.
+
+*Referências:* este texto foi mencionado na
+[newsletter da comunidade Data Hackers](https://datahackers.com.br/newsletter/as-trolagens-do-python)
+de fevereiro de 2020.
