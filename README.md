@@ -10,5 +10,5 @@ When developing locally, to build, use:
 
 ```bash
 export JEKYLL_VERSION=3.8
-docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/minimal:$JEKYLL_VERSION jekyll build --baseurl {your local repository}/_site/ --watch
+docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/minimal:$JEKYLL_VERSION jekyll build --baseurl $PWD/_site/ --watch
 ```
