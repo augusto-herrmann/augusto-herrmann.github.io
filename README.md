@@ -6,7 +6,7 @@ This is the source code to my professional website and blog, which is live at
 The website uses [Jekyll](https://jekyllrb.com/) version 3.8 to build static
 web pages.
 
-When devloping locally, to build, use:
+When developing locally, to build, use:
 
 ```bash
 export JEKYLL_VERSION=3.8
