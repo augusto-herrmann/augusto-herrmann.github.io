@@ -440,7 +440,7 @@ Archive* para qualquer pessoa que esteja pesquisando na web por evidências
 de eventos passados.
 
 
-### Primeira história
+### Primeiros anos
 
 O ODD estreou mundialmente em 2010, com muitas cidades participantes em
 todo o mundo. Registros desses primeiros eventos são muito difíceis de
