@@ -23,7 +23,7 @@ irmãos. Tia Terô, como a chamávamos carinhosamente, era irmã da minha avó
 Ana Luiza. Ela era uma pessoa inteligente, gentil e carinhosa, muito
 querida por todos na família. Nós costumávamos pedir conselhos a ela em
 muitas situações da vida. Ela tinha um talento em nos ajudar a nos
-compreender melhor. Nas palavras de minha tia Ana Lúcia, que era sua
+compreender melhor. Nas palavras de minha tia Ana Lúcia, que é sua
 sobrinha,
 
 > Tia Therezinha era uma psicóloga nata! Ela me ajudou muito em situações

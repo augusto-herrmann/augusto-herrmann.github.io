@@ -22,7 +22,7 @@ among 8 siblings. Aunt Terô, as we affectionately called her, was my
 grandmother Ana Luiza's sister. She was a smart, kind, and caring person,
 very dear to everyone in the family. We used to turn to her for counsel
 in many situations in life. She had a talent for helping us understand
-ourselves better. In the words of my aunt Ana Lúcia, who was her niece,
+ourselves better. In the words of my aunt Ana Lúcia, who is her niece,
 
 > Tia Therezinha was a natural born psychologist! Se helped me a lot in
 > situations with many emotional and existential conflicts. She was also
