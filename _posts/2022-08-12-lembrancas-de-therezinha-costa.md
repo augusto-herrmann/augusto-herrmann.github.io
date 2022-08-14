@@ -16,7 +16,7 @@ desc: >-
 image-credits: "Eduardo Luiz Batista"
 ---
 
-Therezinha Costa nasceu em Teixeira, Minas Gerais, em 13 de agosto de
+Therezinha Costa nasceu em Teixeiras, Minas Gerais, em 13 de agosto de
 19XX (não vou dizer o ano exato, mais tarde você vai descobrir por quê),
 filha de Maria Luiza Costa e Antônio Domingos Costa, a caçula de 8
 irmãos. Tia Terô, como a chamávamos carinhosamente, era irmã da minha avó

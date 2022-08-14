@@ -15,7 +15,7 @@ desc: >-
 image-credits: "Eduardo Luiz Batista"
 ---
 
-Therezinha Costa was born in Teixeira, Minas Gerais, Brazil in August
+Therezinha Costa was born in Teixeiras, Minas Gerais, Brazil in August
 13th, 19XX (I won't say the exact year, later you will find out why),
 daughter of Maria Luiza Costa and Antônio Domingos Costa, the youngest
 among 8 siblings. Aunt Terô, as we affectionately called her, was my
