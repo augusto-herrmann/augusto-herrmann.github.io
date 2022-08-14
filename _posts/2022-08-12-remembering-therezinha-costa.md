@@ -218,7 +218,8 @@ A translation follows:
 > The editor.
 
 Looking at it today, the lack of spelling errors and playful tone of this
-editorial have caught my attention.
+editorial have caught my attention. This passage above is the reason why
+I have omitted her year of birth at the beginning of this text.
 
 She loved to knit. I remember having gloves, caps, and other clothes
 knitted by her when I was a child. To this day I have a bed sheet made

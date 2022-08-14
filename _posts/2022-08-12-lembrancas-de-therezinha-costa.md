@@ -216,8 +216,9 @@ Segue uma transcrição:
 > 
 > O editor
 
-Lendo isso hoje, chamaram a minha atenção a falta de erros ortográficos
-e o tom brincalhão do editorial.
+Lendo isso hoje, chamaram a minha atenção a falta de erros ortográficos e
+o tom brincalhão do editorial. Essa passagem acima é o motivo de eu
+não ter revelado o seu ano de nascimento no início deste texto.
 
 Ela adorava tricotar. Eu me lembro de ter luvas, gorros e outras roupas
 quando criança que foram tricotados por ela. Até hoje tenho uma coberta
