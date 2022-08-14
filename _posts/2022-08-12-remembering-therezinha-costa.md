@@ -39,7 +39,7 @@ obstacles she had to face in going to the university.
 <figcaption>Therezinha's student card.</figcaption>
 </figure>
 
-At the age of 5, she was afflicted with polio, which left her paralyzed
+At the age of 9, she was afflicted with polio, which left her paralyzed
 from the waist below. Despite her condition, she was a very active and
 independent person and did most things herself. For example, in order to
 reach something high on a shelf, she would often sit on the arms of the

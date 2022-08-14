@@ -40,7 +40,7 @@ muitos obstáculos que ela teve que enfrentar para ir à universidade.
 <figcaption>A carteirinha de estudande de Therezinha.</figcaption>
 </figure>
 
-Aos 5 anos ela teve pólio, que a deixou paralisada da cintura para baixo.
+Aos 9 anos ela teve pólio, que a deixou paralisada da cintura para baixo.
 Apesar dessa condição, ela era uma pessoa muito ativa e independente e
 fazia a maioria das coisas sozinha. Por exemplo, para poder alcançar algo
 alto em uma prateleira, muitas vezes ela se sentava nos braços da cadeira
