@@ -1,5 +1,7 @@
 # do not store html cooked by Jekyll
 _site
+# Jekyll temporary files
+.jekyll-cache
 
 # editor metadata
 .vscode
