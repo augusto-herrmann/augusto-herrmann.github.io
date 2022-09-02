@@ -101,6 +101,8 @@ Para mais postagens, por favor veja [o blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2022
 
+* 🌐 Online, 31/8/2022 -- Live ACTECH:
+  [Fóruns de discussão como parte do processo de inovação](https://www.youtube.com/watch?v=d2z-TAjnWpA)
 * 🇧🇷 Brasília (Online), 5/3/2022 -- [Open Data Day](https://opendataday.org/)
   2022:
   [Open Datasets SEGES 2022](https://economiagovbr.github.io/opendataday2022/)

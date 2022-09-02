@@ -98,9 +98,13 @@ For more posts, please see [the blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2022
 
+* 🌐 Online, 31/8/2022 -- Live ACTECH:
+  [Discussion forums as part of the innovation process](https://www.youtube.com/watch?v=d2z-TAjnWpA)
+  (in Portuguese)
 * 🇧🇷 Brasília (Online), 5/3/2022 -- [Open Data Day](https://opendataday.org/)
   2022:
   [Open Datasets SEGES 2022](https://economiagovbr.github.io/opendataday2022/)
+  (in Portuguese)
 * 🇳🇵 Kathmandu (Online), 5/3/2022 -- [Open Data Day](https://opendataday.org/)
   2022:
   [Publicbodies.org Nepal Workshop](https://github.com/augusto-herrmann/opendataday-publicbodies-nepal/)
