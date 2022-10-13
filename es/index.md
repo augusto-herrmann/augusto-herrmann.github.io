@@ -62,6 +62,7 @@ themes:
 * [Infraestrutura nacional de dados abertos](http://banco.consad.org.br/handle/123456789/854) -- Consejo Nacional de Secretarios de Estado de Administración (Consad)
 * [Implementando uma infraestrutura nacional de dados abertos: o caso brasileiro](http://siare.clad.org/fulltext/0075041.pdf) (en portugués) -- Centro Latinoamericano de Administración para el Desarrollo (CLAD)
 * [Planejando Dados Abertos – Novos compromissos para implementar a Estratégia de Governança Digital](http://consad.org.br/wp-content/uploads/2016/06/Painel-32-03.pdf) (en portugués) -- Consejo Nacional de Secretarios de Estado de Administración (Consad)
+* [The panorama of public officials’ meeting trips after the COVID-19 pandemic: Impact level, recovery, and prospects](https://doi.org/10.3389/ffutr.2022.972133) (en inglés) -- Frontiers in Future Transportation
 
 </div>
 </section>
