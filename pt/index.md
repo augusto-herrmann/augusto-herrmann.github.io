@@ -33,16 +33,23 @@ themes:
   - |
     ### engenharia de dados
     
-    implementa fluxos de dados para alguns indicadores da administração
-    pública federal (chamado [painel Raio-X](https://www.gov.br/raio-x))
-    e a abertura destes
-    [dados](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
-    usando stack de software livre incluindo o Apache Airflow
-    ([pull requests contrubuídos](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed))
+    projeta, implementa e gerencia dezenas de fluxos de dados, incluindo
+    operações de limpeza, enriquecimento e integração a partir de fontes
+    heterogêneas para um *data lake* e para a publicação de conjuntos de
+    dados abertos na administração pública brasileira, usando um *stack*
+    de software livre, incluindo
+    [Apache Airflow](https://airflow.apache.org/)
+    ([tendo contribuído pull requests](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed)),
+    [FastAPI](https://fastapi.tiangolo.com/)
+    ([PRs](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+)),
+    [Frictionless Data](https://frictionlessdata.io/)
+    ([PRs](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann))
+    e outros
 
     implementa fluxos de dados em projetos colaborativos, como o
     [publicbodies.org](https://publicbodies.org) usando Github
-    Actions para automatizar as atualizações de fontes de dados abertos
+    Actions para automatizar as atualizações a partir de fontes de dados
+    abertos
   - |
     ### aprendizagem de máquina
     

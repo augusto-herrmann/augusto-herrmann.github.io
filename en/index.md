@@ -32,12 +32,17 @@ themes:
   - |
     ### data engineering
     
-    implements data flows for some indicators of the Brazilian public
-    administration (called the [X-Ray dashboard](https://www.gov.br/raio-x))
-    and the opening of its
-    [data](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
-    using a free and open source software stack including Apache Airflow
-    ([pull requests contributed to](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed))
+    designs, implements and manages dozens of data flows, including cleaning,
+    enrichment and integration operations from heterogeneous sources for a
+    data lake and for the release of open datasets at the Brazilian public
+    administration, using a free and open source software stack including
+    [Apache Airflow](https://airflow.apache.org/)
+    ([having contributed pull requests](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed)),
+    [FastAPI](https://fastapi.tiangolo.com/)
+    ([PRs](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+)),
+    [Frictionless Data](https://frictionlessdata.io/)
+    ([PRs](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann))
+    and others
 
     implements data flows in collaborative projects, such as
     [publicbodies.org](https://publicbodies.org) using Github Actions

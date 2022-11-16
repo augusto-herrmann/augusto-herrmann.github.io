@@ -33,11 +33,22 @@ themes:
   - |
     ### ingeniaría de datos
     
-    implementó flujos de datos para algunos indicadores de la administración
-    pública federal (llamado [panel Radiografía](https://www.gov.br/raio-x))
-    y la apertura de estos
-    [datos](https://dados.gov.br/dataset/raio-x-da-administracao-publica-federal),
-    usando un stack de software libre incluyendo Apache Airflow
+    diseña, implementa y gestiona docenas de flujos de datos, incluyendo
+    operaciones de limpieza, enriquecimiento y integración desde fuentes
+    heterogéneas para un *data lake* y para la publicación de conjuntos
+    de datos abiertos para la administración pública brasileña, utilizando
+    un *stack* software libre, incluyendo
+    [Apache Airflow](https://airflow.apache.org/)
+    ([tendo contribuído pull requests](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed)),
+    [FastAPI](https://fastapi.tiangolo.com/)
+    ([PRs](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+)),
+    [Frictionless Data](https://frictionlessdata.io/)
+    ([PRs](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann))
+    y otros
+
+    implementa flujos de datos en proyectos colaborativos, como
+    [publicbodies.org](https://publicbodies.org) utilizando Github Actions
+    para automatizar las actualizaciones de fuentes de datos abiertos
   - |
     ### aprendizaje de máquina
     
