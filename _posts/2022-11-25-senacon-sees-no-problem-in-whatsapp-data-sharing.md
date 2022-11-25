@@ -74,9 +74,10 @@ The decision follows an unfortunate trend of the Brazilian government
 deciding in favor of market expansion of Meta in Brazil. In 2016,
 regarding the company's practice of paying local telcos for keeping its
 apps out of the mobile internet data transfer limits, a deleterious
-practice that is used to this day known as zero rating, the telco
-regulator Anatel decided in favor of zero rating, suggesting that the
-practice could be even beneficial:
+practice that is used to this day known as
+[zero rating](https://www.youtube.com/watch?v=gcJ7RnbMjE8),
+the telco regulator Anatel decided in favor of zero rating, suggesting
+that the practice could be even beneficial:
 
 > As set forth by the analysis, in addition to the efficiency gains that
 > I have just demonstrated, it's perceivable that the practice of

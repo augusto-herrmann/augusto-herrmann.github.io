@@ -72,7 +72,8 @@ A decisão segue uma infeliz tendência do governo brasileiro de decidir
 em favor da expansão de mercado da Meta no Brasil. Em 2016, a respeito
 da prática da companhia de pagar as telecoms para manter seus aplicativos
 de fora da franquia de transferência de dados da internet móvel, uma
-prática nociva que é usada até hoje chamada *zero rating*, a agência
+prática nociva que é usada até hoje chamada
+[*zero rating*](https://www.youtube.com/watch?v=gcJ7RnbMjE8), a agência
 reguladora Anatel decidiu a favor do *zero rating*, sugerindo que a
 prática poderia ser até mesmo benéfica:
 
