@@ -130,3 +130,15 @@ contatos usem o mesmo aplicativo, já que as pessoas tendem a resistir
 usar qualquer coisa de diferente daquilo com o que já estão acostumadas
 – independente se essa familiaridade foi forçada em cima deles por uma
 empresa gigante usando práticas comerciais questionáveis.
+
+{% assign posts=site.posts | where:"lang", page.lang | where: "ref", "2021-08-10-my-discord-with-discord-or-choosing-alternatives-with-better-terms-of-service" %}
+{% for post in posts %}
+{% assign reference_post=post %}
+{% endfor %}
+
+Assim como qualquer outra pessoa, eu também odeio ler políticas de
+privacidade. É por isso que eu
+[recomendo]({{ reference_post.url | relative_url }}) a todo mundo que
+verifiquem se a política de privacidade já foi avaliada no ToS;DR antes
+de se cadastrar, ou de continuar a usar, qualquer serviço. E a contribuir
+com uma avaliação caso não tenha sido.

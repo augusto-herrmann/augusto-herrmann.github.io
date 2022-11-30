@@ -131,3 +131,14 @@ trouble is getting their contacts to use the same app, as most people
 tend to resist using anything different to what they are used to –
 notwithstanding the matter that that acquaintance was forced upon them by
 a giant company using shady business tactics.
+
+{% assign posts=site.posts | where:"lang", page.lang | where: "ref", "2021-08-10-my-discord-with-discord-or-choosing-alternatives-with-better-terms-of-service" %}
+{% for post in posts %}
+{% assign reference_post=post %}
+{% endfor %}
+
+I hate reading privacy policies as much as anyone else. That's why I
+[recommend]({{ reference_post.url | relative_url }}) everyone to check
+and see if a privacy policy has already been evaluated by ToS;DR before they sign
+in to, or continue using, any service. And to contribute an evaluation
+if it has not.
