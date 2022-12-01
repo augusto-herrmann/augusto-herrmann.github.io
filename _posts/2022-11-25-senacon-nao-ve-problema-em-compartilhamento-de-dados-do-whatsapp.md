@@ -57,14 +57,16 @@ arquivam o processo:
 > Solicitação de Esclarecimentos por este Departamento de Proteção e
 > Defesa do Consumidor. Informações Prestadas pela averiguada. Ausência
 > de violação à legislação consumerista. Sugestão de Arquivamento.
-> Acolhendo as razões expressas na, NOTA TÉCNICA Nº
-> 36/2022/CGCTSA/DPDC/SENACON/MJ (SEI 19613859), as quais passam a fazer
+> Acolhendo as razões expressas na NOTA TÉCNICA Nº
+> 42/2022/CGCTSA/DPDC/SENACON/MJ (20929036), as quais passam a fazer
 > parte da presente decisão, determino: o arquivamento do presente feito,
 
 Fonte:
 [Despacho n.º 1.573/2022](https://www.in.gov.br/en/web/dou/-/despacho-n-1.573/2022-446097082),
-no Diário Oficial da União, seção 1,
-página 204.
+no Diário Oficial da União de 25/11/2022, seção 1,
+página 204, retificado pelo
+[Despacho n.º 1.613/2022](https://www.in.gov.br/en/web/dou/-/despacho-n-1.613/2022-447024786),
+publicado no D.O.U. de 1/12/2022, seção 1, pág. 59.
 
 ## Governo brasileiro carimbando as práticas da Meta
 
@@ -142,3 +144,7 @@ privacidade. É por isso que eu
 verifiquem se a política de privacidade já foi avaliada no ToS;DR antes
 de se cadastrar, ou de continuar a usar, qualquer serviço. E a contribuir
 com uma avaliação caso não tenha sido.
+
+**Editado:** para incluir a referência ao artigo sobre termos de serviço e
+incluir o despacho de retificação da Senacon, que alterou o número da
+Nota Técnica referenciada.

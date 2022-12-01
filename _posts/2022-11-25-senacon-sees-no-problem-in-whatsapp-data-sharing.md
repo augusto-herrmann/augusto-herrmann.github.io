@@ -59,14 +59,16 @@ violate Brazilian consumer protection law and close the case:
 > Request for clarifications by this Department of Consumer Protection and
 > Defense. Information provided by the ascertained. Absence of violation
 > to consumer legislation. Suggestion of closure. Accepting the reasons
-> expressed in Technical Note n.º 36/2022/CGCTSA/DPDC/SENACON/MJ (SEI
-> 19613859) which become part of the present decision, I determine:
+> expressed in Technical Note n.º 42/2022/CGCTSA/DPDC/SENACON/MJ
+> (20929036) which become part of the present decision, I determine:
 > closure of the present case,
 
 Source:
 [Despacho n.º 1.573/2022](https://www.in.gov.br/en/web/dou/-/despacho-n-1.573/2022-446097082),
 in today's Diário Oficial da União (National Official Gazette), section 1,
-page 204.
+page 204, rectified by
+[Despacho n.º 1.613/2022](https://www.in.gov.br/en/web/dou/-/despacho-n-1.613/2022-447024786),
+in D.O.U. for 1/12/2022, section 1, page 59.
 
 ## Brazilian Government rubber stamping Meta's practices
 
@@ -142,3 +144,7 @@ I hate reading privacy policies as much as anyone else. That's why I
 and see if a privacy policy has already been evaluated by ToS;DR before they sign
 in to, or continue using, any service. And to contribute an evaluation
 if it has not.
+
+**Edited:** to include reference to the article about terms of service
+and to include the rectifying decision by Senacon, which changed the
+number of the referenced Technical Note.
