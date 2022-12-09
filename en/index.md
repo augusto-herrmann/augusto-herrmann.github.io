@@ -104,6 +104,11 @@ For more posts, please see [the blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2022
 
+* 🇧🇷 Rio de Janeiro (Online), 2/12/2022 --
+  [Organising open data](https://herrmann.tech/slide-decks/2022/12/organizando-os-dados-abertos)
+  (in Portuguese), presentation for the Research Data Management course
+  in the [Postgraduate Program in Informatics](http://www.ppgi.ufrj.br/)
+  at the Federal University of Rio de Janeiro (UFRJ)
 * 🌐 Online, 31/8/2022 -- Live ACTECH:
   [Discussion forums as part of the innovation process](https://www.youtube.com/watch?v=d2z-TAjnWpA)
   (in Portuguese)

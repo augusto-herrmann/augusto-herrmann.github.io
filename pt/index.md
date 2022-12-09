@@ -109,6 +109,11 @@ Para mais postagens, por favor veja [o blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2022
 
+* 🇧🇷 Rio de Janeiro (Online), 2/12/2022 --
+  [Organizando os dados abertos](https://herrmann.tech/slide-decks/2022/12/organizando-os-dados-abertos),
+  apresentação para a disciplina Gestão de Dados de Pesquisa no
+  [Programa de Pós-graduação em Informática](http://www.ppgi.ufrj.br/)
+  na Universidade Federal do Rio de Janeiro (UFRJ)
 * 🌐 Online, 31/8/2022 -- Live ACTECH:
   [Fóruns de discussão como parte do processo de inovação](https://www.youtube.com/watch?v=d2z-TAjnWpA)
 * 🇧🇷 Brasília (Online), 5/3/2022 -- [Open Data Day](https://opendataday.org/)
