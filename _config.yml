@@ -50,6 +50,7 @@ t:
       license unless otherwise specified. Third party images may be either
       in the public domain, used with a permissive license or fair use or
       legal permission on citation and commentary.
+    read_more: "read more"
     see_also: "See also"
     see_also_text:
       If you like this post, you might want to look at these too
@@ -96,6 +97,7 @@ t:
       exceto quando especificado em contrário. Imagens de terceiros podem
       ou ser de domínio público, ou usam uma licença permissiva ou
       *fair use* ou permissão legal para citação e comentário.
+    read_more: "leia mais"
     see_also: "Veja também"
     see_also_text:
       Se você gostou desta postagem, você pode querer ver essas também
@@ -139,6 +141,7 @@ t:
     license_name: Creative Commons Atribución-CompartaIgual 4.0 Internacional
     license_href: https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR
     licensing_supplement: excepto cuando de otra manera especificado.
+    read_more: "lea más"
     see_also: "Vea también"
     see_also_text:
       Se te gusta esta entrada, puedes querer ver también estas

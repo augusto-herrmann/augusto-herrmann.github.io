@@ -15,7 +15,7 @@
 
 {{ post.content | strip_html | truncatewords: 120 }}
 
-[read more]({{ post.url | relative_url }})
+[{{ site.t[page.lang].read_more }}]({{ post.url | relative_url }})
 </div>
 {% endfor %}
 {% else %}
