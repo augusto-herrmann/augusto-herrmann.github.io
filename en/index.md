@@ -15,19 +15,21 @@ themes:
     ### open data
     
     open data enthusiast since 2009, conceived and implemented the
-    [Brazilian federal government open data policy](http://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
-    from scratch in 2010 to the [8th](https://index.okfn.org/place/br/) and
+    [Brazilian federal government open data policy](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
+    from scratch in 2010 to the
+    [8th](https://web.archive.org/web/20220807121702/https://index.okfn.org/place/br/)
+    and
     [14th](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     positions in international rankings
   - |
     ### open government and citizen participation
     
-    made contributions on open data to all of the 4 Brazilian action
+    made contributions on open data to the first 4 Brazilian action
     plans in the [Open Government Partnership](https://www.opengovpartnership.org/),
     from drafting to execution of commitments
     
     took part in driving the first ever
-    [collaborative crafting](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
+    [collaborative crafting](https://blog.okfn.org/2012/05/10/new-brazilian-portal-dados-gov-br-made-by-citizens/)
     in the world of a government portal, open to participation of any citizen
   - |
     ### data engineering
@@ -36,18 +38,24 @@ themes:
     enrichment and integration operations from heterogeneous sources for a
     data lake and for the release of open datasets at the Brazilian public
     administration, using a free and open source software stack including
-    [Apache Airflow](https://airflow.apache.org/)
-    ([having contributed pull requests](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed)),
-    [FastAPI](https://fastapi.tiangolo.com/)
-    ([PRs](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+)),
-    [Frictionless Data](https://frictionlessdata.io/)
-    ([PRs](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann))
-    and others
+    [Apache Airflow](https://airflow.apache.org/),
+    [FastAPI](https://fastapi.tiangolo.com/),
+    [Frictionless Data](https://frictionlessdata.io/) and
+    [Open Source Routing Machine](https://project-osrm.org/)
 
     implements data flows in collaborative projects, such as
     [publicbodies.org](https://publicbodies.org) using Github Actions
     to automate updates from open data sources
   - |
+    ### free and open source software
+
+    has contributed code to
+    [Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed),
+    [FastAPI](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+),
+    [Frictionless Data](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann),
+    [FastETL](https://github.com/economiagovbr/FastETL/pulls?q=is%3Apr+author%3Aaugusto-herrmann+),
+    and many others
+
     ### machine learning
     
     [M.Sc. in knowledge management and information technology](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)

@@ -14,20 +14,22 @@ themes:
   - |
     ### datos abiertos
     
-    entusiasta de los datos abiertos desde 2009, concibió y implementó la [Política de Datos
-    abiertos del poder ejecutivo federal](http://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
-    empezando del cero en 2010 hasta alcanzar la [8.ª](https://index.okfn.org/place/br/) y la
+    entusiasta de los datos abiertos desde 2009, concibió y implementó la
+    [Política de Datos abiertos del poder ejecutivo federal](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
+    empezando del cero en 2010 hasta alcanzar la
+    [8.ª](https://web.archive.org/web/20220807121702/https://index.okfn.org/place/br/)
+    y la
     [14.ª](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     posiciones en rankings internacionales
   - |
     ### gobierno abierto y participación ciudadana
     
-    contribuciones sobre datos abiertos en todos los 4 planes de acción de la
-    [Alianza para Gobierno Abierto](http://governoaberto.cgu.gov.br/a-ogp/o-que-e-a-iniciativa),
+    contribuciones sobre datos abiertos en los 4 primeros planes de acción de la
+    [Alianza para Gobierno Abierto](https://www.opengovpartnership.org/es/),
     desde la elaboración hacia la ejecución de compromisos
 
     participó de la conducción de la primera
-    [construcción colaborativa](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
+    [construcción colaborativa](https://web.archive.org/web/20181217182101/http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     nel mundo de un portal de gobierno, abierta à la participación de
     cualquier ciudadano
   - |
@@ -38,18 +40,24 @@ themes:
     heterogéneas para un *data lake* y para la publicación de conjuntos
     de datos abiertos para la administración pública brasileña, utilizando
     un *stack* software libre, incluyendo
-    [Apache Airflow](https://airflow.apache.org/)
-    ([tendo contribuído pull requests](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed)),
-    [FastAPI](https://fastapi.tiangolo.com/)
-    ([PRs](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+)),
+    [Apache Airflow](https://airflow.apache.org/),
+    [FastAPI](https://fastapi.tiangolo.com/),
     [Frictionless Data](https://frictionlessdata.io/)
-    ([PRs](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann))
     y otros
 
     implementa flujos de datos en proyectos colaborativos, como
     [publicbodies.org](https://publicbodies.org) utilizando Github Actions
     para automatizar las actualizaciones de fuentes de datos abiertos
   - |
+    ### software libre
+
+    contribuyó código para
+    [Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed),
+    [FastAPI](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+),
+    [Frictionless Data](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann),
+    [FastETL](https://github.com/economiagovbr/FastETL/pulls?q=is%3Apr+author%3Aaugusto-herrmann+)
+    y muchos otros
+
     ### aprendizaje de máquina
     
     investigación de [maestría em gestión del conocimiento y tecnología de la información](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
@@ -109,10 +117,11 @@ Para más entradas, por favor vea [el blog](blog).
 ### *﻿*{: .far .fa-calendar-alt} 2022
 
 * 🇧🇷 Rio de Janeiro (Online), 2/12/2022 --
-  [Organizando los datos abiertos](https://herrmann.tech/slide-decks/2022/12/organizando-os-dados-abertos),
+  [Organizando los datos abiertos](https://herrmann.tech/slide-decks/2022/12/organizando-os-dados-abertos)
+  (en portugués),
   presentación para el curso Gestión de Datos de Investigación en el
   [Programa de Postgrado en Informática](http://www.ppgi.ufrj.br/)
-  en la Universidad Federal de Rio de Janeiro (UFRJ)
+  en la Universidad Federal del Rio de Janeiro (UFRJ)
 * 🌐 Online, 31/8/2022 -- Live ACTECH:
   [Foros de discusión como parte del proceso de innovación](https://www.youtube.com/watch?v=d2z-TAjnWpA)
   (en portugués)

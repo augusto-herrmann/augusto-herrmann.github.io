@@ -14,20 +14,22 @@ themes:
   - |
     ### dados abertos
     
-    entusiasta dos dados abertos desde 2009, concebeu e implementou a [Política de Dados
-    abertos do poder executivo federal](http://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
-    partindo do zero em 2010 até alcançar a [8ª](https://index.okfn.org/place/br/) e a
+    entusiasta dos dados abertos desde 2009, concebeu e implementou a
+    [Política de Dados abertos do poder executivo federal](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
+    partindo do zero em 2010 até alcançar a
+    [8ª](https://web.archive.org/web/20220807121702/https://index.okfn.org/place/br/)
+    e a
     [14ª](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     posições em rankings internacionais
   - |
     ### governo aberto e participação cidadã
     
-    contribuições sobre dados abertos em todos os 4 planos de ação da
-    [Parceria para Governo Aberto](http://governoaberto.cgu.gov.br/a-ogp/o-que-e-a-iniciativa),
+    contribuições sobre dados abertos nos 4 primeiros planos de ação da
+    [Parceria para Governo Aberto](https://www.gov.br/cgu/pt-br/governo-aberto/a-ogp/o-que-e-a-iniciativa),
     desde a elaboração até a execução de compromissos
 
     participou da condução da primeira
-    [construção colaborativa](http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
+    [construção colaborativa](https://web.archive.org/web/20181217182101/http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     no mundo de um portal de governo, aberta à participação de
     qualquer cidadão
   - |
@@ -38,12 +40,9 @@ themes:
     heterogêneas para um *data lake* e para a publicação de conjuntos de
     dados abertos na administração pública brasileira, usando um *stack*
     de software livre, incluindo
-    [Apache Airflow](https://airflow.apache.org/)
-    ([tendo contribuído pull requests](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed)),
-    [FastAPI](https://fastapi.tiangolo.com/)
-    ([PRs](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+)),
+    [Apache Airflow](https://airflow.apache.org/),
+    [FastAPI](https://fastapi.tiangolo.com/),
     [Frictionless Data](https://frictionlessdata.io/)
-    ([PRs](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann))
     e outros
 
     implementa fluxos de dados em projetos colaborativos, como o
@@ -51,6 +50,15 @@ themes:
     Actions para automatizar as atualizações a partir de fontes de dados
     abertos
   - |
+    ### software livre
+
+    contribuiu com código para o
+    [Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed),
+    [FastAPI](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+),
+    [Frictionless Data](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann),
+    [FastETL](https://github.com/economiagovbr/FastETL/pulls?q=is%3Apr+author%3Aaugusto-herrmann+)
+    e muitos outros
+
     ### aprendizagem de máquina
     
     pesquisa de [mestrado em gestão do conhecimento e tecnologia da informação](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
