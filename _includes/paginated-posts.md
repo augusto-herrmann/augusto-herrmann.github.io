@@ -13,6 +13,15 @@
   [![Post cover image]({{ post.cover | relative_url }}){:class="excerpt_cover"}]({{ post.url | relative_url }})
 {% endif %}
 
+<p class="date" markdown="0">
+{{ site.t[page.lang].when }}
+{% if page.lang == 'en' %}
+  {{ post.date | date: "%B %-d, %Y" }}
+{% else %}
+  {{ post.date | date: "%-d/%m/%Y" }}
+{% endif %}
+</p>
+
 {{ post.content | strip_html | truncatewords: 120 }}
 
 [{{ site.t[page.lang].read_more }}]({{ post.url | relative_url }})
