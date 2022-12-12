@@ -42,7 +42,8 @@ themes:
     de software livre, incluindo
     [Apache Airflow](https://airflow.apache.org/),
     [FastAPI](https://fastapi.tiangolo.com/),
-    [Frictionless Data](https://frictionlessdata.io/)
+    [Frictionless Data](https://frictionlessdata.io/),
+    [Open Source Routing Machine](https://project-osrm.org/)
     e outros
 
     implementa fluxos de dados em projetos colaborativos, como o

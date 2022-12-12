@@ -40,8 +40,8 @@ themes:
     administration, using a free and open source software stack including
     [Apache Airflow](https://airflow.apache.org/),
     [FastAPI](https://fastapi.tiangolo.com/),
-    [Frictionless Data](https://frictionlessdata.io/) and
-    [Open Source Routing Machine](https://project-osrm.org/)
+    [Frictionless Data](https://frictionlessdata.io/),
+    [Open Source Routing Machine](https://project-osrm.org/) and others
 
     implements data flows in collaborative projects, such as
     [publicbodies.org](https://publicbodies.org) using Github Actions
