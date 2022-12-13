@@ -237,7 +237,18 @@ html
     color: $lt-text
 
     &:focus, &:hover
-      color: $lt-text
+      color: $lt-clear-bg
+      background-color: $lt-text-highlight
+      text-decoration: underline
+
+    &:visited
+      color: $lt-colored-text
+
+    &:visited:focus, &:visited:hover
+      color: $lt-clear-bg
+
+    // &:focus, &:hover
+    //   color: $lt-text
 
 #talks
   padding: 0
@@ -549,7 +560,18 @@ html.post
     background: $dt-clear-bg
 
     a
-      color: $dt-text-highlight
+      color: $lt-text-highlight
+
+      &:focus, &:hover
+        color: $dt-clear-bg
+        background-color: $dt-text-highlight
+        text-decoration: underline
+
+      &:visited
+        color: $dt-colored-text
+
+      &:visited:focus, &:visited:hover
+        color: $dt-clear-bg
 
     h2, h3, h4, h5, h6
       color: $dt-colored-text
