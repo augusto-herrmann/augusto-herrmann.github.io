@@ -15,7 +15,6 @@
 [*/*{: .fab .fa-github}augusto-herrmann](https://github.com/augusto-herrmann)  
 [*/*{: .fab .fa-linkedin}augusto-herrmann-batista](https://www.linkedin.com/in/augusto-herrmann-batista-7678abb3/)  
 [*/*{: .far .fa-file-powerpoint}AugustoHerrmannBatis](https://www.slideshare.net/AugustoHerrmannBatis)  
-[*/*{: .fab .fa-mastodon}@herrmann](https://ecodigital.social/@herrmann)
 {: .col-sm .flip-in}
 
   </div>
