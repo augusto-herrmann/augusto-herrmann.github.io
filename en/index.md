@@ -12,7 +12,7 @@ desc: Creating public value from data. Professional information about Augusto
 themes_heading: Subjects
 themes:
   - |
-    ### open data
+    ### *﻿*{: .fa-solid .fa-box-open} open data
     
     open data enthusiast since 2009, conceived and implemented the
     [Brazilian federal government open data policy](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
@@ -22,7 +22,7 @@ themes:
     [14th](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     positions in international rankings
   - |
-    ### open government and citizen participation
+    ### *﻿*{: .fa-solid .fa-people-carry-box} open government and citizen participation
     
     made contributions on open data to the first 4 Brazilian action
     plans in the [Open Government Partnership](https://www.opengovpartnership.org/),
@@ -32,7 +32,7 @@ themes:
     [collaborative crafting](https://blog.okfn.org/2012/05/10/new-brazilian-portal-dados-gov-br-made-by-citizens/)
     in the world of a government portal, open to participation of any citizen
   - |
-    ### data engineering
+    ### *﻿*{: .fa-solid .fa-gears} data engineering
     
     designs, implements and manages dozens of data flows, including cleaning,
     enrichment and integration operations from heterogeneous sources for a
@@ -47,7 +47,7 @@ themes:
     [publicbodies.org](https://publicbodies.org) using Github Actions
     to automate updates from open data sources
   - |
-    ### free and open source software
+    ### *﻿*{: .fa-brands .fa-osi} free and open source software
 
     has contributed code to
     [Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed),
@@ -56,7 +56,7 @@ themes:
     [FastETL](https://github.com/economiagovbr/FastETL/pulls?q=is%3Apr+author%3Aaugusto-herrmann+),
     and many others
 
-    ### machine learning
+    ### *﻿*{: .fa-solid .fa-robot} machine learning
     
     [M.Sc. in knowledge management and information technology](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
     researched natural language processing and machine learning techniques to

@@ -12,7 +12,7 @@ desc: Criando valor público a partir dos dados. Informações profissionais
 themes_heading: Assuntos
 themes:
   - |
-    ### dados abertos
+    ### *﻿*{: .fa-solid .fa-box-open} dados abertos
     
     entusiasta dos dados abertos desde 2009, concebeu e implementou a
     [Política de Dados abertos do poder executivo federal](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
@@ -22,7 +22,7 @@ themes:
     [14ª](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     posições em rankings internacionais
   - |
-    ### governo aberto e participação cidadã
+    ### *﻿*{: .fa-solid .fa-people-carry-box} governo aberto e participação cidadã
     
     contribuições sobre dados abertos nos 4 primeiros planos de ação da
     [Parceria para Governo Aberto](https://www.gov.br/cgu/pt-br/governo-aberto/a-ogp/o-que-e-a-iniciativa),
@@ -33,7 +33,7 @@ themes:
     no mundo de um portal de governo, aberta à participação de
     qualquer cidadão
   - |
-    ### engenharia de dados
+    ### *﻿*{: .fa-solid .fa-gears} engenharia de dados
     
     projeta, implementa e gerencia dezenas de fluxos de dados, incluindo
     operações de limpeza, enriquecimento e integração a partir de fontes
@@ -51,7 +51,7 @@ themes:
     Actions para automatizar as atualizações a partir de fontes de dados
     abertos
   - |
-    ### software livre
+    ### *﻿*{: .fa-brands .fa-osi} software livre
 
     contribuiu com código para o
     [Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed),
@@ -60,7 +60,7 @@ themes:
     [FastETL](https://github.com/economiagovbr/FastETL/pulls?q=is%3Apr+author%3Aaugusto-herrmann+)
     e muitos outros
 
-    ### aprendizagem de máquina
+    ### *﻿*{: .fa-solid .fa-robot} aprendizagem de máquina
     
     pesquisa de [mestrado em gestão do conhecimento e tecnologia da informação](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
     usou técnicas de processamento de linguagem natural e aprendizagem de

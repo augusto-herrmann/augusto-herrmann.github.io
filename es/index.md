@@ -12,7 +12,7 @@ desc: Creando valor público a partir de datos. Informaciones profesionales
 themes_heading: Asuntos
 themes:
   - |
-    ### datos abiertos
+    ### *﻿*{: .fa-solid .fa-box-open} datos abiertos
     
     entusiasta de los datos abiertos desde 2009, concibió y implementó la
     [Política de Datos abiertos del poder ejecutivo federal](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
@@ -22,7 +22,7 @@ themes:
     [14.ª](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     posiciones en rankings internacionales
   - |
-    ### gobierno abierto y participación ciudadana
+    ### *﻿*{: .fa-solid .fa-people-carry-box} gobierno abierto y participación ciudadana
     
     contribuciones sobre datos abiertos en los 4 primeros planes de acción de la
     [Alianza para Gobierno Abierto](https://www.opengovpartnership.org/es/),
@@ -33,7 +33,7 @@ themes:
     nel mundo de un portal de gobierno, abierta à la participación de
     cualquier ciudadano
   - |
-    ### ingeniaría de datos
+    ### *﻿*{: .fa-solid .fa-gears} ingeniaría de datos
     
     diseña, implementa y gestiona docenas de flujos de datos, incluyendo
     operaciones de limpieza, enriquecimiento y integración desde fuentes
@@ -50,7 +50,7 @@ themes:
     [publicbodies.org](https://publicbodies.org) utilizando Github Actions
     para automatizar las actualizaciones de fuentes de datos abiertos
   - |
-    ### software libre
+    ### *﻿*{: .fa-brands .fa-osi} software libre
 
     contribuyó código para
     [Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed),
@@ -59,7 +59,7 @@ themes:
     [FastETL](https://github.com/economiagovbr/FastETL/pulls?q=is%3Apr+author%3Aaugusto-herrmann+)
     y muchos otros
 
-    ### aprendizaje de máquina
+    ### *﻿*{: .fa-solid .fa-robot} aprendizaje de máquina
     
     investigación de [maestría em gestión del conocimiento y tecnología de la información](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
     utilizó técnicas de procesamiento de lenguaje natural y aprendizaje de
