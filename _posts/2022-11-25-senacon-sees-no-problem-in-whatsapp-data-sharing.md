@@ -59,7 +59,7 @@ violate Brazilian consumer protection law and close the case:
 > Request for clarifications by this Department of Consumer Protection and
 > Defense. Information provided by the ascertained. Absence of violation
 > to consumer legislation. Suggestion of closure. Accepting the reasons
-> expressed in Technical Note n.º 42/2022/CGCTSA/DPDC/SENACON/MJ
+> expressed in Technical Note no. 42/2022/CGCTSA/DPDC/SENACON/MJ
 > (20929036) which become part of the present decision, I determine:
 > closure of the present case,
 
