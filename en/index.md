@@ -12,52 +12,61 @@ desc: Creating public value from data. Professional information about Augusto
 themes_heading: Subjects
 themes:
   - |
-    ### *﻿*{: .fa-solid .fa-box-open} open data
+    ### open data
     
-    open data enthusiast since 2009, conceived and implemented the
+    *﻿*{: .fa-solid .fa-box-open} open data enthusiast since 2009,
+    conceived and implemented the
     [Brazilian federal government open data policy](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
     from scratch in 2010 to the
     [8th](https://web.archive.org/web/20220807121702/https://index.okfn.org/place/br/)
     and
     [14th](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     positions in international rankings
+
+    *﻿*{: .fa-solid .fa-box-open} maintains open data sets (such as
+    [this one](https://dados.gov.br/dados/conjuntos-dados/corridas-do-taxigov))
+    that are updated daily using automated ETL processes with a software
+    stack including SQL, Python and Apache Airflow
   - |
-    ### *﻿*{: .fa-solid .fa-people-carry-box} open government and citizen participation
+    ### open government and citizen participation
     
-    made contributions on open data to the first 4 Brazilian action
-    plans in the [Open Government Partnership](https://www.opengovpartnership.org/),
+    *﻿*{: .fa-solid .fa-people-carry-box} made contributions on open data
+    to the first 4 Brazilian action plans in the
+    [Open Government Partnership](https://www.opengovpartnership.org/),
     from drafting to execution of commitments
     
-    took part in driving the first ever
+    *﻿*{: .fa-solid .fa-people-carry-box} took part in driving the first ever
     [collaborative crafting](https://blog.okfn.org/2012/05/10/new-brazilian-portal-dados-gov-br-made-by-citizens/)
     in the world of a government portal, open to participation of any citizen
   - |
-    ### *﻿*{: .fa-solid .fa-gears} data engineering
+    ### data engineering
     
-    designs, implements and manages dozens of data flows, including cleaning,
-    enrichment and integration operations from heterogeneous sources for a
-    data lake and for the release of open datasets at the Brazilian public
-    administration, using a free and open source software stack including
+    *﻿*{: .fa-solid .fa-gears} designs, implements and manages dozens of
+    data flows, including cleaning, enrichment and integration operations
+    from heterogeneous sources for a data lake and for the release of open
+    datasets at the Brazilian public administration, using a mostly free
+    and open source software stack including
     [Apache Airflow](https://airflow.apache.org/),
     [FastAPI](https://fastapi.tiangolo.com/),
     [Frictionless Data](https://frictionlessdata.io/),
     [Open Source Routing Machine](https://project-osrm.org/) and others
 
-    implements data flows in collaborative projects, such as
-    [publicbodies.org](https://publicbodies.org) using Github Actions
-    to automate updates from open data sources
+    *﻿*{: .fa-solid .fa-gears} implements data flows in collaborative
+    projects, such as [publicbodies.org](https://publicbodies.org)
+    using Github Actions to automate updates from open data sources
   - |
-    ### *﻿*{: .fa-brands .fa-osi} free and open source software
+    ### free and open source software
 
-    has contributed code to
+    *﻿*{: .fa-brands .fa-osi} has contributed code to
     [Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed),
     [FastAPI](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+),
     [Frictionless Data](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann),
     [FastETL](https://github.com/economiagovbr/FastETL/pulls?q=is%3Apr+author%3Aaugusto-herrmann+),
     and many others
 
-    ### *﻿*{: .fa-solid .fa-robot} machine learning
+    ### machine learning
     
+    *﻿*{: .fa-solid .fa-robot}
     [M.Sc. in knowledge management and information technology](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
     researched natural language processing and machine learning techniques to
     automatically build glossaries based on existing definitions in legal texts

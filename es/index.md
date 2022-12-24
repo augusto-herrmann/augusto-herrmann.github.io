@@ -12,30 +12,38 @@ desc: Creando valor público a partir de datos. Informaciones profesionales
 themes_heading: Asuntos
 themes:
   - |
-    ### *﻿*{: .fa-solid .fa-box-open} datos abiertos
+    ### datos abiertos
     
-    entusiasta de los datos abiertos desde 2009, concibió y implementó la
+    *﻿*{: .fa-solid .fa-box-open} entusiasta de los datos abiertos desde
+    2009, concibió y implementó la
     [Política de Datos abiertos del poder ejecutivo federal](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
     empezando del cero en 2010 hasta alcanzar la
     [8.ª](https://web.archive.org/web/20220807121702/https://index.okfn.org/place/br/)
     y la
     [14.ª](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     posiciones en rankings internacionales
+
+    *﻿*{: .fa-solid .fa-box-open} mantiene conjuntos de datos abiertos
+    ([tales como este](https://dados.gov.br/dados/conjuntos-dados/corridas-do-taxigov))
+    actualizados diariamente usando procesos automatizados de ETL usando
+    un *stack* de software que incluye SQL, Python y Apache Airflow
   - |
-    ### *﻿*{: .fa-solid .fa-people-carry-box} gobierno abierto y participación ciudadana
+    ### gobierno abierto y participación ciudadana
     
-    contribuciones sobre datos abiertos en los 4 primeros planes de acción de la
+    *﻿*{: .fa-solid .fa-people-carry-box} contribuciones sobre datos
+    abiertos en los 4 primeros planes de acción de la
     [Alianza para Gobierno Abierto](https://www.opengovpartnership.org/es/),
     desde la elaboración hacia la ejecución de compromisos
 
-    participó de la conducción de la primera
+    *﻿*{: .fa-solid .fa-people-carry-box} participó de la conducción de
+    la primera
     [construcción colaborativa](https://web.archive.org/web/20181217182101/http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     nel mundo de un portal de gobierno, abierta à la participación de
     cualquier ciudadano
   - |
-    ### *﻿*{: .fa-solid .fa-gears} ingeniaría de datos
+    ### ingeniaría de datos
     
-    diseña, implementa y gestiona docenas de flujos de datos, incluyendo
+    *﻿*{: .fa-solid .fa-gears} diseña, implementa y gestiona docenas de flujos de datos, incluyendo
     operaciones de limpieza, enriquecimiento y integración desde fuentes
     heterogéneas para un *data lake* y para la publicación de conjuntos
     de datos abiertos para la administración pública brasileña, utilizando
@@ -46,22 +54,22 @@ themes:
     [Open Source Routing Machine](https://project-osrm.org/)
     y otros
 
-    implementa flujos de datos en proyectos colaborativos, como
+    *﻿*{: .fa-solid .fa-gears} implementa flujos de datos en proyectos colaborativos, como
     [publicbodies.org](https://publicbodies.org) utilizando Github Actions
     para automatizar las actualizaciones de fuentes de datos abiertos
   - |
-    ### *﻿*{: .fa-brands .fa-osi} software libre
+    ### software libre
 
-    contribuyó código para
+    *﻿*{: .fa-brands .fa-osi} contribuyó código para
     [Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed),
     [FastAPI](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+),
     [Frictionless Data](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann),
     [FastETL](https://github.com/economiagovbr/FastETL/pulls?q=is%3Apr+author%3Aaugusto-herrmann+)
     y muchos otros
 
-    ### *﻿*{: .fa-solid .fa-robot} aprendizaje de máquina
+    ### aprendizaje de máquina
     
-    investigación de [maestría em gestión del conocimiento y tecnología de la información](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
+    *﻿*{: .fa-solid .fa-robot} investigación de [maestría em gestión del conocimiento y tecnología de la información](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
     utilizó técnicas de procesamiento de lenguaje natural y aprendizaje de
     máquina para construir automáticamente glosarios a partir de definiciones
     existentes en textos legislativos

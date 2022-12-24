@@ -12,57 +12,65 @@ desc: Criando valor público a partir dos dados. Informações profissionais
 themes_heading: Assuntos
 themes:
   - |
-    ### *﻿*{: .fa-solid .fa-box-open} dados abertos
+    ### dados abertos
     
-    entusiasta dos dados abertos desde 2009, concebeu e implementou a
+    *﻿*{: .fa-solid .fa-box-open} entusiasta dos dados abertos desde 2009,
+    concebeu e implementou a
     [Política de Dados abertos do poder executivo federal](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
     partindo do zero em 2010 até alcançar a
     [8ª](https://web.archive.org/web/20220807121702/https://index.okfn.org/place/br/)
     e a
     [14ª](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
     posições em rankings internacionais
+
+    *﻿*{: .fa-solid .fa-box-open} mantém conjuntos de dados abertos
+    ([tais como este](https://dados.gov.br/dados/conjuntos-dados/corridas-do-taxigov))
+    atualizados diariamente usando processos automatizados de ETL usando
+    um *stack* de software que inclui SQL, Python e Apache Airflow
   - |
-    ### *﻿*{: .fa-solid .fa-people-carry-box} governo aberto e participação cidadã
+    ### governo aberto e participação cidadã
     
-    contribuições sobre dados abertos nos 4 primeiros planos de ação da
+    *﻿*{: .fa-solid .fa-people-carry-box} contribuições sobre dados
+    abertos nos 4 primeiros planos de ação da
     [Parceria para Governo Aberto](https://www.gov.br/cgu/pt-br/governo-aberto/a-ogp/o-que-e-a-iniciativa),
     desde a elaboração até a execução de compromissos
 
-    participou da condução da primeira
+    *﻿*{: .fa-solid .fa-people-carry-box} participou da condução da primeira
     [construção colaborativa](https://web.archive.org/web/20181217182101/http://dados.gov.br/pagina/processo-de-participacao-social-da-inda)
     no mundo de um portal de governo, aberta à participação de
     qualquer cidadão
   - |
-    ### *﻿*{: .fa-solid .fa-gears} engenharia de dados
+    ### engenharia de dados
     
-    projeta, implementa e gerencia dezenas de fluxos de dados, incluindo
-    operações de limpeza, enriquecimento e integração a partir de fontes
-    heterogêneas para um *data lake* e para a publicação de conjuntos de
-    dados abertos na administração pública brasileira, usando um *stack*
-    de software livre, incluindo
+    *﻿*{: .fa-solid .fa-gears} projeta, implementa e gerencia dezenas de
+    fluxos de dados, incluindo operações de limpeza, enriquecimento e
+    integração a partir de fontes heterogêneas para um *data lake* e para
+    a publicação de conjuntos de dados abertos na administração pública
+    brasileira, usando um *stack* de software livre, incluindo
     [Apache Airflow](https://airflow.apache.org/),
     [FastAPI](https://fastapi.tiangolo.com/),
     [Frictionless Data](https://frictionlessdata.io/),
     [Open Source Routing Machine](https://project-osrm.org/)
     e outros
 
-    implementa fluxos de dados em projetos colaborativos, como o
-    [publicbodies.org](https://publicbodies.org) usando Github
-    Actions para automatizar as atualizações a partir de fontes de dados
-    abertos
+    *﻿*{: .fa-solid .fa-gears} implementa fluxos de dados em projetos
+    colaborativos, como o [publicbodies.org](https://publicbodies.org)
+    usando Github Actions para automatizar as atualizações a partir de
+    fontes de dados abertos
   - |
-    ### *﻿*{: .fa-brands .fa-osi} software livre
+    ### software livre
 
-    contribuiu com código para o
+    *﻿*{: .fa-brands .fa-osi} contribuiu com código para o
     [Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed),
     [FastAPI](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+),
     [Frictionless Data](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann),
     [FastETL](https://github.com/economiagovbr/FastETL/pulls?q=is%3Apr+author%3Aaugusto-herrmann+)
     e muitos outros
 
-    ### *﻿*{: .fa-solid .fa-robot} aprendizagem de máquina
+    ### aprendizagem de máquina
     
-    pesquisa de [mestrado em gestão do conhecimento e tecnologia da informação](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
+    *﻿*{: .fa-solid .fa-robot} pesquisa de
+    [mestrado em gestão do conhecimento e tecnologia da informação](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
     usou técnicas de processamento de linguagem natural e aprendizagem de
     máquina para construir automaticamente glossários a partir de definições
     existentes em textos legislativos
