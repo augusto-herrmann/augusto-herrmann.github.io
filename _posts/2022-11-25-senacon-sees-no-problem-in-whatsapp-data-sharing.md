@@ -148,3 +148,12 @@ if it has not.
 **Edited:** to include reference to the article about terms of service
 and to include the rectifying decision by Senacon, which changed the
 number of the referenced Technical Note.
+
+{% assign posts=site.posts | where:"lang", page.lang | where: "ref", "2022-12-20-update-on-senacons-decision-on-metas-data-sharing" %}
+{% for post in posts %}
+{% assign reference_post=post %}
+{% endfor %}
+
+**Update (24/12/22):** after having access to the technical note that supported
+this decision, I have written
+[another post]({{ reference_post.url | relative_url }}) analysing it.

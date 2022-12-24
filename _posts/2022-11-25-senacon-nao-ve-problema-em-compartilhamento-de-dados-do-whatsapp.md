@@ -148,3 +148,13 @@ com uma avaliação caso não tenha sido.
 **Editado:** para incluir a referência ao artigo sobre termos de serviço e
 incluir o despacho de retificação da Senacon, que alterou o número da
 Nota Técnica referenciada.
+
+{% assign posts=site.posts | where:"lang", page.lang | where: "ref", "2022-12-20-update-on-senacons-decision-on-metas-data-sharing" %}
+{% for post in posts %}
+{% assign reference_post=post %}
+{% endfor %}
+
+**Atualização (24/12/22):** após ter acesso à nota técnica que
+fundamentou a decisão, escrevi
+[outro artigo]({{ reference_post.url | relative_url }}) com a sua
+análise.
