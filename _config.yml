@@ -26,6 +26,7 @@ feed:
 # site wide translations
 t:
   en:
+    this_article: this article
     portrait: Augusto’s portrait
     bio:
       is a civic innovation practitioner engaged in finding ways to
@@ -71,6 +72,7 @@ t:
         name: Spanish
     also_available: Also available in
   pt:
+    this_article: este artigo
     portrait: retrato de Augusto
     bio:
       é um praticante da inovação cívica engajado em encontrar maneiras
@@ -118,6 +120,7 @@ t:
         name: Espanhol
     also_available: Também disponível em
   es:
+    this_article: este artículo
     portrait: retrato de Augusto
     bio:
       es un practicante de la innovación cívica comprometido en encontrar medios

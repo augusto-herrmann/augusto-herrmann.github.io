@@ -3,6 +3,19 @@
   <body class="post">
   <main role="main">
     {% include header.md %}
+    <nav class="breadcrumbs">
+      <a href="{{ page.lang | relative_url }}/">
+        <i class="fa-solid fa-house"></i>
+      </a>
+      /
+      <a href="{{ page.lang | relative_url }}/blog">
+        blog
+      </a>
+      /
+      <a href="{{ page.url | relative_url }}">
+        {{ site.t[page.lang].this_article }}
+      </a>
+    </nav>
     <article>
     <div class="heading">
       <aside class="languages container">
