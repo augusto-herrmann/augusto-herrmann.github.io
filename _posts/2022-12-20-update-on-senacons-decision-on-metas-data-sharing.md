@@ -58,7 +58,7 @@ The main alleged reasons for dismissing the case are:
 
 Next we're going to explore why none of those reasons hold their ground.
 
-## No. 1: the supposed Opt-out and the No-way-out of WhatsApp
+## Argument no. 1: the supposed Opt-out and the No-way-out of WhatsApp
 
 It is true that WhatsApp has once offered an opt-out option for users
 who didn't want their data to be shared with the other companies.
@@ -92,7 +92,7 @@ through WhatsApp. Even some government services are offered there. Is
 there really a choice, in practice, for a Brazilian to **deny** the
 terms of service and not use the service?
 
-## No. 2: end-to-end encryption of what?
+## Argument no. 2: end-to-end encryption of what?
 
 Surely Meta claims that the contents of messages are end-to-end
 encrypted. One either needs to believe their claim or not. As the app is
@@ -113,7 +113,7 @@ company does not have access to the contents of messages has **nothing**
 to do with the issue at hand and is no argument with which to dismiss
 the complaint.
 
-## No. 3: if it's not shoved in my face, it doesn't exist
+## Argument no. 3: if it's not shoved in my face, it doesn't exist
 
 The third argument is that the case files do not present evidence of
 data leaks from Meta. I do not even need to spend much effort to explain
@@ -124,7 +124,7 @@ disclosed in 2018, which had Mark Zuckerberg having to testify in the
 United States Congress, or the
 [half a billion Facebook users data leak in April 2021](https://www.wired.com/story/facebook-data-leak-500-million-users-phone-numbers/).
 
-## No. 4: let's claim that another report says what it doesn't say
+## Argument no. 4: let's claim that another report says what it doesn't say
 
 Now this is interesting. The fact that a case against Meta has already
 been concluded this year by the ANPD was not known to me and did not

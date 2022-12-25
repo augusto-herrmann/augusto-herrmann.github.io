@@ -61,7 +61,7 @@ As principais justificativas alegadas para indeferir a queixa são:
 A seguir, vamos explorar por que nenhuma dessas justificativas para de
 pé.
 
-## N.º 1: o suposto *Opt-out* e o beco sem saída do WhatsApp
+## Argumento n.º 1: o suposto *Opt-out* e o beco sem saída do WhatsApp
 
 É verdade que o WhatsApp já ofereceu uma opção de *opt-out* para usuários
 que não quisessem que seus dados fossem compartilhados com as outras
@@ -98,7 +98,7 @@ governamentais são ofertados lá. Há mesmo uma escolha, na prática, para
 uma pessoa brasileira **negar** os termos de serviço e não uar o
 serviço?
 
-## N.º 2: criptografia de ponta a ponta do quê?
+## Argumento n.º 2: criptografia de ponta a ponta do quê?
 
 Claro que a Meta alega que o conteúdo das mensagens é criptografado de
 ponta a ponta. Acredite ou não nessa alegação. Como o aplicativo é de
@@ -120,7 +120,7 @@ Então a desculpa de que a empresa não tem acesso ao conteúdo das
 mensagens não tem **nada** a ver com a questão em pauta e não é um
 argumento pelo qual indeferir a reclamação.
 
-## N.º 3: se isso não for jogado na minha cara, isso não existe
+## Argumento n.º 3: se isso não for jogado na minha cara, isso não existe
 
 O terceiro argumento é que o processo não apresenta nenhuma evidência de
 vazamentos de dados por parte da Meta. Eu nem preciso gastar muito
@@ -132,7 +132,7 @@ revelado em 2018, que levou Mark Zuckerberg a ter que depor no Congresso
 dos Estados Unidos da América, ou do
 [vazamento de dados de meio bilhão de usuários do Facebook em abril de 2021](https://www.wired.com/story/facebook-data-leak-500-million-users-phone-numbers/).
 
-## N.º 4: vamos alegar que outro relatório diz o que ele não diz
+## Argumento n.º 4: vamos alegar que outro relatório diz o que ele não diz
 
 Agora isso é interesante. O fato de que outro processo contra a Meta já
 tinha sido concluído este ano pela ANPD não era conhecido por mim e não
