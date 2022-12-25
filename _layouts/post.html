@@ -56,7 +56,7 @@
           alt="{{ site.t[page.lang].portrait }}"
           src="{{ 'assets/images/4730_2.png' | relative_url }}"
         />
-        <a href="{{site.baseurl}}{{page.lang}}">
+        <a href="{{ page.lang | relative_url }}">
           {{ page.author }}
         </a>
         {{ site.t[page.lang].bio }}
