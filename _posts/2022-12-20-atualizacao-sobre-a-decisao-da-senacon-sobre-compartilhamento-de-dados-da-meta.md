@@ -160,9 +160,11 @@ e três notas técnicas exaradas pela ANPD sobre esse caso:
 
 Eu ainda não li todas por completo e a análise desses documentos talvez
 mereça um artigo dedicado. Eu já posso dizer que a última nota técnica
-reconheceu que a Meta atendeu às determinações da autoridade, mas ainda
-determinou a instauração de um novo procedimento específico para avaliar
-a adequação à LGPD das práticas de compartilhamento de dados da empresa. 
+reconheceu que a Meta atendeu às
+[determinações da autoridade](https://www.gov.br/anpd/pt-br/assuntos/noticias/cade-mpf-anpd-e-senacon-recomendam-que-whatsapp-adie-entrada-em-vigor-da-nova-politica-de-privacidade),
+mas ainda assim determinou a instauração de um novo procedimento
+específico para avaliar a adequação à LGPD das práticas de
+compartilhamento de dados da empresa. 
 
 > 7.1.4. Instaure-se procedimento específico para avaliar o
 > compartilhamento de dados pessoais entre WhatsApp e as empresas do

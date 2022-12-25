@@ -151,10 +151,11 @@ case:
 
 I have yet to read them all through, and the analysis of those documents
 might warrant a dedicated post. I can already say that the last
-technical note did recognize that Meta did comply with the agency's
-demands, but still determined that a new procedure should be open in
-order to ascertain the compliance of the company's data sharing
-practices to the LGPD.
+technical note did recognize that Meta did comply with
+[the agency's demands](https://www.gov.br/anpd/pt-br/assuntos/noticias/cade-mpf-anpd-e-senacon-recomendam-que-whatsapp-adie-entrada-em-vigor-da-nova-politica-de-privacidade),
+but still determined that a new procedure should be open in order to
+ascertain the compliance of the company's data sharing practices to the
+LGPD.
 
 > 7.1.4. A new procedure should be instantiated specifically to
 > evaluate the data sharing practices between WhatsApp and the
