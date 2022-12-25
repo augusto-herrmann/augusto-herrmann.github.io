@@ -92,7 +92,7 @@
       {% endif %}
       {% assign iteration_previous = iteration_current %}
     {% endfor %}
-    <aside class="seeAlso">
+    <nav class="seeAlso">
       <h2>{{ site.t[page.lang].see_also }}</h2>
       <p>{{ site.t[page.lang].see_also_text }}:</p>
       <div class="row">
@@ -107,7 +107,7 @@
         </div>
       {% endif %}
       </div>
-    </aside>
+    </nav>
   </main>
   <!-- Optional JavaScript -->
   {% if page.uses-math %}
