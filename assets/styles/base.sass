@@ -421,7 +421,10 @@ html.post
     color: $lt-text
     background: $lt-clear-bg
 
-  a
+  header
+    position: absolute // keep logo from hovering
+
+  main article a, main aside a
     color: $lt-text-highlight
 
     &:focus, &:hover
@@ -581,7 +584,7 @@ html.post
       color: $dt-text
       background: $dt-clear-bg
 
-    a
+    main article a, main aside a
       color: $dt-text-highlight
 
       &:focus, &:hover
