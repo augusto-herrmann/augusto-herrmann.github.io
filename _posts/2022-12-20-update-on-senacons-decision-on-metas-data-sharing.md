@@ -13,7 +13,7 @@ desc: >-
   news agency, we learn some of reasoning behind Senacon's decision to
   dismiss consumer protection civil society organisations' complaints
   about the changes in WhatsApp privacy policy and data sharing practices.
-image-credits: Ante Hamersmit on Unsplash
+image-credits: Ante Hamersmit / Unsplash
 ---
 
 {% assign posts=site.posts | where:"lang", page.lang | where: "ref", "2022-11-25-senacon-sees-no-problem-in-whatsapp-data-sharing" %}

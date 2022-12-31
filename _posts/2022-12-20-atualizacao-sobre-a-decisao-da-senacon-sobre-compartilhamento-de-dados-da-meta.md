@@ -14,7 +14,7 @@ desc: >-
   da decisão da Senacon de arquivar as queixas de organizações da
   sociedade civil quanto às mudanças na política de privacidade do
   WhatsApp e suas práticas de compartilhamento de dados.
-image-credits: Ante Hamersmit on Unsplash
+image-credits: Ante Hamersmit / Unsplash
 ---
 
 {% assign posts=site.posts | where:"lang", page.lang | where: "ref", "2022-11-25-senacon-sees-no-problem-in-whatsapp-data-sharing" %}
