@@ -184,7 +184,7 @@ Estado.
 
 <figure markdown="1">
 ![Mapa mental elaborado por Rodrigo Klein em sua tese, em 2017, apresenta as associações entre conceitos como governo aberto, transparência e dados abertos.]({{ 'assets/images/2022/12/mapa-mental-transparencia-dados-abertos-klein-2017.png' | relative_url }})
-<figcaption>Mapa mental elaborado por Rodrigo Klein em sua tese, em 2017, apresenta as associações entre conceitos como governo aberto, transparência e dados abertos.</figcaption>
+<figcaption>Mapa mental elaborado por Rodrigo Klein <a href="https://tede2.pucrs.br/tede2/handle/tede/7724" target="_blank">em sua tese</a>, em 2017, apresenta as associações entre conceitos como governo aberto, transparência e dados abertos.</figcaption>
 </figure>
 
 Todavia, há também diferenças tanto na origem normativa e conceitual,
