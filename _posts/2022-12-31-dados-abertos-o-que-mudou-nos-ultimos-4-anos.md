@@ -42,11 +42,12 @@ A ideia de que o governo federal deveria começar a oferecer dados abertos, como
 já contei várias vezes (por exemplo, em
 [2018](https://www.youtube.com/watch?v=Hl7vyxqKQEY) e em
 [2020](https://www.youtube.com/watch?v=1rCsoU7XSdM)), surgiu de uma
-[provocação feita pelo Pedro Markun, ativista do grupo Transparência Hacker, ao Cláudio Cavalcanti, então Coordenador-Geral de Gestão Corporativa na SLTI no Ministério do Planejamento, durante o evento Conip 2010](https://vimeo.com/12137194).
+[provocação feita pelo Pedro Markun, ativista do grupo Transparência Hacker, ao Cláudio Cavalcanti, então Coordenador-Geral de Gestão Corporativa na SLTI no Ministério do Planejamento, durante o evento Conip 2010](https://vimeo.com/12137194)
+(alguém deveria arquivar uma cópia deste vídeo para a posteridade).
 
 <figure markdown="1">
 ![Cláudio Cavalcanti e Pedro Markun discutem dados abertos em painel no evento Conip 2010.]({{ 'assets/images/2022/12/conip-2010-claudio-cavalcanti-pedro-markun.jpg' | relative_url }})
-<figcaption>Cláudio Cavalcanti e Pedro Markun discutem dados abertos em painel no evento Conip 2010.</figcaption>
+<figcaption>Cláudio Cavalcanti e Pedro Markun discutem dados abertos em painel no evento Conip 2010. Imagem: gravação em vídeo Conip.</figcaption>
 </figure>
 
 Naquele momento também estava sendo gestada a
@@ -59,16 +60,17 @@ mais colaborativa e transparente possível.
 
 <figure markdown="1">
 ![Uma das oficinas de planejamento da INDA durante o II Encontro Nacional de Dados Abertos, em 2013, facilitada por Alexandre Gomes.]({{ 'assets/images/2020/12/2enda-trilha-sustentabilidade-economica-alexandre-gomes.jpg' | relative_url }})
-<figcaption>Uma das oficinas de planejamento da INDA durante o <a href="https://web.archive.org/web/20190511120800/http://wiki.dados.gov.br/II-Encontro-Nacional-de-Dados-Abertos.ashx" target="_blank">II Encontro Nacional de Dados Abertos</a>, em 2013, facilitada por Alexandre Gomes.</figcaption>
+<figcaption>Uma das oficinas de planejamento da INDA durante o <a href="https://web.archive.org/web/20190511120800/http://wiki.dados.gov.br/II-Encontro-Nacional-de-Dados-Abertos.ashx" target="_blank">II Encontro Nacional de Dados Abertos</a>, em 2013, facilitada por Alexandre Gomes. Imagem: divulgação do Ministério do Planejamento, Orçamento e Gestão.</figcaption>
 </figure>
 
 [Todas as reuniões de planejamento e sprints de desenvolvimento](https://web.archive.org/web/20190512160325/http://wiki.dados.gov.br/Agenda-da-INDA.ashx)
 eram abertas à participação de qualquer pessoa interessada, muitas vezes
-realizadas fora do ambiente de governo em locais como cafés, documentadas
-publicamente na internet e sempre que possível transmitidas por streaming –
-isso em 2011, muitos anos antes de se tornar moda todo mundo transmitir
-qualquer coisa por streaming – e com uma pessoa dedicada a trazer as interações
-das pessoas online para o ambiente físico dos encontros.
+realizadas fora do ambiente de governo em locais como cafés. Elas eram
+documentadas publicamente na internet e sempre que possível transmitidas
+por streaming – isso em 2011, muitos anos antes de se tornar moda todo
+mundo transmitir qualquer coisa por streaming – e com uma pessoa dedicada
+a trazer as interações das pessoas online para o ambiente físico dos
+encontros.
 
 <figure markdown="1">
 ![Encontro da 3ª sprint de desenvolvimento colaborativo do Portal Brasileiro de Dados Abertos, no Balaio Café, em 2011.]({{ 'assets/images/2022/12/3rd-sprint-open-data-portal-2011.jpg' | relative_url }})
