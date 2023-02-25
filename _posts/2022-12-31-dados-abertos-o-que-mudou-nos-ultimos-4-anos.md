@@ -137,8 +137,8 @@ Os resultados foram visíveis: de 1.167 conjuntos de dados em
 o Portal Brasileiro de Dados Abertos passou a contar com 6.278 em
 [2018](https://web.archive.org/web/20190130145906/http://wiki.dados.gov.br/Balanco-da-INDA-em-2018.ashx),
 o que representa um incremento de 438% em dois anos. A quantidade de
-órgãos públicos que publicavam dados no portal passaram  nesse período
-de poucas dezenas para centenas de órgãos e entidades.
+órgãos públicos que publicavam dados no portal passaram nesse período
+de poucas dezenas para mais de uma centena.
 
 ## "Cisma" do governo digital: 2018
 
@@ -210,7 +210,7 @@ para tal não estarem mencionados explicitamente nos textos das leis.
 
 Por exemplo, o registro das despesas é citado nominalmente tanto la LC
 101 (art. 48-A, II), quanto na Lei de Acesso à Informação -- LAI (art.
-8º, §1º, III). Todavia, dados um pouco mais específicos, como os
+8º, § 1º, III). Todavia, dados um pouco mais específicos, como os
 endereços e localização geográfica de todas as escolas e
 estabelecimentos de saúde não são explicitamente citados em nenhuma lei.
 
@@ -282,10 +282,10 @@ potencialização da economia digital.
 
 ### A transição
 
-Com isso, a encomenda que recebi ao final de 2018 foi de preparar a
+Com isso, a "encomenda" que recebi ao final de 2018 foi de preparar a
 transição para que a CGU assumisse a responsabilidade pela política de
 dados abertos no poder executivo federal, no lugar do Ministério da
-Economia e da Secretaria de Governo Digital. Esse processo veio a
+Economia e da sua Secretaria de Governo Digital. Esse processo veio a
 culminar no
 [Decreto 9.903](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9903.htm),
 de 2019. O Portal Brasileiro de Dados Abertos e a INDA, com seu Comitê
@@ -320,7 +320,7 @@ páginas explicativas dos conceitos de conjuntos de dados e dados
 abertos, e também toda a wiki que continha os registros históricos de
 como operava a INDA até 2018. Há também dificuldade de se encontrar na
 nova interface os dados que se procura, já que os filtros de pesquisa
-não se encontram facilmente encontráveis. O pior de tudo é a
+não são facilmente encontráveis. O pior de tudo é a
 indisponibilidade da API do CKAN, que muitos órgãos públicos utilizavam
 para atualizar automaticamente os dados, inclusive o próprio Ministério
 da Economia.
