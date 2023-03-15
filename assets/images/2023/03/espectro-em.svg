@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="espectro-em.svg"
+   sodipodi:version="0.32"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1920 1440"
+   style="enable-background:new 0 0 1920 1440;"
+   xml:space="preserve"><metadata
+   id="metadata109"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs55"><marker
+     style="overflow:visible"
+     id="marker66"
+     refX="0"
+     refY="0"
+     orient="auto"
+     inkscape:stockid="Triangle arrow"
+     markerWidth="5.32440804"
+     markerHeight="6.15538502"
+     viewBox="0 0 5.3244081 6.15538509"
+     inkscape:isstock="true"
+     inkscape:collect="always"
+     preserveAspectRatio="xMidYMid"><path
+       transform="scale(0.5)"
+       style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+       d="M 5.77,0 -2.88,5 V -5 Z"
+       id="path66" /></marker><marker
+     style="overflow:visible"
+     id="marker66-7"
+     refX="0"
+     refY="0"
+     orient="auto"
+     inkscape:stockid="Triangle arrow"
+     markerWidth="5.3244081"
+     markerHeight="6.155385"
+     viewBox="0 0 5.3244081 6.1553851"
+     inkscape:isstock="true"
+     inkscape:collect="always"
+     preserveAspectRatio="xMidYMid"><path
+       transform="scale(0.5)"
+       style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+       d="M 5.77,0 -2.88,5 V -5 Z"
+       id="path66-6" /></marker></defs>
+<style
+   type="text/css"
+   id="style1">
+	.st0{opacity:0.502;fill:url(#rect8745_1_);enable-background:new    ;}
+	.st1{font-family:'Helvetica';kerning:auto;}
+	.st2{font-size:72px;}
+	.st3{font-size:60px;}
+	.st4{fill:#FFFFFF;stroke:#000000;}
+	.st5{stroke:#000000;}
+	.st6{font-size:42px;}
+	.st7{fill:#000080;}
+	.st8{fill:#FFCC00;}
+	.st9{fill:#0000FF;}
+</style>
+<sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1.0"
+   fit-margin-bottom="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-top="0"
+   gridtolerance="10000"
+   guidetolerance="10"
+   height="400px"
+   id="base"
+   inkscape:current-layer="g56"
+   inkscape:cx="1075.0233"
+   inkscape:cy="841.89901"
+   inkscape:document-units="px"
+   inkscape:grid-points="true"
+   inkscape:guide-bbox="true"
+   inkscape:pageopacity="0.0"
+   inkscape:pageshadow="2"
+   inkscape:snap-center="true"
+   inkscape:window-height="1009"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1840"
+   inkscape:window-x="80"
+   inkscape:window-y="34"
+   inkscape:zoom="0.45254834"
+   objecttolerance="10"
+   pagecolor="#ffffff"
+   showgrid="false"
+   showguides="true"
+   width="675px"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1">
+	
+		<inkscape:grid
+   color="#3f3fff"
+   empcolor="#3f3fff"
+   empopacity="0.38"
+   empspacing="5"
+   id="GridFromPre046Settings"
+   opacity="0.15"
+   originx="-208"
+   originy="0.64816281"
+   spacingx="10240"
+   spacingy="7680"
+   type="xygrid">
+		</inkscape:grid>
+</sodipodi:namedview>
+
+<linearGradient
+   id="rect8745_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="502.8946"
+   y1="1031.9065"
+   x2="1029.8945"
+   y2="1031.9065"
+   gradientTransform="matrix(1.282,0,0,-41.8596,285.5836,44023.48)">
+	<stop
+   offset="0"
+   style="stop-color:#000000;stop-opacity:0"
+   id="stop1" />
+	<stop
+   offset="0.3398"
+   style="stop-color:#000000;stop-opacity:0"
+   id="stop2" />
+	<stop
+   offset="0.461"
+   style="stop-color:#FF0000"
+   id="stop3" />
+	<stop
+   offset="0.4774"
+   style="stop-color:#FF6100"
+   id="stop4" />
+	<stop
+   offset="0.4948"
+   style="stop-color:#FFE000"
+   id="stop5" />
+	<stop
+   offset="0.5093"
+   style="stop-color:#00FF00"
+   id="stop6" />
+	<stop
+   offset="0.5288"
+   style="stop-color:#007C9E"
+   id="stop7" />
+	<stop
+   offset="0.5536"
+   style="stop-color:#000071"
+   id="stop8" />
+	<stop
+   offset="0.5709"
+   style="stop-color:#830087"
+   id="stop9" />
+	<stop
+   offset="0.586"
+   style="stop-color:#FF37C3"
+   id="stop10" />
+	<stop
+   offset="0.7143"
+   style="stop-color:#000000;stop-opacity:0"
+   id="stop11" />
+	<stop
+   offset="1"
+   style="stop-color:#000000;stop-opacity:0"
+   id="stop12" />
+</linearGradient>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<rect
+   style="opacity:0.667;fill:#ffffff;fill-opacity:1;stroke:#008080;stroke-width:2.64566922;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   id="rect984"
+   width="1924.6562"
+   height="1445.1495"
+   x="0"
+   y="-2.9397752" /><g
+   id="g56"
+   transform="matrix(0.95033951,0,0,0.95033951,45.39414,-1.4967571)"><g
+   id="g71"
+   style="stroke-width:1.05225552;stroke-dasharray:none"><path
+     style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1.05391262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     d="M 744.29997,250.49999 V 1431.5595"
+     id="path69" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1.05391262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     d="M 1147.7999,1431.5595 V 250.49999"
+     id="path70" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1.05391262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     d="M 1345.1398,1433.664 V 252.60461"
+     id="path70-0" /></g><g
+   id="g13999"
+   transform="matrix(0.7,0,0,0.7,209.73907,64.266504)">
+</g><rect
+   id="rect8745"
+   x="-12.2"
+   y="250.5"
+   class="st0"
+   width="2127"
+   height="1155.5"
+   style="fill:url(#rect8745_1_)" /><text
+   class="st1 st2"
+   id="text12"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+   x="435.67029"
+   y="142.3766">NÃO IONIZANTE</text>
+
+<text
+   class="st1 st2"
+   id="text13"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+   x="1464.0573"
+   y="142.3766">IONIZANTE</text>
+
+<text
+   class="st1 st3"
+   id="text14"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:96%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
+   x="1278.8511"
+   y="698.62164"><tspan
+     sodipodi:role="line"
+     id="tspan77"
+     x="1278.8511"
+     y="698.62164">Visible</tspan><tspan
+     sodipodi:role="line"
+     id="tspan78"
+     x="1278.8511"
+     y="756.22162">Light</tspan></text>
+
+<text
+   class="st1 st3"
+   id="text15"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="1216.1001"
+   y="760.09918" />
+
+<text
+   class="st1 st3"
+   id="text16"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="1095.8763"
+   y="385.599">Infravermelho</text>
+
+<text
+   class="st1 st3"
+   id="text17"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="1233.2312"
+   y="500.59921">Ultravioleta</text>
+
+<text
+   class="st1 st3"
+   id="text18"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="1412.7573"
+   y="618.31989">Raios-X</text>
+
+<text
+   class="st1 st3"
+   id="text19"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:95.99999785%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="1762.3911"
+   y="698.62164"><tspan
+     sodipodi:role="line"
+     id="tspan76"
+     x="1762.3911"
+     y="698.62164"
+     style="text-align:center;text-anchor:middle">Raios</tspan><tspan
+     sodipodi:role="line"
+     x="1762.3911"
+     y="756.22162"
+     style="text-align:center;text-anchor:middle"
+     id="tspan946">Gama</tspan></text>
+
+<text
+   class="st1 st3"
+   id="text20"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="1655.7065"
+   y="760.09918" />
+
+<text
+   class="st1 st3"
+   id="text21"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="895.41998"
+   y="618.09918">Microondas</text>
+
+<text
+   class="st1 st3"
+   id="text22"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="727.55933"
+   y="430.59921">Rádio</text>
+
+<text
+   class="st1 st3"
+   id="text23"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:95.99999785%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:0px;text-anchor:middle"
+   x="351.90497"
+   y="547.03381"><tspan
+     sodipodi:role="line"
+     x="351.90497"
+     y="547.03381"
+     id="tspan74">Frequência</tspan><tspan
+     sodipodi:role="line"
+     x="351.90497"
+     y="604.63379"
+     id="tspan942">extremamente baixa</tspan></text>
+
+<g
+   id="g70"
+   style="display:none"><rect
+     id="rect4910"
+     x="1217.8"
+     y="778.20001"
+     class="st4"
+     width="119.7"
+     height="19.700001" /><rect
+     id="rect4912"
+     x="1337.6"
+     y="513.20001"
+     class="st4"
+     width="62.200001"
+     height="19.700001" /><rect
+     id="rect4914"
+     x="1170.1"
+     y="400.60001"
+     class="st4"
+     width="60"
+     height="20" /><rect
+     id="rect4920"
+     x="1412.6"
+     y="633.09998"
+     class="st4"
+     width="210"
+     height="20" /><rect
+     id="rect4928"
+     x="1642.8"
+     y="778.20001"
+     class="st4"
+     width="242.2"
+     height="19.700001" /><rect
+     id="rect4938"
+     x="900.29999"
+     y="633.40002"
+     class="st4"
+     width="246.89999"
+     height="19.4" /><rect
+     id="rect4944"
+     x="695.20001"
+     y="445.70001"
+     class="st4"
+     width="222.2"
+     height="19.700001" /><rect
+     id="rect4954"
+     x="60"
+     y="568.09998"
+     class="st4"
+     width="615"
+     height="20" /></g><rect
+   id="rect4956"
+   y="810.59998"
+   class="st5"
+   width="1920"
+   height="12.5"
+   x="0" /><rect
+   id="rect4958"
+   x="744.79999"
+   y="840.59998"
+   class="st4"
+   width="402.5"
+   height="55" /><rect
+   id="rect4960"
+   x="1147.4"
+   y="840.59998"
+   class="st4"
+   width="197.5"
+   height="55" /><rect
+   id="rect4962"
+   x="1344.9"
+   y="840.59998"
+   class="st4"
+   width="555"
+   height="55" /><rect
+   id="rect4966"
+   x="47.299999"
+   y="840.59998"
+   class="st4"
+   width="697.5"
+   height="55" /><text
+   class="st1 st6"
+   id="text24"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="1181.386"
+   y="879.22998">Ótica</text>
+
+<text
+   class="st1 st6"
+   id="text25"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="1490.1211"
+   y="882.86298">Ligações quebradas</text>
+
+<text
+   class="st1 st6"
+   id="text26"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="869.63098"
+   y="882.86298">Térmica</text>
+
+<text
+   class="st1 st6"
+   id="text27"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+   x="279.81503"
+   y="882.86298">Não térmica</text>
+
+<text
+   transform="translate(1170.0503,961.1382)"
+   class="st1 st6"
+   id="text28"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Excita</text>
+
+<text
+   transform="translate(1170.0503,1018.7382)"
+   class="st1 st6"
+   id="text29"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">elétrons</text>
+
+<text
+   transform="translate(1170.0503,1145.5991)"
+   class="st1 st6"
+   id="text30"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Efeitos</text>
+
+<text
+   transform="translate(1170.0503,1203.1992)"
+   class="st1 st6"
+   id="text31"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">foto-</text>
+
+<text
+   transform="translate(1170.0503,1260.7992)"
+   class="st1 st6"
+   id="text32"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">químicos</text>
+
+<text
+   transform="translate(767.55,1260.7999)"
+   class="st1 st6"
+   id="text33"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Aquecimento</text>
+
+<text
+   transform="translate(77.55,1260.7999)"
+   class="st1 st6"
+   id="text34"
+   style="line-height:0%;-inkscape-font-specification:'Liberation Sans';font-family:'Liberation Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">???</text>
+
+<text
+   transform="translate(42.55,1338.0992)"
+   class="st7 st1 st6"
+   id="text35"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080">Campo</text>
+
+<text
+   transform="translate(42.55,1395.6992)"
+   class="st7 st1 st6"
+   id="text36"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080">Estático</text>
+
+<text
+   transform="translate(295.05,1338.0992)"
+   class="st7 st1 st6"
+   id="text37"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080">Linha de</text>
+
+<text
+   transform="translate(295.05,1395.6992)"
+   class="st7 st1 st6"
+   id="text38"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080">Transmissão</text>
+
+<text
+   class="st7 st1 st6"
+   id="text39"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080"
+   x="695.04999"
+   y="1390.7115">AM</text>
+
+<text
+   class="st7 st1 st6"
+   id="text40"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080"
+   x="695.04999"
+   y="1336.7734">Rádio</text>
+
+<text
+   class="st7 st1 st6"
+   id="text41"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080"
+   x="840.04999"
+   y="1392.816">FM</text>
+
+<text
+   class="st7 st1 st6"
+   id="text42"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080"
+   x="840.04999"
+   y="1336.7734">Rádio</text>
+
+<text
+   transform="translate(995.05,1338.0992)"
+   class="st7 st1 st6"
+   id="text43"
+   style="line-height:0%;-inkscape-font-specification:'Liberation Sans';font-family:'Liberation Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Wi-Fi</text>
+
+<text
+   class="st7 st1 st6"
+   id="text44"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080"
+   x="1280.8286"
+   y="1340.2037">Câmara de</text>
+
+<text
+   class="st7 st1 st6"
+   id="text45"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080"
+   x="1257.6792"
+   y="1404.1172">Bronzeamento</text>
+
+<text
+   class="st7 st1 st6"
+   id="text46"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080"
+   x="1545.05"
+   y="1308.6362">Raio-X</text>
+
+<text
+   class="st7 st1 st6"
+   id="text47"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000080"
+   x="1545.05"
+   y="1370.4453">Medicinal</text>
+
+<text
+   transform="translate(75.8117,961.1382)"
+   class="st1 st6"
+   id="text48"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Induz</text>
+
+<text
+   transform="translate(75.8117,1018.7383)"
+   class="st1 st6"
+   id="text49"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Baixas</text>
+
+<text
+   transform="translate(75.8117,1076.3383)"
+   class="st1 st6"
+   id="text50"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Correntes</text>
+
+<text
+   transform="translate(763.3117,961.1382)"
+   class="st1 st6"
+   id="text51"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Induz</text>
+
+<text
+   transform="translate(763.3117,1018.7383)"
+   class="st1 st6"
+   id="text52"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Altas</text>
+
+<text
+   transform="translate(763.3117,1076.3383)"
+   class="st1 st6"
+   id="text53"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Correntes</text>
+
+<text
+   transform="translate(1485.8118,961.1382)"
+   class="st1 st6"
+   id="text54"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42px;line-height:0%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Danifica o</text>
+
+<text
+   transform="translate(1485.8118,1018.7383)"
+   class="st1 st6"
+   id="text55"
+   style="line-height:0%;-inkscape-font-specification:'Liberation Sans';font-family:'Liberation Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">DNA</text>
+
+<g
+   id="g63"
+   style="display:inline;fill:none;stroke:#000000;stroke-width:7.36579;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"><path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.26127762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;marker-end:"
+     d="M 59.999996,634.92173 H 674.99998"
+     id="path56"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.26127762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:;paint-order:normal"
+     d="M 713.94675,455.55001 H 900.34186"
+     id="path57"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.26127762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:;paint-order:normal"
+     d="M 917.90001,643.10002 H 1147.1999"
+     id="path58"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.26127762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:;paint-order:normal"
+     d="m 1170.1,410.59999 h 59.9999"
+     id="path59"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.26127762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:;paint-order:normal"
+     d="m 1337.5999,523.05 h 62.2"
+     id="path60"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.26128;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:;paint-order:normal"
+     d="m 1217.8,788.05 h 119.6999"
+     id="path61"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.26127762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:;paint-order:normal"
+     d="m 1412.5999,643.09996 h 210"
+     id="path62"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.26127762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:;paint-order:normal"
+     d="m 1642.8,788.05 h 242.1999"
+     id="path63"
+     sodipodi:nodetypes="cc" /></g><g
+   id="g55"
+   style="stroke-width:0.99964275;stroke-dasharray:none"><rect
+     id="rect5216"
+     x="1378.9"
+     y="204.89999"
+     class="st8"
+     width="541"
+     height="20"
+     style="stroke-width:0.99964275;stroke-dasharray:none" /><rect
+     id="rect5218"
+     y="204.89999"
+     class="st9"
+     width="1379.7"
+     height="20"
+     x="0"
+     style="stroke-width:0.99964275;stroke-dasharray:none" /></g><path
+   style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:10.52321809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker66);paint-order:normal"
+   d="M 16.466811,214.89999 H -1.51723e-6"
+   id="path78"
+   sodipodi:nodetypes="cc" /><path
+   style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:10.5226;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker66-7);paint-order:normal"
+   d="M 1903.4332,214.89999 H 1919.9"
+   id="path78-5"
+   sodipodi:nodetypes="cc" /></g>
+</svg>
