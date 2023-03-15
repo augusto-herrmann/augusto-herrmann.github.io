@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="48" height="48" enable-background="new" version="1.2" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps">
  <title>herrmann.tech</title>
- <defs>
-  <filter id="filter4723" width="1" height="1" color-interpolation-filters="sRGB">
-   <feBlend in2="BackgroundImage" mode="difference"/>
-  </filter>
- </defs>
+ <desc>Logo for Augusto Herrmann's personal website.</desc>
  <g transform="translate(-4.6415 -263.47)">
   <rect transform="matrix(1 0 -.26648 .96384 0 0)" x="82.611" y="272.61" width="13.628" height="14.246" ry=".55083" fill="#e6e6e6" stroke-width=".17975"/>
   <rect transform="matrix(1 0 -.28647 .95809 0 0)" x="83.106" y="274.31" width="10.338" height="14.305" ry=".55414" stroke-width=".18748"/>
   <text x="5.9203463" y="273.50821" fill="#ffffff" font-family="BetecknaGS" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="5.9203463" y="273.50821" fill="#ffffff" font-family="Comfortaa" font-size="8.4667px" stroke-width=".26458">h</tspan></text>
   <text x="13.182453" y="273.50821" fill="#000000" font-family="Comfortaa" font-size="8.4667px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="13.182453" y="273.50821" fill="#000000" font-family="Comfortaa" font-size="8.4667px" stroke-width=".26458">t</tspan></text>
  </g>
- <g transform="translate(-4.6415 -71.473)" filter="url(#filter4723)">
-  <circle cx="11.857" cy="80.98" r=".52873" fill="#fff" stroke-width=".26458"/>
+ <g>
+  <path d="m7.7215 9.504a0.52873 0.52873 0 0 1-0.52873 0.52873 0.52873 0.52873 0 0 1-0.52873-0.52873 0.52873 0.52873 0 0 1 0.52873-0.52873 0.52873 0.52873 0 0 1 0.52873 0.52873z" fill="#fff" stroke-width=".26458"/>
+  <path d="m7.3391 8.9964c-0.058037 0.19456-0.11801 0.39596-0.17312 0.58084-0.045364 0.15219-0.085137 0.28499-0.12816 0.42943a0.52873 0.52873 0 0 0 0.15503 0.026355 0.52873 0.52873 0 0 0 0.52865-0.52917 0.52873 0.52873 0 0 0-0.38241-0.50746z" stroke-width=".26458"/>
  </g>
 </svg>
