@@ -7,15 +7,18 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    
+
     <!-- Font Awesome CSS -->
     <link rel="stylesheet" href="{{ 'assets/fonts/fontawesome/css/fontawesome.min.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/fonts/fontawesome/css/brands.min.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/fonts/fontawesome/css/solid.min.css' | relative_url }}">
-    
+
     <!-- Our own CSS -->
     <link rel="stylesheet" href="{{ 'assets/styles/base.css' | relative_url }}">
-    
+
+    <!-- site icon -->
+    <link rel="icon" href="{{ 'assets/images/h.t-icon.svg' | relative_url }}" sizes="any" type="image/svg+xml">
+
     <!-- alternative languages, if any -->
     {% if page.ref %}
       {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
@@ -31,7 +34,7 @@
         {% endif %}
       {% endfor %}
     {% endif %}
-    
+
     <!-- metadata -->
     <title>{{ page.title }} – herrmann.tech</title>
     {% if page.desc %}
@@ -46,7 +49,7 @@
     {% endif %}
 
     <meta name="generator" content="Jekyll 3.8.5">
-    
+
     <!-- atom feed -->
     {% if page.category %}
       <link type="application/atom+xml" rel="alternate" href="{{ 'feed' | relative_url }}/{{ page.category[0] }}.xml" title="herrmann.tech Atom feed" />
