@@ -527,8 +527,11 @@ procured.
 
 Raise awareness, tell your friends, colleagues and acquaintances, share
 on social media, mention all of the problems and dangers of body
-scanners. It's also important to leave comments on the public
-consultation making it clear that using those devices in Brazil is not
-acceptable and articulate the reasons why. This article contains plenty
-of explanations and references that can be grounds for immediately
-rejecting this unreasonable proposal.
+scanners.
+
+It's also important to leave comments on the public consultation making
+it clear that using those devices in Brazil is not acceptable and
+articulate the reasons why. This article contains plenty of explanations
+and references that can be grounds for immediately rejecting this
+unreasonable proposal. The consultation is open until this Sunday, March
+19th, 2023.

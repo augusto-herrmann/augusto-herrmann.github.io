@@ -559,8 +559,10 @@ for licitada.
 
 Conscientize, conte aos seus amigos, colegas e conhecidos, compartilhe
 em mídias sociais, mencione todos os problemas e perigos associados aos
-scanners corporais. É importante também deixar comentários na consulta
-pública deixando claro que usar esses dispositivos no Brasil não é
-aceitável articular as razões para isso. Este artigo contém muitas
-explicações e referências que podem embasar a rejeição imediata dessa
-proposta descabida.
+scanners corporais.
+
+É importante também deixar comentários na consulta pública deixando claro
+que usar esses dispositivos no Brasil não é aceitável articular as razões
+para isso. Este artigo contém muitas explicações e referências que podem
+embasar a rejeição imediata dessa proposta descabida. A consulta
+permanece aberta até este domingo, dia 19 de março de 2023.
