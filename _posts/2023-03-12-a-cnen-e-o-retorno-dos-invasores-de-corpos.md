@@ -38,8 +38,8 @@ A
 (CNEN) é o órgão governamental brasileiro responsável pela orientação,
 planejamento, supervisão e controle do programa nuclear do Brasil.
 
-Na última segunda-feira, a CNEN abriu
-[uma consulta pública](https://www.gov.br/participamaisbrasil/norma-cnen-nn-614)
+Na segunda-feira passada, a CNEN abriu
+[uma consulta pública](https://www.in.gov.br/en/web/dou/-/edital-n-1/2023-467875594)
 no sentido de permitir e regular o uso para fins de segurança pública de
 scanners corporais que usam radiação ionizante.
 
@@ -561,8 +561,13 @@ Conscientize, conte aos seus amigos, colegas e conhecidos, compartilhe
 em mídias sociais, mencione todos os problemas e perigos associados aos
 scanners corporais.
 
-É importante também deixar comentários na consulta pública deixando claro
-que usar esses dispositivos no Brasil não é aceitável articular as razões
-para isso. Este artigo contém muitas explicações e referências que podem
-embasar a rejeição imediata dessa proposta descabida. A consulta
-permanece aberta até este domingo, dia 19 de março de 2023.
+É importante também deixar comentários na
+[consulta pública](https://www.gov.br/participamaisbrasil/norma-cnen-nn-614)
+deixando claro que usar esses dispositivos no Brasil não é aceitável
+articular as razões para isso. Este artigo contém muitas explicações e
+referências que podem embasar a rejeição imediata dessa proposta
+descabida. A consulta permanece aberta até este domingo, dia 19 de abril
+de 2023.
+
+**Editado (2023-03-15):** corrigida a data da consulta, que termina em
+abril, não março havia escrito antes.

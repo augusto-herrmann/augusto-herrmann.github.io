@@ -40,7 +40,7 @@ responsible for orientation, planning, supervision, and control of the
 Brazil's nuclear program.
 
 Last Monday, CNEN has opened
-[a public consultation](https://www.gov.br/participamaisbrasil/norma-cnen-nn-614)
+[a public consultation](https://www.in.gov.br/en/web/dou/-/edital-n-1/2023-467875594)
 in favor of allowing and regulating the use for public security purposes
 of body scanners that use ionizing radiation.
 
@@ -529,9 +529,13 @@ Raise awareness, tell your friends, colleagues and acquaintances, share
 on social media, mention all of the problems and dangers of body
 scanners.
 
-It's also important to leave comments on the public consultation making
-it clear that using those devices in Brazil is not acceptable and
+It's also important to leave comments on the
+[public consultation](https://www.gov.br/participamaisbrasil/norma-cnen-nn-614)
+making it clear that using those devices in Brazil is not acceptable and
 articulate the reasons why. This article contains plenty of explanations
 and references that can be grounds for immediately rejecting this
-unreasonable proposal. The consultation is open until this Sunday, March
+unreasonable proposal. The consultation is open until this Sunday, April
 19th, 2023.
+
+**Edited (2023-03-15):** corrected the date of the consultation, as it
+ends in April, not March, as I had written before.
