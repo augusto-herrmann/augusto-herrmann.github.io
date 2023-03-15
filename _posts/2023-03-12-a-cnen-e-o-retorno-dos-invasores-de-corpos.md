@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CNEN e o Retorno dos Invasores de Corpos"
+title: "A CNEN e o Retorno dos Invasores de Corpos"
 author: "Augusto Herrmann"
 lang: pt
 ref: 2023-03-06-cnen-and-the-return-of-the-body-snatchers
