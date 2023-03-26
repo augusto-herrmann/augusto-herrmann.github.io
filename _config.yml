@@ -37,12 +37,13 @@ t:
       including designing and implementing collaboratively Brazil's
       national open data policy and portal, from 2010 to 2018.
     disclaimer:
-      The views expressed on this article are those of the author only
-      and do not necessarily represent the views of his employers and
-      bear no direct relationship with his work.
-    by: "by"
+      The views expressed on this article are those of the author only on
+      a specific point in time. They do not necessarily represent the
+      current views of the author, much less of his current or previous
+      employers and bear no direct relationship with his work.
+    by: by
     when: "on"
-    image: "image by"
+    image: image by
     about_author: About the author
     licensing_preamble: The texts on this blog can be used according to the
     license_name: Creative Commons Attribution-ShareAlike 4.0 International
@@ -51,12 +52,12 @@ t:
       license unless otherwise specified. Third party images may be either
       in the public domain, used with a permissive license or fair use or
       legal permission on citation and commentary.
-    read_more: "read more"
-    see_also: "See also"
+    read_more: read more
+    see_also: See also
     see_also_text:
       If you like this post, you might want to look at these too
-    previous_post: "Previous post"
-    next_post: "Next post"
+    previous_post: Previous post
+    next_post: Next post
     no_posts:
       There are no posts yet published in this language. Please check one
       of the other available languages.
@@ -67,6 +68,9 @@ t:
       pt:
         code: pt
         name: Portuguese
+      de:
+        code: de
+        name: German
       es:
         code: es
         name: Spanish
@@ -84,12 +88,14 @@ t:
       colaborativamente a política e o portal de dados abertos do
       governo federal brasileiro, de 2010 a 2018.
     disclaimer:
-      As opiniões expressas neste artigo são apenas as do autor e não
-      necessariamente representam as posições de seu empregador e nem
-      trazem nenhuma relação direta com o seu trabalho.
-    by: "por"
-    when: "em"
-    image: "imagem"
+      As opiniões expressas neste artigo são apenas as do autor em
+      um ponto específico no tempo. Elas não necessariamente representam
+      a atual opinião do autor e muito menos as posições de seus
+      empregadores atuais ou passados e nem trazem nenhuma relação direta
+      com o seu trabalho.
+    by: por
+    when: em
+    image: imagem
     about_author: Sobre o autor
     licensing_preamble:
       Os textos deste blog podem ser usados de acordo com a licença
@@ -99,12 +105,12 @@ t:
       exceto quando especificado em contrário. Imagens de terceiros podem
       ou ser de domínio público, ou usam uma licença permissiva ou
       *fair use* ou permissão legal para citação e comentário.
-    read_more: "leia mais"
-    see_also: "Veja também"
+    read_more: leia mais
+    see_also: Veja também
     see_also_text:
       Se você gostou desta postagem, você pode querer ver essas também
-    previous_post: "Texto anterior"
-    next_post: "Próximo texto"
+    previous_post: Texto anterior
+    next_post: Próximo texto
     no_posts:
       Ainda não há nenhuma postagem publicada neste idioma. Por favor verifique
       uma das outras línguas disponíveis.
@@ -115,10 +121,67 @@ t:
       pt:
         code: pt
         name: Português
+      de:
+        code: de
+        name: Alemão
       es:
         code: es
         name: Espanhol
     also_available: Também disponível em
+  de:
+    this_article: dieser Artikel
+    portrait: Augustos Porträt
+    bio:
+      ist ein Praktiker der Bürger:innen-Innovation, der nach Wegen
+      sucht, um das Leben mit Hilfe von Daten zu verbessern. Mit
+      Leidenschaft für Open Data, freie Software, das offene und
+      semantische Web, Datenwissenschaft, Datentechnik, maschinellem
+      Lernen und natürlicher Sprachverarbeitung war ich in den letzten
+      Jahren an vielen interessanten Projekten beteiligt, einschließlich
+      der Entwicklung und Umsetzung der brasilianischen nationalen
+      Open-Data-Richtlinie und des Portals von 2010 bis 2018.
+    disclaimer:
+       Die in diesem Artikel geäußerten Ansichten stammen nur von dem
+       Autor zu einem bestimmten Zeitpunkt. Sie stellen nicht unbedingt
+       die aktuellen Ansichten des Autors dar, geschweige denn seiner
+       aktuellen oder früheren Arbeitgeber und haben keine direkte
+       Beziehung zu seiner Arbeit.
+    by: von
+    when: am
+    image: Bild von
+    about_author: Über den Autor
+    licensing_preamble: Die Texte auf diesem Blog können gemäß der 
+    license_name: Creative Commons Attribution-ShareAlike 4.0 International 
+    license_href: https://creativecommons.org/licenses/by-sa/4.0/ 
+    licensing_supplement: |
+      Lizenz verwendet werden, es sei denn, es ist anders angegeben.
+      Bilder Dritter können entweder im öffentlichen Bereich verwendet
+      werden oder mit einer genehmigenden Lizenz oder Fair Use oder
+      rechtlicher Genehmigung bei Zitat und Kommentar.  
+    read_more: weiterlesen
+    see_also: Siehe auch  
+    see_also_text: |
+      Wenn Ihnen dieser Beitrag gefällt, möchten Sie vielleicht auch
+      diese ansehen  
+    previous_post: Vorheriger Beitrag
+    next_post: Nächster Beitrag
+    no_posts:
+      Es gibt noch keine Beiträge in dieser Sprache. Bitte überprüfen Sie
+      eine der anderen verfügbaren Sprachen.  
+    languages:
+      en:
+        code: en
+        name: Englisch
+      pt:
+        code: pt
+        name: Portugiesisch
+      de:
+        code: de
+        name: Deutsch
+      es:
+        code: es
+        name: Spanisch
+      also_available : Auch verfügbar auf
   es:
     this_article: este artículo
     portrait: retrato de Augusto
@@ -160,6 +223,9 @@ t:
       pt:
         code: pt
         name: Portugués
+      de:
+        code: de
+        name: Alemán
       es:
         code: es
         name: Español
