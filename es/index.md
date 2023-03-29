@@ -169,14 +169,15 @@ Para más entradas, por favor vea [el blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2020
 
-{% assign linked_post=site.posts | where:"ref", "2021-03-08-open-data-in-perspectives-an-account-of-open-data-day-2020-rio-at-the-national-archives" | where:"lang", page.lang %}
+{% assign linked_post=site.posts | where:"ref", "2021-03-08-open-data-in-perspectives-an-account-of-open-data-day-2020-rio-at-the-national-archives" | where:"lang", "pt" %}
 
 * 🌐 Online, 10/12/2020 -- [Webinar de la OKBR – 10 años del inicio de la construcción de la INDA en Brasil](https://www.ok.org.br/noticia/webinar-celebra-10-anos-da-infraestrutura-nacional-de-dados-abertos-no-brasil/) ([grabación](https://www.youtube.com/watch?v=1rCsoU7XSdM) (en portugués))
 * 🇧🇷 Rio de Janeiro, 6/3/2020 -- [Open Data Day 2020](https://opendataday.org)
   -- [Rio de Janeiro - Archivo Nacional](http://arquivonacional.gov.br/br/ultimas-noticias/2043-6-de-marco-open-data-day-no-arquivo-nacional)
   ([grabación](https://www.youtube.com/watch?v=-1mR2gz_4Hg) (en portugués))
   ([presentación](https://pt.slideshare.net/AugustoHerrmannBatis/open-data-day-2020-arquivo-nacional-rio-de-janeiro) (en portugués))
-  (hay una entrada de blog en portugués y en inglés)
+  (hay una entrada de blog disponible [en portugués]({{linked_post.first.url}})
+  y en inglés)
 * 🌐 Online, 14/1/2020 -- [Proyecto Embajadoras - Open Data Day 2020: Descubra como hacer en su ciudad](https://embaixadoras.ok.org.br/civic%20tech/open%20data%20day%202020/2020/01/21/live-open-data-day-2020/) ([grabación](https://www.youtube.com/watch?v=MGceIuNm2xY) (en portugués))
 
 </div>
