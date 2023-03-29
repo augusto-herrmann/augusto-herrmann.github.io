@@ -209,6 +209,9 @@ Für weitere Beiträge, sehe bitte [den Blog](blog).
 * 🇧🇷 Brasília, 27/11/2018 -- Offene Datennutzungswerkstatt des
   Brasilianisches Bundesministeriums für Planung (auf Portugiesisch)
   -- 4. Innovationswoche: Öffentlicher Service für die Zukunft
+* 🇧🇪 Brüssel, 2/10/2018 -- EU Datathon 2018
+  ([Teilnahme](https://youtu.be/3fPfl7ZBWl8?t=4915))
+  (auf Englisch)
 * 🇧🇷 Florianópolis, 29/8/2018 -- Interoperabilitätsplattformen und
   Open-Data-Politiken (auf Portugiesisch) --
   [II. Internationaler Kongress für öffentliche Leistungen](http://cidesp.com.br/index.php/Icidesp/index/pages/view/2cidesp-programacao)

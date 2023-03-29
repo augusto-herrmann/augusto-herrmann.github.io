@@ -192,12 +192,25 @@ opportunities to advance in fighting corruption (in Portuguese) --
 
 ### *﻿*{: .far .fa-calendar-alt} 2018
 
-* 🇧🇷 Brasília, 27/11/2018 -- Oficina de uso de dados abertos do Ministério do Planejamento (in Portuguese) -- 4ª Semana de Inovação: Serviço público para o futuro
-* 🇧🇷 Florianópolis, 29/8/2018 -- Plataformas de interoperabilidade e políticas de dados abertos (in Portuguese) -- [II Congresso Internacional de Desempenho do Setor Público](http://cidesp.com.br/index.php/Icidesp/index/pages/view/2cidesp-programacao)
-* 🇧🇷 Salvador, 19/7/2018 -- [Curso de Extensão para a Elaboração de Planos de Dados Abertos](http://www.adm.ufba.br/pt-br/noticia/curso-extensao-plano-dados-abertos) (in Portuguese) -- UFBA
-* 🇧🇷 Brasília, 20/6/2018 -- [Política de Dados Abertos do poder executivo federal](https://www.slideshare.net/AugustoHerrmannBatis/poltica-de-dados-abertos-do-poder-executivo-federal-102729913) (in Portuguese) -- III Fórum de Transferências Voluntárias
-* 🇧🇷 Brasília, 23/5/2018 -- [Políticas de dados abertos no Brasil](https://www.slideshare.net/AugustoHerrmannBatis/polticas-de-dados-abertos) (in Portuguese) -- Labhinova/CLDF
-* 🇧🇷 Brasília, 3/3/2018 -- [Open Data Day Brasília 2018](https://www.youtube.com/watch?v=Hl7vyxqKQEY)  (in Portuguese)
+* 🇧🇷 Brasília, 27/11/2018 -- Workshop on using open data at the Ministry
+  of Planning (in Portuguese) -- 4th Innovation Week: Public service for
+  the future
+* 🇧🇪 Brussels, 2/10/2018 -- EU Datathon 2018
+  ([participation](https://youtu.be/3fPfl7ZBWl8?t=4915))
+* 🇧🇷 Florianópolis, 29/8/2018 -- Interoperability platforms and open data
+  policies (in Portuguese) --
+  [II International Congress on the Public Sector Performance](http://cidesp.com.br/index.php/Icidesp/index/pages/view/2cidesp-programacao)
+* 🇧🇷 Salvador, 19/7/2018 --
+  [Extension Course for Crafting Open Data Plans](http://www.adm.ufba.br/pt-br/noticia/curso-extensao-plano-dados-abertos)
+  (in Portuguese) -- UFBA
+* 🇧🇷 Brasília, 20/6/2018 --
+  [Open Data Policy of the federal executive branch](https://www.slideshare.net/AugustoHerrmannBatis/poltica-de-dados-abertos-do-poder-executivo-federal-102729913)
+  (in Portuguese) -- III Forum on Voluntary Transfers
+* 🇧🇷 Brasília, 23/5/2018 --
+  [Open data policies in Brazil](https://www.slideshare.net/AugustoHerrmannBatis/polticas-de-dados-abertos) (in Portuguese) -- Labhinova/CLDF
+* 🇧🇷 Brasília, 3/3/2018 --
+  [Open Data Day Brasília 2018](https://www.youtube.com/watch?v=Hl7vyxqKQEY)
+  (in Portuguese)
 
 </div>
 </div>
