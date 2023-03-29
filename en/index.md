@@ -81,13 +81,21 @@ themes:
 
 ## *﻿*{: .fas .fa-feather-alt} Publications
 
-* [Extração automática de definições: um estudo de caso em textos legislativos](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356) (in Portuguese) -- master's thesis at the Catholic University of Brasília -- [audition slides](https://www.slideshare.net/AugustoHerrmannBatis/extrao-automtica-de-definies-um-estudo-de-caso-em-textos-legislativos)
-* [Extracting definitions from brazilian legal texts](http://link.springer.com/chapter/10.1007/978-3-642-31137-6_48) -- Computational Science and Its Applications – ICCSA 2012 / Springer
-* [The Open Data Revolution](https://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/Magazine/LM-ED02.pdf) -- LibreOffice Magazine, Year 1, Issue 2, December 2012
-* [Infraestrutura nacional de dados abertos](http://banco.consad.org.br/handle/123456789/854) (in Portuguese) -- National Council of State Secretaries of Administration (Consad)
-* [Implementando uma infraestrutura nacional de dados abertos: o caso brasileiro](http://siare.clad.org/fulltext/0075041.pdf) (in Portuguese) -- Latin American Centre of Administration and Development (CLAD)
-* [Planning for Open Data - New commitments for implementing the Digital Governance Strategy](http://consad.org.br/wp-content/uploads/2016/06/Painel-32-03.pdf) (in Portuguese) -- National Council of State Secretaries of Administration (Consad)
-* [The panorama of public officials’ meeting trips after the COVID-19 pandemic: Impact level, recovery, and prospects](https://doi.org/10.3389/ffutr.2022.972133) -- Frontiers in Future Transportation
+* [Extração automática de definições: um estudo de caso em textos legislativos](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
+  (in Portuguese) -- master's thesis at the Catholic University of Brasília --
+  [audition slides](https://www.slideshare.net/AugustoHerrmannBatis/extrao-automtica-de-definies-um-estudo-de-caso-em-textos-legislativos)
+* [Extracting definitions from brazilian legal texts](http://link.springer.com/chapter/10.1007/978-3-642-31137-6_48)
+  -- Computational Science and Its Applications – ICCSA 2012 / Springer
+* [The Open Data Revolution](https://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/Magazine/LM-ED02.pdf)
+  (in Portuguese) -- LibreOffice Magazine, Year 1, Issue 2, December 2012
+* [Infraestrutura nacional de dados abertos](http://banco.consad.org.br/handle/123456789/854)
+  (in Portuguese)  -- National Council of State Secretaries of Administration (Consad)
+* [Implementando uma infraestrutura nacional de dados abertos: o caso brasileiro](http://siare.clad.org/fulltext/0075041.pdf)
+  (in Portuguese) -- Latin American Centre of Administration and Development (CLAD)
+* [Planning for Open Data - New commitments for implementing the Digital Governance Strategy](http://consad.org.br/wp-content/uploads/2016/06/Painel-32-03.pdf)
+  (in Portuguese) -- National Council of State Secretaries of Administration (Consad)
+* [The panorama of public officials’ meeting trips after the COVID-19 pandemic: Impact level, recovery, and prospects](https://doi.org/10.3389/ffutr.2022.972133)
+  -- Frontiers in Future Transportation
 
 </div>
 </section>
