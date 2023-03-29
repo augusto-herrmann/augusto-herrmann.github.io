@@ -1,4 +1,4 @@
-<section  class="container" id="contact">
+<section class="container" id="contact">
 
 ## *﻿*{: .far .fa-envelope} Contacto
 
