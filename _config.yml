@@ -166,7 +166,7 @@ t:
     previous_post: Vorheriger Beitrag
     next_post: Nächster Beitrag
     no_posts:
-      Es gibt noch keine Beiträge in dieser Sprache. Bitte überprüfen Sie
+      Es gibt noch keine Beiträge auf dieser Sprache. Bitte überprüfen Sie
       eine der anderen verfügbaren Sprachen.  
     languages:
       en:
