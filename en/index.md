@@ -127,6 +127,15 @@ For more posts, please see [the blog](blog).
 <div class="col item">
 <div class="content">
 
+### *﻿*{: .far .fa-calendar-alt} 2023
+
+* (TBA)
+
+</div>
+</div>
+<div class="col item">
+<div class="content">
+
 ### *﻿*{: .far .fa-calendar-alt} 2022
 
 * 🇧🇷 Rio de Janeiro (Online), 2/12/2022 --
@@ -187,6 +196,11 @@ opportunities to advance in fighting corruption (in Portuguese) --
 
 </div>
 </div>
+
+</div>
+
+<div class="row">
+
 <div class="col item">
 <div class="content">
 
@@ -214,11 +228,6 @@ opportunities to advance in fighting corruption (in Portuguese) --
 
 </div>
 </div>
-
-</div>
-
-<div class="row">
-
 <div class="col item">
 <div class="content">
 

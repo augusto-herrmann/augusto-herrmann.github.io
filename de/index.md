@@ -137,6 +137,15 @@ Für weitere Beiträge, sehe bitte [den Blog](blog).
 <div class="col item">
 <div class="content">
 
+### *﻿*{: .far .fa-calendar-alt} 2023
+
+* (TBA)
+
+</div>
+</div>
+<div class="col item">
+<div class="content">
+
 ### *﻿*{: .far .fa-calendar-alt} 2022
 
 * 🇧🇷 Rio de Janeiro (Online), 2/12/2022 --
@@ -201,6 +210,11 @@ Für weitere Beiträge, sehe bitte [den Blog](blog).
 
 </div>
 </div>
+
+</div>
+
+<div class="row">
+
 <div class="col item">
 <div class="content">
 
@@ -230,11 +244,6 @@ Für weitere Beiträge, sehe bitte [den Blog](blog).
 
 </div>
 </div>
-
-</div>
-
-<div class="row">
-
 <div class="col item">
 <div class="content">
 
