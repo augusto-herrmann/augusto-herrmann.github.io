@@ -125,7 +125,9 @@ Para más entradas, por favor vea [el blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2023
 
-* (TBA)
+* 🇦🇷 Buenos Aires, 19/4/2023 --
+  [Integración de fuentes de datos y publicación de datos abiertos con FastELT y Airflow](https://csvconf.com/speakers/#augusto-herrmann)
+  -- [csv,conf,v7](https://csvconf.com)
 
 </div>
 </div>
