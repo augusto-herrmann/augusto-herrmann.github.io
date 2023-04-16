@@ -128,6 +128,7 @@ Para más entradas, por favor vea [el blog](blog).
 * 🇦🇷 Buenos Aires, 19/4/2023 --
   [Integración de fuentes de datos y publicación de datos abiertos con FastELT y Airflow](https://csvconf.com/speakers/#augusto-herrmann)
   -- [csv,conf,v7](https://csvconf.com)
+  ([presentación](/slide-decks/2023/04/integrating-data-sources-and-publishing-open-data-with-fastetl-and-airflow))
 
 </div>
 </div>
@@ -137,7 +138,7 @@ Para más entradas, por favor vea [el blog](blog).
 ### *﻿*{: .far .fa-calendar-alt} 2022
 
 * 🇧🇷 Rio de Janeiro (Online), 2/12/2022 --
-  [Organizando los datos abiertos](https://herrmann.tech/slide-decks/2022/12/organizando-os-dados-abertos)
+  [Organizando los datos abiertos](/slide-decks/2022/12/organizando-os-dados-abertos)
   (en portugués),
   presentación para el curso Gestión de Datos de Investigación en el
   [Programa de Postgrado en Informática](http://www.ppgi.ufrj.br/)
