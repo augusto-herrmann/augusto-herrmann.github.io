@@ -5,7 +5,7 @@ author: Augusto Herrmann
 lang: en
 ref: 2023-05-16-road-police-panopticon-the-latest-data-grab
 category: [en, blog]
-tags: [mass surveillance, vehicle tracking, biometrics, diver's license, siniav]
+tags: [mass surveillance, privacy, vehicle tracking, biometrics, diver's license, siniav]
 cover: /assets/images/2022/12/alberto-rodriguez-santana-i_nIoSCdHv4-unsplash.jpg
 snippet-image: /assets/images/2022/12/alberto-rodriguez-santana-i_nIoSCdHv4-unsplash.jpg
 desc: >-

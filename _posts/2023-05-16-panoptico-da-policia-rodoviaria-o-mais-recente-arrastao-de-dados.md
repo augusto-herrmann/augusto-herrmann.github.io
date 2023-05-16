@@ -5,7 +5,7 @@ author: Augusto Herrmann
 lang: pt
 ref: 2023-05-16-road-police-panopticon-the-latest-data-grab
 category: [pt, blog]
-tags: [vigilância em massa, rastreamento de veículos, biometria, cnh, siniav]
+tags: [vigilância em massa, privacidade, rastreamento de veículos, biometria, cnh, siniav]
 cover: /assets/images/2022/12/alberto-rodriguez-santana-i_nIoSCdHv4-unsplash.jpg
 snippet-image: /assets/images/2022/12/alberto-rodriguez-santana-i_nIoSCdHv4-unsplash.jpg
 desc: >-
