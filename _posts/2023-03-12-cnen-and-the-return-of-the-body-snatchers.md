@@ -5,7 +5,7 @@ author: "Augusto Herrmann"
 lang: en
 ref: 2023-03-06-cnen-and-the-return-of-the-body-snatchers
 category: [en, blog]
-tags: []
+tags: [body scanners, privacy, airport security]
 cover: /assets/images/2023/03/adam-wilson-ENJVnrvAMuA-unsplash.jpg
 snippet-image: /assets/images/2023/03/adam-wilson-ENJVnrvAMuA-unsplash.jpg
 desc: >-
