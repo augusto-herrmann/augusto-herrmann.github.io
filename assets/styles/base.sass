@@ -409,6 +409,15 @@ main.cover
     transform: rotateX(0)
     opacity: 1
 
+@keyframes slide-title
+  0%
+    margin-left: 56px
+    opacity: 0
+
+  100%
+    margin-left: 0px
+    opacity: 1
+
 .flip-in
   margin-top: 0
   opacity: 1
@@ -417,6 +426,7 @@ main.cover
 .cover-heading
   color: #a1bfdc
   margin: .5em 0
+  animation: slide-title 0.6s ease-out
 
 main.cover > .row
   margin-top: 1em
