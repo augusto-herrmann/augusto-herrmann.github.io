@@ -17,10 +17,12 @@ image-credits: Freddy Kearney on Unsplash
 ---
 
 [Techdirt](https://techdirt.com/) is one of the go-to places to get well
-informed about technology, tech policy and law. Founded by Mike Masnick
-in the 1990s, it has a frequently updated blog, a thriving community of
-people commenting every post and is also a podcast. I have been an avid
-reader and listener since the early days of the internet.
+informed about where technology and societal issues meet, about the often
+unforeseen repercussions of proposed legislation on tech issues and tech
+policy in general. Founded by Mike Masnick in the 1990s, it has a
+frequently updated blog, a thriving community of people commenting every
+post and is also a podcast. I have been an avid reader and listener since
+the early days of the internet.
 
 This morning I was trying to find an article on Techdirt, as I usually do
 to find references to texts I write on this blog. Being a privacy
