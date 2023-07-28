@@ -97,7 +97,7 @@ plausible seem to be either some kind of bug or technical issue, or
 censorship due to the political stance of Techdirt, which is very often
 critical of companies such as Microsoft, who
 [many](https://en.wikipedia.org/wiki/Microsoft_Corp._v._Commission)
-[times](https://www.wired.com/story/what-microsofts-antitrust-case-teaches-us-about-silicon-valley/)
+[times](https://en.wikipedia.org/wiki/Proposed_acquisition_of_Activision_Blizzard_by_Microsoft)
 have been accused of abusing their market dominance position to thwart
 the competition.
 
@@ -128,7 +128,7 @@ by Paris Marx that I highly recommend, right beside others such as
 [The Cory Doctorow Podcast](https://craphound.com/podcast/) and Techdirt
 itself). However, I searched for all of those on DDG and they were all in
 fact showing up as they normal would. So either they have somehow fixed
-the rest of the websites, but not Techdirt, really quick or this person
+really quick the rest of the websites, but not Techdirt, or this person
 is simply mistaken.
 
 Later the user NoahVail
