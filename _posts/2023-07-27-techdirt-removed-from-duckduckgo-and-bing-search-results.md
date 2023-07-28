@@ -95,8 +95,11 @@ site's removal.
 Among the speculative reasons dreamed by the generative AI, the two most
 plausible seem to be either some kind of bug or technical issue, or
 censorship due to the political stance of Techdirt, which is very often
-critical of companies such as Microsoft, who many times have been accused
-of abusing their market dominance position to thwart the competition.
+critical of companies such as Microsoft, who
+[many](https://en.wikipedia.org/wiki/Microsoft_Corp._v._Commission)
+[times](https://www.wired.com/story/what-microsofts-antitrust-case-teaches-us-about-silicon-valley/)
+have been accused of abusing their market dominance position to thwart
+the competition.
 
 > And the last one is of course possible: that Microsoft encountered
 > “some legal or political pressure to remove or censor Techdirt.com,
@@ -104,10 +107,11 @@ of abusing their market dominance position to thwart the competition.
 > topics, such as technology, law, policy, and business,” but it would be
 > nice if someone would just, you know, let me know?
 
-Masnick explicitly claims to believe the former to be the case, and goes
-out of his way to remark the fact that Bing has every right to remove
-whatever they want for whatever reason (though it of course makes me and
-many people even less prone to use their search engine).
+Masnick explicitly claims to believe the former to be the case (i.e., a
+bug), and goes out of his way to remark the fact that Bing has every
+right to remove whatever they want for whatever reason (though it of
+course makes me and many people even less prone to use their search
+engine).
 
 > At no point did anyone at Bing let us know that we’ve been removed from
 > the search index. And, of course, Bing has every right to kick us out
