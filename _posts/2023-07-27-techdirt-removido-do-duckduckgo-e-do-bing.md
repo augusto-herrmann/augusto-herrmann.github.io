@@ -175,3 +175,10 @@ confundir o meu comportamento com o de um robô, especialmente se eu
 pesquisar por mensagens técnicas de erro, copiando-as e colando-as (algo
 que é extremante comum que programadores façam muitas vezes ao dia).
 
+**Atualização (28/7/2023):** O Bing, o DuckDuckGo e o Ecosia agora
+mostram mais alguns resultados do Techdirt, na maioria subdomínios. Mas
+os artigos ainda não estão indexados. Por exemplo, uma busca por
+"site:techdirt.com drm" ainda aparece vazia, mesmo
+[DRM](https://www.defectivebydesign.org/what_is_drm) sendo um assunto
+frequente nos artigos do Techdirt.
+

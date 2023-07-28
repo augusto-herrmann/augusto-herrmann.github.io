@@ -157,3 +157,10 @@ my behavior for a bot, especially if I search for technical error
 messages, copying and pasting them (which is something extremely common
 that programmers do several times a day).
 
+**Update (2023-07-28):** Bing, DuckDuckGo and Ecosia now show a few
+more results from Techdirt, mostly subdomains. But articles are still
+not indexed. For instance, a search for "site:techdirt.com drm" still
+comes up empty, even though
+[DRM](https://www.defectivebydesign.org/what_is_drm) is a frequent topic
+in Techdirt articles.
+
