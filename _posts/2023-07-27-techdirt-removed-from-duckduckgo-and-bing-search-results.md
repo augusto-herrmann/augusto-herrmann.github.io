@@ -18,11 +18,11 @@ image-credits: Freddy Kearney on Unsplash
 
 [Techdirt](https://techdirt.com/) is one of the go-to places to get well
 informed about where technology and societal issues meet, about the often
-unforeseen repercussions of proposed legislation on tech issues and tech
-policy in general. Founded by Mike Masnick in the 1990s, it has a
+unforeseen repercussions of proposed legislation on tech issues and about
+tech policy in general. Founded by Mike Masnick in the 1990s, it has a
 frequently updated blog, a thriving community of people commenting every
 post and is also a podcast. I have been an avid reader and listener since
-the early days of the internet.
+the early years of the commercially available internet.
 
 This morning I was trying to find an article on Techdirt, as I usually do
 to find references to texts I write on this blog. Being a privacy
@@ -54,7 +54,7 @@ or
 [alleged Russian propaganda](https://betanews.com/2022/03/13/is-microsoft-to-blame-for-duckduckgo-censoring-russian-search-results/),
 and they always do lay the blame on Bing. I couldn't find, though, any
 case of DDG removing results related to critical thinking on tech policy.
-That is indeed a first.
+That seems indeed to be a first.
 
 I tried to remember the names of other search engines that at least claim
 to be privacy oriented, so I could continue my search. Ecosia came to
