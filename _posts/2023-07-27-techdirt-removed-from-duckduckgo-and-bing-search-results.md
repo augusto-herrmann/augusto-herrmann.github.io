@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Techdirt removed from DuckDuckGo and Bing
+title: Techdirt removed from DuckDuckGo and Bing search results
 author: Augusto Herrmann
 lang: en
-ref: 2023-07-27-techdirt-removed-from-duckduckgo-and-bing
+ref: 2023-07-27-techdirt-removed-from-duckduckgo-and-bing-search-results
 category: [en, blog]
 tags: [censorship, search engines, microsoft, bing, duckduckgo, ecosia, mojeek, techdirt]
 cover: /assets/images/2023/07/freddy-kearney-enkfvvZkKv0-unsplash.jpg
