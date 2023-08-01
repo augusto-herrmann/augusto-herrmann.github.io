@@ -134,7 +134,10 @@ como um exemplo o
 do Paris Marx que eu recomendo muito, juntamente com outros como
 [Your Undivided Attention](https://www.humanetech.com/podcast),
 [Team Human](https://www.teamhuman.fm/),
-[The Cory Doctorow Podcast](https://craphound.com/podcast/) e o próprio
+[The Cory Doctorow Podcast](https://craphound.com/podcast/),
+o podcast da EFF
+[How to Fix the Internet](https://www.eff.org/how-to-fix-the-internet-podcast),
+[Reimagining the Internet](https://publicinfrastructure.org/) e o próprio
 Techdirt; ou ainda, para os lusófonos:
 [Guia Prático](https://manualdousuario.net/series/guia-pratico/),
 [Tecnocracia](https://manualdousuario.net/series/tecnocracia/),

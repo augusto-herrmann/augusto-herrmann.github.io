@@ -125,11 +125,14 @@ example
 by Paris Marx that I highly recommend, right beside others such as
 [Your Undivided Attention](https://www.humanetech.com/podcast),
 [Team Human](https://www.teamhuman.fm/),
-[The Cory Doctorow Podcast](https://craphound.com/podcast/) and Techdirt
-itself). However, I searched for all of those on DDG and they were all in
-fact showing up as they normal would. So either they have somehow fixed
-really quick the rest of the websites, but not Techdirt, or this person
-is simply mistaken.
+[The Cory Doctorow Podcast](https://craphound.com/podcast/),
+EFF's
+[How to Fix the Internet](https://www.eff.org/how-to-fix-the-internet-podcast),
+[Reimagining the Internet](https://publicinfrastructure.org/) and
+Techdirt itself). However, I searched for all of those on DDG and they
+were all in fact showing up as they normal would. So either they have
+somehow fixed really quick the rest of the websites, but not Techdirt, or
+this person is simply mistaken.
 
 Later the user NoahVail
 [pointed out in the comments](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/#comment-3181184)
