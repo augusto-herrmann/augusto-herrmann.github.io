@@ -28,7 +28,7 @@ compartilhamento de dados do WhatsApp anunciadas pela Meta no ano
 passado]({{ reference_post.url | relative_url }}).
 
 Agora, graças a uma solicitação pela Lei de Acesso à Informação feita
-pela agência focada em jornalistmo de dados chamada
+pela agência focada em jornalismo de dados chamada
 [Fiquem Sabendo](https://fiquemsabendo.com.br/), podemos saber mais sobre
 as justificativas por trás da decisão. Como resposta, eles obtiveram
 acesso à
