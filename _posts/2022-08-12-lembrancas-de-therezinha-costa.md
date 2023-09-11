@@ -105,6 +105,11 @@ algum momento com o início e, caso se conectasse, quantas giradas da roda
 levaria para isso acontecer. Tenho certeza de que todos esses quebra-cabeças
 e jogos de lógica me influenciaram a amar a matemática.
 
+<figure markdown="1">
+![Ilustração de um jardim feita usando um espirógrafo.]({{ 'assets/images/2022/08/espirógrafo-jardim-1.jpg' | relative_url }})
+<figcaption>Ilustração de um jardim feita usando um espirógrafo. Feita por mim aos 5 anos de idade.</figcaption>
+</figure>
+
 Quando eu era muito pequeno, certa vez peguei um pedaço de carvão frio da
 lareira e escrevi "EAT" nela. Meu pai pensou inicialmente que eu estivesse
 com fome, pela palavra que essas letras formam em inglês, considerando que

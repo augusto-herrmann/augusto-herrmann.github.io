@@ -105,6 +105,11 @@ connect again at the beginning and, if so, how many turns of the wheel it
 would take. I'm positive that all those puzzles and logic games have
 influenced me and made me love mathematics.
 
+<figure markdown="1">
+![Illustration of a garden done using a spirograph.]({{ 'assets/images/2022/08/espirógrafo-jardim-1.jpg' | relative_url }})
+<figcaption>Illustration of a garden done using a spirograph. Done my be at the age of 5.</figcaption>
+</figure>
+
 When I was very young, I once took a cooled down piece of coal from the
 fireplace and wrote "EAT" on it. My father initially thought I was hungry
 for the word it formed in English, considering that I had started writing
