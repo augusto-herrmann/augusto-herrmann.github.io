@@ -7,7 +7,7 @@ author: Augusto Herrmann
 lang: en
 ref: 2023-09-08-impositive-registry-brazils-central-bank-will-share-your-data-with-credit-reporting-agencies
 category: [en, blog]
-tags: [brazil, privacy, central bank, credit reporting agencies, cadastro positivo]
+tags: [brazil, privacy, personal data, central bank, credit reporting agencies, cadastro positivo]
 cover: /assets/images/2023/09/mufid-majnun-LVcjYwuHQlg-unsplash.jpg
 snippet-image: /assets/images/2023/09/mufid-majnun-LVcjYwuHQlg-unsplash.jpg
 desc: >-
@@ -96,6 +96,14 @@ reporting agencies enabled by those new agreements, as it does not seem
 plausible that the agency would obtain express authorization from each
 and every person in the registry before obtaining the data from SCR.
 
+{% assign posts=site.posts | where:"lang", page.lang | where: "ref", "2023-09-22-impositive-registry-know-which-data-of-yours-the-central-bank-is-sharing" %}
+{% for post in posts %}
+{% assign reference_post=post %}
+{% endfor %}
+
+**Update:** see [this later post]{{ reference_post.url | relative_url }}
+for more accurate information on what
+kind of data is being shared.
 
 ## With whom will the data be shared?
 
