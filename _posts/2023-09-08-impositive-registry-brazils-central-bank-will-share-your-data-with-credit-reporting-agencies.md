@@ -101,7 +101,7 @@ and every person in the registry before obtaining the data from SCR.
 {% assign reference_post=post %}
 {% endfor %}
 
-**Update:** see [this later post]{{ reference_post.url | relative_url }}
+**Update:** see [this later post]({{ reference_post.url | relative_url }})
 for more accurate information on what
 kind of data is being shared.
 

@@ -100,7 +100,7 @@ SCR.
 {% endfor %}
 
 **Atualizaão:** veja
-[este artigo posterior]{{ reference_post.url | relative_url }}
+[este artigo posterior]({{ reference_post.url | relative_url }})
 para informações mais precisas sobre que tipo de dados está sendo
 compartilhado.
 
