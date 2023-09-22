@@ -32,8 +32,8 @@ acordos entre o Banco Central do Brasil (BCB) e os birôs de crédito está
 disponível na seção de transparência do site da instituição. Todos eles
 têm o mesmo conteúdo, exceto pela identificação do birô de crédito, os
 respectivos departamentos internos responsáveis e signatários. Todos os
-cinco também compartilham o mesmo dia de assinatura: 4 de setembro de
-2023. Eis os links para cada um deles:
+cinco também compartilham o mesmo dia de assinatura: 4 de setembro
+de 2023. Eis os links para cada um deles:
 
 * [Acordo com Boa Vista Serviços S.A.](https://www.bcb.gov.br/content/acessoinformacao/acordos_docs/ACORDO_64_2023-BCB_DESIG_ACT_BVS.pdf)
 * [Acordo com QUOD Gestora de Inteligência de Crédito S.A.](https://www.bcb.gov.br/content/acessoinformacao/acordos_docs/ACORDO_61_2023-BCB_DESIG_ACT_QUOD.pdf)
