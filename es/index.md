@@ -128,9 +128,10 @@ Para más entradas, por favor vea [el blog](blog).
 * 🌐 Online, 26/5/2023 -- Integrating data sources and publishing open
   data with fastETL, Airflow & Frictionless Data (en inglés) --
   Frictionless Data Community Call
-  ([presentation](https://herrmann.tech/slide-decks/2023/05/integrating-data-sources-and-publishing-open-data-with-fastetl-airflow-and-frictionless))
+  ([presentación](https://herrmann.tech/slide-decks/2023/05/integrating-data-sources-and-publishing-open-data-with-fastetl-airflow-and-frictionless))
+  ([grabación](https://www.youtube.com/watch?v=tDo-nNEDxVo))
 * 🇦🇷 Buenos Aires, 19/4/2023 --
-  [Integración de fuentes de datos y publicación de datos abiertos con FastELT y Airflow](https://csvconf.com/speakers/#augusto-herrmann)
+  [Integración de fuentes de datos y publicación de datos abiertos con FastELT y Airflow](https://csvconf.com/speakers/#augusto-herrmann) (en inglés)
   -- [csv,conf,v7](https://csvconf.com)
   ([presentación](/slide-decks/2023/04/integrating-data-sources-and-publishing-open-data-with-fastetl-and-airflow))
 
