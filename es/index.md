@@ -123,6 +123,18 @@ Para más entradas, por favor vea [el blog](blog).
 <div class="col item">
 <div class="content">
 
+### *﻿*{: .far .fa-calendar-alt} 2024
+
+* 🇧🇷 Brasília (Online), 8/3/2024 -- [Open Data Day](https://opendataday.org/)
+  2024:
+  [Open Datasets SEGES 2024](https://economiagovbr.github.io/opendataday2024/)
+  (en portugués)
+
+</div>
+</div>
+<div class="col item">
+<div class="content">
+
 ### *﻿*{: .far .fa-calendar-alt} 2023
 
 * 🌐 Online, 26/5/2023 -- Integrating data sources and publishing open
@@ -181,6 +193,10 @@ Para más entradas, por favor vea [el blog](blog).
 </div>
 </div>
 
+</div>
+
+<div class="row">
+
 <div class="col item">
 <div class="content">
 
@@ -199,11 +215,6 @@ Para más entradas, por favor vea [el blog](blog).
 
 </div>
 </div>
-
-</div>
-
-<div class="row">
-
 <div class="col item">
 <div class="content">
 
@@ -266,6 +277,10 @@ Para más entradas, por favor vea [el blog](blog).
 
 </div>
 </div>
+
+</div>
+
+<div class="row">
 
 <div class="col item">
 <div class="content">
