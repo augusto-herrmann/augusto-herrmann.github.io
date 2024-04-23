@@ -126,6 +126,10 @@ Para mais postagens, por favor veja [o blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2024
 
+* 🌐 Online, 23/4/2024 --
+  [Skills and Competencies for enabling Open Data in public administration](https://herrmann.tech/slide-decks/2024/04/skills-and-competencies-for-enabling-open-data)
+  (em inglês) - Chamada mensal do
+  [Grupo de Trabalho de Implementação do Open Data Charter](https://opendatacharter.org/iwg/)
 * 🇧🇷 Brasília (Online), 8/3/2024 -- [Open Data Day](https://opendataday.org/)
   2024:
   [Open Datasets SEGES 2024](https://economiagovbr.github.io/opendataday2024/)
