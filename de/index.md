@@ -33,50 +33,53 @@ themes:
   - |
     ### Open Government und Bürgerbeteiligung
     
-    *﻿*{: .fa-solid .fa-people-carry-box} Beiträge um Open Data zu den
-    ersten 4 brasilianischen Aktionsplänen im
+    *﻿*{: .fa-solid .fa-people-carry-box} Maßgeblich har er zu den ersten
+    4 brasilianischen Aktionsplänen im Rahmen der
     [Open Government Partnership](https://www.opengovpartnership.org/)
-    geleistet, von der Entwurfsphase bis hin zur Umsetzung der
-    Verpflichtungen
+    beigetragen – von der Entwurfsphase bis hin zur Umsetzung der
+    Verpflichtungen im Bereich Open Data
 
-    *﻿*{: .fa-solid .fa-people-carry-box} führte die erste
-    gemeinsame Erstellung eines
-    [regierungseigenen Portals](https://blog.okfn.org/2012/05/10/new-brazilian-portal-dados-gov-br-made-by-citizens/),
-    an der jeder Bürger teilnehmen könnte
+    *﻿*{: .fa-solid .fa-people-carry-box} Die erste gemeinschaftliche
+    Erstellung eines
+    [regierungseigenen Portals](https://blog.okfn.org/2012/05/10/new-brazilian-portal-dados-gov-br-made-by-citizens/) leitete er,
+    an der alle interessierten Bürger teilnehmen konnten
   - |
     ### Datentechnik
     
-    *﻿*{: .fa-solid .fa-gears} entwirft, implementiert und verwaltet
-    Dutzende von Datenflüssen, einschließlich Reinigungs-,
-    Bereicherungs- und Integrationsvorgängen aus heterogenen Quellen
-    für einen Datensee und für die Freigabe von Open-Datenbasen in der
-    brasilianischen Öffentlichen Verwaltung, unter Verwendung eines
-    überwiegend frei und quelloffenen Software-Stack, einschließlich
+    *﻿*{: .fa-solid .fa-gears} Dutzende von Datenflüssen entwirft,
+    implementiert und verwaltet er für einen Datensee und die Bereitstellung
+    von Open-Datenbanken in der brasilianischen Öffentlichen Verwaltung.
+    Dazu gehören Reinigungs-, Bereicherungs- und Integrationsprozesse
+    aus heterogenen Quellen. Dabei setzt er überwiegend einen frei und
+    quelloffenen Software-Stack ein, der
     [Apache Airflow](https://airflow.apache.org/),
     [FastAPI](https://fastapi.tiangolo.com/),
     [Frictionless Data](https://frictionlessdata.io/),
     [Open Source Routing Machine](https://project-osrm.org/) und andere
+    Komponenten umfasst
 
-    *﻿*{: .fa-solid .fa-gears} implementiert Datenflüsse in kooperativen
-    Projekten wie [publicbodies.org](https://publicbodies.org) unter
-    Verwendung von Github Actions zur Automatisierung von Updates aus
-    offenen Datenquellen
+    *﻿*{: .fa-solid .fa-gears} Er implementiert Datenflüsse in kooperativen
+    Projekten wie [publicbodies.org](https://publicbodies.org). Dabei
+    verwendet er Github Actions, um automatisierte Aktualisierungen aus
+    offenen Datenquellen zu ermöglichen
   - |
     ### freie Software
 
-    *﻿*{: .fa-brands .fa-osi} hat Code zu
+    *﻿*{: .fa-brands .fa-osi} Code zu
     [Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed), [FastAPI](https://github.com/fastapi-users/fastapi-users/pulls?q=is%3Apr+author%3Aaugusto-herrmann+is%3Aclosed+),
     [Frictionless Data](https://github.com/frictionlessdata/framework/pulls?q=is%3Aclosed+is%3Apr+author%3Aaugusto-herrmann),
     [FastETL](https://github.com/economiagovbr/FastETL/pulls?q=is%3Apr+author%3Aaugusto-herrmann+)
-    und vielen anderen beigetragen.
+    und vielen anderen hat er beigetragen
 
     ### maschinelles Lernen
 
     *﻿*{: .fa-solid .fa-robot}
-    [M.Sc. in Wissensmanagement und Informationstechnologie](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
-    untersuchte natürliche Sprachverarbeitungs- und maschinelle
-    Lerntechniken, um automatisch Glossare auf der Grundlage vorhandener
-    Definitionen in rechtlichen Texten zu erstellen.
+    Sein Master-Abschluss ist in Wissensmanagement und Informationstechnologie.
+    In seiner
+    [Abschlussarbeit]](https://bdtd.ucb.br:8443/jspui/handle/123456789/1356)
+    untersuchte er Techniken der natürlichen Sprachverarbeitung und des
+    maschinellen Lernens, um automatisch Glossare auf Basis vorhandener
+    Definitionen in rechtlichen Texten zu erstellen
 ---
 
 {% include profiles.md %}
