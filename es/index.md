@@ -24,7 +24,7 @@ themes:
     posiciones en rankings internacionales
 
     *﻿*{: .fa-solid .fa-box-open} mantiene conjuntos de datos abiertos
-    ([tales como este](https://dados.gov.br/dados/conjuntos-dados/corridas-do-taxigov))
+    ([tales como este](https://dados.gov.br/dados/conjuntos-dados/sistema-de-transportes-de-servidores-publicos---taxigov-v2))
     actualizados diariamente usando procesos automatizados de ETL usando
     un *stack* de software que incluye SQL, Python y Apache Airflow
   - |
