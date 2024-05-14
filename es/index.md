@@ -129,6 +129,7 @@ Para más entradas, por favor vea [el blog](blog).
   [Skills and Competencies for enabling Open Data in public administration](https://herrmann.tech/slide-decks/2024/04/skills-and-competencies-for-enabling-open-data)
   (en inglés, pero con traducción al Español) - Llamada mensal del
   [Grupo de Trabajo de Implementación del Open Data Charter](https://opendatacharter.org/iwg/)
+  ([grabación](https://www.youtube.com/watch?v=XrRUQI595KM))
 * 🇧🇷 Brasília (Online), 8/3/2024 -- [Open Data Day](https://opendataday.org/)
   2024:
   [Open Datasets SEGES 2024](https://economiagovbr.github.io/opendataday2024/)

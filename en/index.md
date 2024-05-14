@@ -134,6 +134,7 @@ For more posts, please see [the blog](blog).
   -
   [Open Data Charter Implementation Working Group](https://opendatacharter.org/iwg/)
   Monthly Call
+  ([recording](https://www.youtube.com/watch?v=XrRUQI595KM))
 * 🇧🇷 Brasília (Online), 8/3/2024 -- [Open Data Day](https://opendataday.org/)
   2024:
   [Open Datasets SEGES 2024](https://economiagovbr.github.io/opendataday2024/)
