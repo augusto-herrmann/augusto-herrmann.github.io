@@ -15,20 +15,21 @@ themes:
   - |
     ### Open Data
     
-    *﻿*{: .fa-solid .fa-box-open} Seit 2009 ein begeisterter Open
-    Data-Anwender, konzipierte und implementierte er die
-    [Brasilianische Bundesregierung Open Data Politik](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
-    von Grund auf im Jahr 2010 bis zur
+    *﻿*{: .fa-solid .fa-box-open} Seit 2009 ist er ein begeisterter
+    Anwender von Open Data. In dieser Zeit konzipierte und implementierte er die
+    [Open Data-Politik der brasilianischen Bundesregierung](https://web.archive.org/web/20181231213321/https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx),
+    die er von Grund auf im Jahr 2010 aufbaute. Dadurch konnte die Politik
+    bis zur
     [8.](https://web.archive.org/web/20220807121702/https://index.okfn.org/place/br/)
     und
     [14.](https://opendatabarometer.org/country-detail/?_year=2017&indicator=ODB&detail=BRA)
-    Position in internationalen Rankings 
+    Position in internationalen Rankings aufsteigen
 
-    *﻿*{: .fa-solid .fa-box-open} Pflegt Open-Datenbasen (wie z.B.
+    *﻿*{: .fa-solid .fa-box-open} Er pflegt Open-Datenbanken, wie beispielsweise
     [dieses hier](https://dados.gov.br/dados/conjuntos-dados/corridas-do-taxigov)),
-    die täglich mit automatisierten ETL Prozessen mit einer Software
-    Stack, einschließlich SQL, Python und Apache Airflow, aktualisiert
-    werden
+    die täglich mithilfe automatisierter ETL-Prozessen (Extract, Transform,
+    Load) aktualisiert werden. Dafür nutzt er einen Software-Stack, der SQL,
+    Python und Apache umfasst
   - |
     ### Open Government und Bürgerbeteiligung
     
