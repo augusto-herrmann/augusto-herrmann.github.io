@@ -10,7 +10,7 @@ category: [de]
 desc: >-
   Erstellen von öffentlichem Wert aus Daten. Professionelle Informationen
   über Augusto Herrmann und Schreiben über Technologie und andere Themen.
-themes_heading: Betreffe
+themes_heading: Themen
 themes:
   - |
     ### Open Data
