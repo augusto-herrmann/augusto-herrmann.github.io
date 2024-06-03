@@ -33,7 +33,7 @@ muito traduzir em código executável os algoritmos abstratos dos livros.
 Nós usamos muitos livros sobre teoria dos números e criptografia, mas
 aquele ao qual recorríamos com mais frequência era o "Manual de
 Criptografia Aplicada" (*"Handbook of Applied Cryptography"*), de
-Menezes Oorschot e Vanstone, muitas vezes abreviado para "HAC". Muitos
+Menezes, Oorschot e Vanstone, muitas vezes abreviado para "HAC". Muitos
 dos algoritmos que implementamos no curso são descritos nesse livro.
 
 O estado do Python era bastante diferente na época, pois a linguagem
