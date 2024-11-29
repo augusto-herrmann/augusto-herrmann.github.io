@@ -125,6 +125,9 @@ Para más entradas, por favor vea [el blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2024
 
+* 🇧🇷 Brasília, 4/12/2024 --
+  [Entendiendo las enmiendas: cómo utilizar datos abiertos de TransfereGov](https://atividades.americaaberta.org/2024/talk/WLJZAC/)
+  – [América Abierta: Conexión sin Fronteras](https://americaaberta.org/es/home-es/) (Condatos)
 * 🌐 Online, 23/4/2024 --
   [Skills and Competencies for enabling Open Data in public administration](https://herrmann.tech/slide-decks/2024/04/skills-and-competencies-for-enabling-open-data)
   (en inglés, pero con traducción al Español) - Llamada mensal del

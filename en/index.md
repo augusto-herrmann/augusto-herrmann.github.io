@@ -129,6 +129,9 @@ For more posts, please see [the blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2024
 
+* 🇧🇷 Brasília, 4/12/2024 --
+  [Understanding Amendments: how to use TransfereGov open data](https://atividades.americaaberta.org/2024/talk/WLJZAC/)
+  – [Open America: Connection without Borders](https://americaaberta.org/en/home/) (Condatos)
 * 🌐 Online, 23/4/2024 --
   [Skills and Competencies for enabling Open Data in public administration](https://herrmann.tech/slide-decks/2024/04/skills-and-competencies-for-enabling-open-data)
   -

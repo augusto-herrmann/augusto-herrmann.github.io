@@ -126,9 +126,12 @@ Para mais postagens, por favor veja [o blog](blog).
 
 ### *﻿*{: .far .fa-calendar-alt} 2024
 
+* 🇧🇷 Brasília, 4/12/2024 --
+  [Entendendo as Emendas: como usar dados abertos do TransfereGov](https://atividades.americaaberta.org/2024/talk/WLJZAC/)
+  – [América Aberta: Conexão sem Fronteiras](https://americaaberta.org/) (Condatos)
 * 🌐 Online, 23/4/2024 --
   [Skills and Competencies for enabling Open Data in public administration](https://herrmann.tech/slide-decks/2024/04/skills-and-competencies-for-enabling-open-data)
-  (em inglês) - Chamada mensal do
+  (em inglês) – Chamada mensal do
   [Grupo de Trabalho de Implementação do Open Data Charter](https://opendatacharter.org/iwg/)
   ([gravação](https://www.youtube.com/watch?v=XrRUQI595KM))
 * 🇧🇷 Brasília (Online), 8/3/2024 -- [Open Data Day](https://opendataday.org/)
