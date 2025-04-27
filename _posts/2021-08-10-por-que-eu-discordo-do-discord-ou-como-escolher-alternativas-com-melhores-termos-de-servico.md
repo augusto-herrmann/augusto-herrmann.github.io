@@ -367,7 +367,7 @@ Além do ToS;DR, há também outras fontes que fornecem listas curadas que
 podem lhe ajudar a descobrir e escolher serviços que lhe respeitam e
 respeitam a sua privacidade. Alguns dos sites que eu gosto de usar são o
 [privacytools.io](https://www.privacytools.io/) (que tem a sua versão em
-português, o [privacidade.digital](https://www.privacidade.digital/) e o
+português, o [privacidade.digital](https://www.privacidade.digital/)) e o
 [switching.software](https://switching.software/).
 
 O Discord tem termos de serviço e políticas de privacidade que, segundo
