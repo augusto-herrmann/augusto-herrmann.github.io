@@ -7,7 +7,7 @@ author: Augusto Herrmann
 lang: pt
 ref: 2025-04-27-agreeing-under-coercion-is-not-consent-how-the-state-does-contribute-to-subjugate-us-to-big-tech
 category: [pt, blog]
-tags: [dados pessoais, big tech, termos de serviço, aplicativos]
+tags: [dados pessoais, big tech, zero rating, termos de serviço, aplicativos]
 cover: /assets/images/2025/04/cytonn-photography-GJao3ZTX9gU-unsplash.jpg
 snippet-image: /assets/images/2025/04/cytonn-photography-GJao3ZTX9gU-unsplash.jpg
 desc: >-
@@ -54,10 +54,10 @@ somente os seus aplicativos da franquia da internet móvel, em detrimento
 dos demais. No Brasil, os planos de internet móvel possuem limitações de
 volume de tráfego de dados. Se a pessoa usar qualquer outro aplicativo de
 mensagens, como o Signal ou Element, vai logo gastar o seu limite. Por
-outro lado, se usar o WhatsApp, não gasta nada. É exatamente esse
-desequilíbrio de mercado que levou à dominância desse aplicativo no
-Brasil, onde quase 100% das pessoas usam e cria-se uma expectativa social
-e comercial de que todo mundo precisa usá-lo.
+outro lado, se usar o WhatsApp, não gasta nada. É o chamado *zero-rating*.
+É exatamente esse desequilíbrio de mercado que levou à dominância desse
+aplicativo no Brasil, onde quase 100% das pessoas usam e cria-se uma
+expectativa social e comercial de que todo mundo precisa usá-lo.
 
 Essa distorção de mercado chegou a ser avaliada entre 2015 e 2018 pelo
 [Conselho Administrativo de Defesa Econômica – CADE](https://www.gov.br/cade/pt-br),

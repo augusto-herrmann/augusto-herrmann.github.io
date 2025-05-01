@@ -7,7 +7,7 @@ author: Augusto Herrmann
 lang: de
 ref: 2025-04-27-agreeing-under-coercion-is-not-consent-how-the-state-does-contribute-to-subjugate-us-to-big-tech
 category: [de, blog]
-tags: [personenbezogene Daten, Big Tech, Nutzungsbedingungen, Apps]
+tags: [personenbezogene Daten, Big Tech, Zero-rating, Nutzungsbedingungen, Apps]
 cover: /assets/images/2025/04/cytonn-photography-GJao3ZTX9gU-unsplash.jpg
 snippet-image: /assets/images/2025/04/cytonn-photography-GJao3ZTX9gU-unsplash.jpg
 desc: >-
@@ -58,10 +58,11 @@ auszunehmen, zum Nachteil anderer Apps. In Brasilien haben mobile
 Internetpläne Datenverkehrsvolumenbegrenzungen. Wenn eine Person eine
 andere Messaging-App wie Signal oder Element nutzt, wird sie schnell ihre
 Begrenzung erreichen. Andererseits, wenn sie WhatsApp nutzt, wird sie
-nichts ausgeben. Die Marktdistorsion hat WhatsApp in Brasilien zum
-Marktführer gemacht, mit einer Nutzerquote von fast 100%. Dies hat
-wiederum zu einer Erwartung geführt, dass die Nutzung von WhatsApp in
-sozialen und kommerziellen Kontexten erforderlich ist.
+nichts ausgeben. Das ist das sogenannte *Zero-rating*. Die
+Marktdistorsion hat WhatsApp in Brasilien zum Marktführer gemacht, mit
+einer Nutzerquote von fast 100%. Dies hat wiederum zu einer Erwartung
+geführt, dass die Nutzung von WhatsApp in sozialen und kommerziellen
+Kontexten erforderlich ist.
 
 Zwischen 2015 und 2018 untersuchte der
 [Conselho Administrativo de Defesa Econômica – CADE](https://www.gov.br/cade/pt-br)

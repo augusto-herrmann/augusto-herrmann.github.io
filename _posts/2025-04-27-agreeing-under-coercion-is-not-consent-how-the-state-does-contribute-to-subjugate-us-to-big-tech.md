@@ -7,7 +7,7 @@ author: Augusto Herrmann
 lang: en
 ref: 2025-04-27-agreeing-under-coercion-is-not-consent-how-the-state-does-contribute-to-subjugate-us-to-big-tech
 category: [en, blog]
-tags: [personal data, big tech, terms of service, apps]
+tags: [personal data, big tech, zero rating, terms of service, apps]
 cover: /assets/images/2025/04/cytonn-photography-GJao3ZTX9gU-unsplash.jpg
 snippet-image: /assets/images/2025/04/cytonn-photography-GJao3ZTX9gU-unsplash.jpg
 desc: >-
@@ -54,10 +54,10 @@ limitations, to the detriment of other apps. In Brazil, mobile internet
 plans have data traffic volume limitations. If a person uses any other
 messaging app, such as Signal or Element, they will quickly exhaust their
 limit. On the other hand, if they use WhatsApp, they won't spend
-anything. It is exactly this market imbalance that has led to the
-dominance of this app in Brazil, where almost 100% of people use it.
-This creates an expectation in social and commercial relationships that
-everyone needs to use it.
+anything. That's the so-called zero-rating. It is exactly this market
+imbalance that has led to the dominance of this app in Brazil, where
+almost 100% of people use it. This creates an expectation in social and
+commercial relationships that everyone needs to use it.
 
 This market distortion was evaluated between 2015 and 2018 by the
 [Conselho Administrativo de Defesa Econômica – CADE](https://www.gov.br/cade/pt-br),
