@@ -81,7 +81,7 @@ que as "*Big Tech*" desejem nos impor.
 <figcaption>Aplicativos que não são subsidiados pelo oligopólio gastam a franquia de internet. Imagem: Lana Codes / Unsplash</figcaption>
 </figure>
 
-O pior tido de armadilha, no entanto, é quando o próprio Estado
+O pior tipo de armadilha, no entanto, é quando o próprio Estado
 estabelece obrigações, ou impõe condições para o recebimento de direitos,
 a não ser que o cidadão utilize determinado aplicativo ou rede social das
 "*Big Tech*". Hoje vivemos a trágica situação em que todos os aplicativos
