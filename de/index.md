@@ -261,7 +261,7 @@ Für weitere Beiträge, sehe bitte [den Blog](blog).
   (auf Englisch)
 * 🇧🇷 Florianópolis, 29/8/2018 -- Interoperabilitätsplattformen und
   Open-Data-Politiken (auf Portugiesisch) --
-  [II. Internationaler Kongress für öffentliche Leistungen](http://cidesp.com.br/index.php/Icidesp/index/pages/view/2cidesp-programacao)
+  [II. Internationaler Kongress für öffentliche Leistungen](https://web.archive.org/web/20181221235945/http://cidesp.com.br/index.php/Icidesp/index/pages/view/2cidesp-programacao)
 * 🇧🇷 Salvador, 19/7/2018 --
   [Erweiterungskurs zur Erstellung von Open-Data-Plänen](http://www.adm.ufba.br/pt-br/noticia/curso-extensao-plano-dados-abertos)
   (auf Portugiesisch) -- UFBA

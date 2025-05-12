@@ -236,7 +236,7 @@ Para más entradas, por favor vea [el blog](blog).
   (en inglés)
 * 🇧🇷 Florianópolis, 29/8/2018 -- Plataformas de interoperabilidad y políticas
   de datos abiertos --
-  [II Congreso Internacional de Rendimiento del Sector Publico](http://cidesp.com.br/index.php/Icidesp/index/pages/view/2cidesp-programacao)
+  [II Congreso Internacional de Rendimiento del Sector Publico](https://web.archive.org/web/20181221235945/http://cidesp.com.br/index.php/Icidesp/index/pages/view/2cidesp-programacao)
 * 🇧🇷 Salvador, 19/7/2018 --
   [Curso de Extensión para la Elaboración de Planes de Datos Abiertos](http://www.adm.ufba.br/pt-br/noticia/curso-extensao-plano-dados-abertos)
   -- UFBA

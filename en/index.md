@@ -242,7 +242,7 @@ opportunities to advance in fighting corruption (in Portuguese) --
   ([participation](https://youtu.be/3fPfl7ZBWl8?t=4915))
 * 🇧🇷 Florianópolis, 29/8/2018 -- Interoperability platforms and open data
   policies (in Portuguese) --
-  [II International Congress on the Public Sector Performance](http://cidesp.com.br/index.php/Icidesp/index/pages/view/2cidesp-programacao)
+  [II International Congress on the Public Sector Performance](https://web.archive.org/web/20181221235945/http://cidesp.com.br/index.php/Icidesp/index/pages/view/2cidesp-programacao)
 * 🇧🇷 Salvador, 19/7/2018 --
   [Extension Course for Crafting Open Data Plans](http://www.adm.ufba.br/pt-br/noticia/curso-extensao-plano-dados-abertos)
   (in Portuguese) -- UFBA
