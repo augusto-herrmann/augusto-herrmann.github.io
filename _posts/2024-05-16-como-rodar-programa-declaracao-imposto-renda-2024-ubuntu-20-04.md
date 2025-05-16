@@ -159,7 +159,7 @@ reinstalá-lo novamente.
 ## Conclusão
 
 O ideal seria que a RFB disponibilizasse uma imagem Docker ou pacote
-Span para o programa de declaração anual de IRPF. Assim, o programa
+Snap para o programa de declaração anual de IRPF. Assim, o programa
 ficaria completamente isolado do resto do sistema.
 
 Com algum esforço, creio que seja possível configurar um `Dockerfile` e
