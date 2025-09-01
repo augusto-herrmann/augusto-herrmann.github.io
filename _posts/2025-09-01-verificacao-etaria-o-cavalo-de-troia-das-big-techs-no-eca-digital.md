@@ -1,25 +1,25 @@
 ---
 layout: post
 title: >-
-  Verificação etária: o cavalo de troia das Big Techs no “ECA Digital”
+  Verificação etária: o cavalo de troia das Big Techs na “Lei Felca”
 author: Augusto Herrmann
 lang: pt
 ref: 2025-09-01-age-verification-big-techs-trojan-horse-in-brazils-child-online-safety-act
 category: [pt, blog]
-tags: [big tech, verificação etária, eca digital, proteção de dados]
+tags: [big tech, verificação etária, lei felca, eca digital, proteção de dados]
 cover: /assets/images/2025/09/zeki-okur-UqKFu12hpfE-unsplash.jpg
 snippet-image: /assets/images/2025/09/zeki-okur-UqKFu12hpfE-unsplash.jpg
 desc: ->
   Em agosto de 2025, o Congresso Nacional aprovou, às pressas, após
   denúncia de um influenciador, um novo projeto de lei, apelidado de
-  "ECA Digital". A proposta original do PL 2.628/2022 havia sido
-  amplamente debatida, mas as modificações repentinas da Câmara passaram
-  sem o devido escrutínio. Muitos não ficaram sabendo da introdução da
-  obrigatoriedade de verificação etária em lojas de aplicativos e
-  sistemas operacionais. Alguns defensores do software livre argumentam
-  que isso inviabiliza alternativas comunitárias às soluções das Big
-  Tech, como sistemas baseados em Linux e derivados do Android. Além
-  disso, o provável aumento da coleta de dados sensíveis por parte
+  "Lei Felca", ou ainda "ECA Digital". A proposta original do PL 2.628/2022
+  havia sido   amplamente debatida, mas as modificações repentinas da
+  Câmara passaram   sem o devido escrutínio. Muitos não ficaram sabendo
+  da introdução da obrigatoriedade de verificação etária em lojas de
+  aplicativos e sistemas operacionais. Alguns defensores do software livre
+  argumentam que isso inviabiliza alternativas comunitárias às soluções
+  das Big Tech, como sistemas baseados em Linux e derivados do Android.
+  Além disso, o provável aumento da coleta de dados sensíveis por parte
   dessas empresas para fins de verificação etária causa preocupação.
 image-credits: Zeki Okur / Unsplash
 ---
@@ -469,7 +469,10 @@ questão passou bem por baixo do radar da sociedade.
 Só tomei conhecimento de que existia mesmo a obrigação e que ela se
 aplicaria a sistemas operacionais quando vi um print de uma postagem do
 August Resende, questionando a possibilidade de proibição do Linux em
-razão da lei. Foi então que foi atrás de ler o texto aprovado para saber.
+razão da lei. Foi então que me atentei para as
+[discussões](https://www.tabnews.com.br/PauloSampaio/fim-do-linux-no-brasil-o-que-o-pl-2-628-2022-a-tal-lei-felca-eca-digital-realmente-diz-e-por-que-a-comunidade-esta-em-polvorosa)
+que estavam acontecendo no mundo do software livre e fui atrás de ler o
+texto aprovado para saber exatamente do que se trata a lei aprovada.
 
 Como já discutido anteriormente, o texto aprovado parece claro no sentido
 de que a obrigação de fazer verificação etária se aplica, sim, aos
