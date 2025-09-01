@@ -43,13 +43,33 @@ Wikipédia:
 
 Não há dúvida de que as Big Techs estavam obtendo lucro com a omissão
 diante da exploração de menores. E, ironicamente, lucram também com o
-vídeo da denúncia, pois teve tantos milhões de visualizações. É certo,
-também, que algo precisava ser feito, em especial medidas protetivas
-bastante direcionadas pela legislação a essas plataformas. Contudo, as
-medidas adotadas tiveram um alcance muito além das plataformas,
-potencialmente atingindo, como veremos, também seus concorrentes
-voluntários e sem fins lucrativos, que não têm condições de
-implementá-las.
+vídeo da denúncia, pois teve tantos milhões de visualizações. Enquanto
+somente o primeiro é moralmente abjeto, ambos enriqueceram a plataforma.
+
+O Brasil já possui, há muitos anos, legislação robusta para penalizar
+quem viola os diretos de menores – o
+[Estatuto da Criança e do Adolescente](https://pt.wikipedia.org/wiki/Estatuto_da_Crian%C3%A7a_e_do_Adolescente)
+(abreviado como "ECA", daí o outro apelido "ECA Digital"), já tem 35 anos
+de vigência. Tanto é que o influenciador acusado de promover vídeos com
+adolescentes em situações sexualizantes foi preso e está sendo
+investigado pela polícia.
+
+Faltava, apenas, uma forma de responsabilizar as plataformas que criam
+perfilamento de menores e usam seus algoritmos para colocá-las em situação
+de perigo, como denunciado pelo Felca. Para isso, a legislação atual não
+era suficiente.
+
+É certo que algo precisava ser feito, em especial medidas protetivas às
+crianças e adolescentes, direcionadas à operação dessas plataformas. O
+Presidente da Câmara Hugo Motta poderia ter desarquivado o
+[PL 2.630/2020](https://pt.wikipedia.org/wiki/Projeto_de_Lei_2630/2020),
+que pretendia regulamentar as gigantes de tecnologia estrangeiras, mas
+foi engavetado por seu antecessor, Arthur Lira. Todavia, uma considerável
+parte dos parlamentares são hoje um braço das Big Tech no Congresso e não
+permitiriam isso.
+
+Em vez disso, começaram a aparecer outros projetos de lei, surfando na
+onda da comoção social provocada pela denúncia.
 
 
 ## A pressão e a pressa por nova legislação
@@ -67,12 +87,12 @@ lei.
 Entretanto, os deputados decidiram alterar o texto. As alterações foram
 feitas a toque de caixa e sem discussão com a sociedade e as partes afetadas.
 É aí que mora o perigo da atuação de lobbies ocultos de interesses
-específicos, inclusive e principalmente a favor das Big Techs. O lobby
-que elas fazem no Congresso Nacional é bastante conhecido, tendo como
-exemplo mais recente
-[o engavetamento do PL 2630 pelo presidente da Câmara dos Deputados em 2024](https://www.estadao.com.br/politica/pl-fake-news-continua-engavetado-na-camara-nprp/),
-projeto esse que pretendia regulamentar as gigantes de tecnologia
-estrangeiras.
+específicos, inclusive e principalmente a favor das Big Techs.
+
+De fato, as medidas adotadas tiveram um alcance muito além das
+plataformas, potencialmente atingindo, como veremos, também os seus
+concorrentes produzidos por voluntários e sem fins lucrativos, que têm
+condições muito limitadas ou mesmo nenhuma condição de implementá-las.
 
 
 ## Alterações apressadas feitas pela Câmara e seus efeitos
@@ -306,8 +326,15 @@ hipótese de enquadramento mais provável parece ser o inciso II:
 Basta ser de fácil acesso e uso para se enquadrar. Por exemplo, um
 simples aplicativo de calculadora, por ser fácil de se usar e acessar
 por qualquer pessoa, teria o ônus de ter que implementar as medidas
-técnicas, mesmo não fazendo sentido em razão do seu conteúdo, considerando
-o efeito pretendido da lei.
+técnicas, mesmo não fazendo sentido em razão do seu conteúdo – não ter
+qualquer conteúdo inadequado para nenhuma faixa etária.
+
+A Wikipédia também é de fácil acesso e uso, embora alguns verbetes mais
+densos ou técnicos sejam, pela natureza do assunto, de difícil compreensão
+até para adultos. A Wikipédia seria, então, um produto de "acesso
+provável"? Ela se sustenta apenas por meio de doações. Será que
+continuaria sendo sustentável, diante do aumento de custo, mantendo-se o
+mesmo montante de doações?
 
 As redes sociais, com a mesma definição e os mesmos problemas do texto
 anterior, permaneceram como alvo. Assim como os sites com mais de um
@@ -540,7 +567,25 @@ interesses. Esse setor é, também, um grande beneficiado financeiro desse
 movimento.
 
 
-## Mobilização pelo veto parcial
+## Proteção insuficiente à infância e à adolescência
+
+Para um projeto de lei que pretendia, ao menos nominalmente, proteger
+crianças e adolescentes na internet, é possível afirmar que ele falhou
+nesse objetivo em diversos usos da tecnologia que são frequentes na
+sociedade e causam grande dano a essas pessoas.
+
+Por exemplo, o uso de inteligência artificial generativa para gerar deep
+fakes com fotos das pessoas em situações constrangedoras. Ou, ainda, chat
+bots com modelos de linguagem que incentivem ou estimulem comportamentos
+autodestrutivos.
+
+Esses tipos de abusos não são abordados nem mesmo no
+[PL 2.338/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/157233),
+aprovado pelo Senado em 2023 e remetido à Câmara dos Deputados, apelidado de
+"[Marco Regulatório da IA](https://www.gov.br/cultura/pt-br/assuntos/noticias/senado-federal-aprova-marco-regulatorio-da-inteligencia-artificial)".
+
+
+## Mobilização  pelo veto parcial
 
 Com a nova aprovação no Senado, o texto segue para a sanção presidencial.
 Não há mais a possibilidade de modificar o texto para a inclusão de
