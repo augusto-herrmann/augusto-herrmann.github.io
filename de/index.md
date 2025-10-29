@@ -357,6 +357,7 @@ Für weitere Beiträge, sehe bitte [den Blog](blog).
   [eine englische Version ist verfügbar](https://www.slideshare.net/AugustoHerrmannBatis/ckan-overview))
   --
   [Kongress Linked Open Data Brasilien](https://noticias.ufsc.br/2014/11/ufsc-recebe-congresso-brasileiro-linked-open-data-de-19-a-21-de-novembro/)
+* 🇧🇷 Brasília, 25/6/2014 -- [Dialog über Open Data-Politik in der öffentlichen Verwaltung](https://cg.df.gov.br/w/abertura-dos-dados-publicos-exige-participacao-dos-gestores-e-da-sociedade)
 * 🇧🇷 Brasília, 22/11/2013 -- Workshop: Lizenzierung von Open Data (auf
   Portugiesisch) --
   [II Nationaler Treff zum Open Data](http://wiki.dados.gov.br/II-Encontro-Nacional-de-Dados-Abertos.ashx)
